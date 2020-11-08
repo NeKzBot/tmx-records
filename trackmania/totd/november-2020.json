@@ -2638,7 +2638,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                        "id": "aa57691a-dbde-4b5f-97e4-52bcf02156cf",
                         "zone": [
                             {
                                 "name": "World",
@@ -2651,27 +2651,22 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "France",
+                                "name": "Poland",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Bretagne",
-                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Morbihan",
-                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Mazowieckie",
+                                "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "302218ec-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Gwen_TM"
+                        "name": "FrevTM"
                     },
-                    "score": 33880,
-                    "delta": 608,
-                    "date": "2020-11-08T18:50:39+00:00",
-                    "replay": "2bce3496-ae33-47c3-a15a-0a227d28101e",
+                    "score": 33753,
+                    "delta": 127,
+                    "date": "2020-11-08T21:26:52+00:00",
+                    "replay": "eb208833-216f-45ad-a706-f014ac94f73d",
                     "duration": 0
                 }
             ],
@@ -2752,13 +2747,46 @@
                     "date": "2020-11-08T18:50:39+00:00",
                     "replay": "2bce3496-ae33-47c3-a15a-0a227d28101e",
                     "duration": 0
+                },
+                {
+                    "user": {
+                        "id": "aa57691a-dbde-4b5f-97e4-52bcf02156cf",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Poland",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Mazowieckie",
+                                "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "302218ec-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "FrevTM"
+                    },
+                    "score": 33753,
+                    "delta": 127,
+                    "date": "2020-11-08T21:26:52+00:00",
+                    "replay": "eb208833-216f-45ad-a706-f014ac94f73d",
+                    "duration": 0
                 }
             ],
             "thumbnail": "06ce5d80-44ab-48db-ba06-7ee3937b3748"
         }
     ],
     "stats": {
-        "totalTime": 361709
+        "totalTime": 361582
     },
     "leaderboard": [
         {
@@ -2963,7 +2991,7 @@
         },
         {
             "user": {
-                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                "id": "aa57691a-dbde-4b5f-97e4-52bcf02156cf",
                 "zone": [
                     {
                         "name": "World",
@@ -2976,22 +3004,17 @@
                         "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "France",
+                        "name": "Poland",
                         "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Morbihan",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Mazowieckie",
+                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302218ec-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "Gwen_TM"
+                "name": "FrevTM"
             },
             "wrs": 1,
             "duration": 0
@@ -3054,6 +3077,26 @@
                     "name": "Uganda",
                     "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 9
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Poland",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 9
@@ -3422,6 +3465,36 @@
         },
         {
             "user": {
+                "id": "aa57691a-dbde-4b5f-97e4-52bcf02156cf",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Poland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Mazowieckie",
+                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302218ec-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "FrevTM"
+            },
+            "wrs": 2,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "2d4cba8b-3b77-45af-a635-5e4d6e61cfa2",
                 "zone": [
                     {
@@ -3797,36 +3870,6 @@
         },
         {
             "user": {
-                "id": "aa57691a-dbde-4b5f-97e4-52bcf02156cf",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Poland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Mazowieckie",
-                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302218ec-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "FrevTM"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "0c857beb-fd95-4449-a669-21fb310cacae",
                 "zone": [
                     {
@@ -3940,7 +3983,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 64
+            "wrs": 65
         },
         {
             "zone": [
@@ -3960,7 +4003,7 @@
                     "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 64
+            "wrs": 65
         },
         {
             "zone": [
@@ -3980,7 +4023,7 @@
                     "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 64
+            "wrs": 65
         },
         {
             "zone": [
@@ -4000,7 +4043,7 @@
                     "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 64
+            "wrs": 65
         },
         {
             "zone": [
@@ -4020,7 +4063,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 64
+            "wrs": 65
         },
         {
             "zone": [
@@ -4040,7 +4083,7 @@
                     "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 64
+            "wrs": 65
         },
         {
             "zone": [
@@ -4060,7 +4103,7 @@
                     "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 64
+            "wrs": 65
         },
         {
             "zone": [
@@ -4080,7 +4123,7 @@
                     "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 64
+            "wrs": 65
         },
         {
             "zone": [
@@ -4100,7 +4143,7 @@
                     "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 64
+            "wrs": 65
         },
         {
             "zone": [
@@ -4120,7 +4163,7 @@
                     "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 64
+            "wrs": 65
         }
     ],
     "uniqueLeaderboard": [
@@ -4247,6 +4290,35 @@
                     }
                 ],
                 "name": "BIG_MAN_TAXON"
+            },
+            "wrs": 2
+        },
+        {
+            "user": {
+                "id": "aa57691a-dbde-4b5f-97e4-52bcf02156cf",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Poland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Mazowieckie",
+                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302218ec-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "FrevTM"
             },
             "wrs": 2
         },
@@ -4771,35 +4843,6 @@
         },
         {
             "user": {
-                "id": "aa57691a-dbde-4b5f-97e4-52bcf02156cf",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Poland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Mazowieckie",
-                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302218ec-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "FrevTM"
-            },
-            "wrs": 1
-        },
-        {
-            "user": {
                 "id": "0c857beb-fd95-4449-a669-21fb310cacae",
                 "zone": [
                     {
@@ -4978,7 +5021,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 35
+            "wrs": 36
         },
         {
             "zone": [
@@ -4998,7 +5041,7 @@
                     "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 35
+            "wrs": 36
         },
         {
             "zone": [
@@ -5018,7 +5061,7 @@
                     "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 35
+            "wrs": 36
         },
         {
             "zone": [
@@ -5038,7 +5081,7 @@
                     "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 35
+            "wrs": 36
         },
         {
             "zone": [
@@ -5058,7 +5101,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 35
+            "wrs": 36
         },
         {
             "zone": [
@@ -5078,7 +5121,7 @@
                     "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 35
+            "wrs": 36
         },
         {
             "zone": [
@@ -5098,7 +5141,7 @@
                     "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 35
+            "wrs": 36
         },
         {
             "zone": [
@@ -5118,7 +5161,7 @@
                     "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 35
+            "wrs": 36
         },
         {
             "zone": [
@@ -5138,7 +5181,7 @@
                     "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 35
+            "wrs": 36
         },
         {
             "zone": [
@@ -5158,7 +5201,7 @@
                     "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 35
+            "wrs": 36
         }
     ]
 }
