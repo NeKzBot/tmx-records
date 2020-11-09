@@ -237,6 +237,31 @@
         },
         {
             "user": {
+                "id": "a198e640-779a-47c0-97b5-9d38a351e7fa",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Croatia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "tekky_TM"
+            },
+            "wrs": 4,
+            "duration": 15
+        },
+        {
+            "user": {
                 "id": "d46fb45d-d422-47c9-9785-67270a311e25",
                 "zone": [
                     {
@@ -512,31 +537,6 @@
         },
         {
             "user": {
-                "id": "a198e640-779a-47c0-97b5-9d38a351e7fa",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Croatia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "tekky_TM"
-            },
-            "wrs": 3,
-            "duration": 15
-        },
-        {
-            "user": {
                 "id": "b05db0f8-d845-47d2-b0e5-795717038ac6",
                 "zone": [
                     {
@@ -729,31 +729,6 @@
             },
             "wrs": 1,
             "duration": 2
-        },
-        {
-            "user": {
-                "id": "06a33ae1-7858-4b38-b7fe-373ded89c77d",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "South America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Guatemala",
-                        "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30204796-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Patojo."
-            },
-            "wrs": 1,
-            "duration": 0
         },
         {
             "user": {
@@ -1705,14 +1680,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "South America",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Guatemala",
-                    "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30204796-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Croatia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 135
@@ -1853,26 +1828,6 @@
                     "name": "Netherlands",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 135
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Croatia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 135
@@ -2591,6 +2546,31 @@
         },
         {
             "user": {
+                "id": "a198e640-779a-47c0-97b5-9d38a351e7fa",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Croatia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "tekky_TM"
+            },
+            "wrs": 11,
+            "duration": 15
+        },
+        {
+            "user": {
                 "id": "b52e0c98-387c-43eb-9acb-5c9b5e0f1286",
                 "zone": [
                     {
@@ -2623,31 +2603,6 @@
             },
             "wrs": 11,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "a198e640-779a-47c0-97b5-9d38a351e7fa",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Croatia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "tekky_TM"
-            },
-            "wrs": 10,
-            "duration": 15
         },
         {
             "user": {
@@ -6829,7 +6784,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -6849,7 +6804,7 @@
                     "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -6869,7 +6824,7 @@
                     "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -6889,7 +6844,7 @@
                     "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -6909,7 +6864,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -6929,7 +6884,7 @@
                     "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -6949,7 +6904,7 @@
                     "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -6969,7 +6924,7 @@
                     "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -6989,7 +6944,7 @@
                     "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7009,7 +6964,7 @@
                     "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7029,7 +6984,7 @@
                     "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7049,7 +7004,7 @@
                     "zoneId": "30204796-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7069,7 +7024,7 @@
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7089,7 +7044,7 @@
                     "zoneId": "301f5723-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7109,7 +7064,7 @@
                     "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7129,7 +7084,7 @@
                     "zoneId": "301f5eb6-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7149,7 +7104,7 @@
                     "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7169,7 +7124,7 @@
                     "zoneId": "30228671-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7189,7 +7144,7 @@
                     "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7209,7 +7164,7 @@
                     "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7229,7 +7184,7 @@
                     "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7249,7 +7204,7 @@
                     "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7269,7 +7224,7 @@
                     "zoneId": "30208dc1-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7289,7 +7244,7 @@
                     "zoneId": "3022427b-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7309,7 +7264,7 @@
                     "zoneId": "30209ed5-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7329,7 +7284,7 @@
                     "zoneId": "30225b07-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7349,7 +7304,7 @@
                     "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7369,7 +7324,7 @@
                     "zoneId": "30204b2f-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7389,7 +7344,7 @@
                     "zoneId": "302241e3-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         },
         {
             "zone": [
@@ -7409,7 +7364,7 @@
                     "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 781
+            "wrs": 782
         }
     ],
     "uniqueLeaderboard": [
@@ -7972,6 +7927,30 @@
         },
         {
             "user": {
+                "id": "a198e640-779a-47c0-97b5-9d38a351e7fa",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Croatia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "tekky_TM"
+            },
+            "wrs": 6
+        },
+        {
+            "user": {
                 "id": "de590c4e-f98c-4783-afa8-a01efb069ceb",
                 "zone": [
                     {
@@ -8030,30 +8009,6 @@
                     }
                 ],
                 "name": "eLconn21"
-            },
-            "wrs": 5
-        },
-        {
-            "user": {
-                "id": "a198e640-779a-47c0-97b5-9d38a351e7fa",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Croatia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "tekky_TM"
             },
             "wrs": 5
         },
@@ -12016,7 +11971,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12036,7 +11991,7 @@
                     "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12056,7 +12011,7 @@
                     "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12076,7 +12031,7 @@
                     "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12096,7 +12051,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12116,7 +12071,7 @@
                     "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12136,7 +12091,7 @@
                     "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12156,7 +12111,7 @@
                     "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12176,7 +12131,7 @@
                     "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12196,7 +12151,7 @@
                     "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12216,7 +12171,7 @@
                     "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12236,7 +12191,7 @@
                     "zoneId": "30204796-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12256,7 +12211,7 @@
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12276,7 +12231,7 @@
                     "zoneId": "301f5723-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12296,7 +12251,7 @@
                     "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12316,7 +12271,7 @@
                     "zoneId": "301f5eb6-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12336,7 +12291,7 @@
                     "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12356,7 +12311,7 @@
                     "zoneId": "30228671-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12376,7 +12331,7 @@
                     "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12396,7 +12351,7 @@
                     "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12416,7 +12371,7 @@
                     "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12436,7 +12391,7 @@
                     "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12456,7 +12411,7 @@
                     "zoneId": "30208dc1-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12476,7 +12431,7 @@
                     "zoneId": "3022427b-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12496,7 +12451,7 @@
                     "zoneId": "30209ed5-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12516,7 +12471,7 @@
                     "zoneId": "30225b07-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12536,7 +12491,7 @@
                     "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12556,7 +12511,7 @@
                     "zoneId": "30204b2f-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12576,7 +12531,7 @@
                     "zoneId": "302241e3-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         },
         {
             "zone": [
@@ -12596,7 +12551,7 @@
                     "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 440
+            "wrs": 441
         }
     ]
 }
