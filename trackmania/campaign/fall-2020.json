@@ -2113,44 +2113,6 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
-                        "zone": [
-                            {
-                                "name": "World",
-                                "parentId": null,
-                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Europe",
-                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Germany",
-                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Nordrhein-Westfalen",
-                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Dortmund",
-                                "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30201200-7e13-11e8-8060-e284abfd2bc4"
-                            }
-                        ],
-                        "name": "riolu-tm"
-                    },
-                    "score": 26230,
-                    "delta": 4,
-                    "date": "2020-11-01T22:56:54+00:00",
-                    "replay": "087242bf-c8d9-4ab6-9b0f-181f4870fe48",
-                    "duration": 9
-                },
-                {
-                    "user": {
                         "id": "cd5e5278-bf0e-47d4-911b-2a62c9f37a45",
                         "zone": [
                             {
@@ -2181,10 +2143,10 @@
                         ],
                         "name": "maxmad-46"
                     },
-                    "score": 26230,
-                    "delta": 0,
-                    "date": "2020-11-10T23:23:32+00:00",
-                    "replay": "7709af8d-e82e-4ad5-abd7-1fddf793bc0e",
+                    "score": 26193,
+                    "delta": 37,
+                    "date": "2020-11-11T00:19:10+00:00",
+                    "replay": "2482f83d-7d49-4081-9c93-704fb3d0fe76",
                     "duration": 0
                 }
             ],
@@ -2731,6 +2693,44 @@
                     "delta": 0,
                     "date": "2020-11-10T23:23:32+00:00",
                     "replay": "7709af8d-e82e-4ad5-abd7-1fddf793bc0e",
+                    "duration": 0
+                },
+                {
+                    "user": {
+                        "id": "cd5e5278-bf0e-47d4-911b-2a62c9f37a45",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Germany",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Bayern",
+                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "München",
+                                "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ffc28-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "maxmad-46"
+                    },
+                    "score": 26193,
+                    "delta": 37,
+                    "date": "2020-11-11T00:19:10+00:00",
+                    "replay": "2482f83d-7d49-4081-9c93-704fb3d0fe76",
                     "duration": 0
                 }
             ],
@@ -16374,7 +16374,7 @@
         }
     ],
     "stats": {
-        "totalTime": 925217
+        "totalTime": 925180
     },
     "leaderboard": [
         {
@@ -16409,8 +16409,8 @@
                 ],
                 "name": "riolu-tm"
             },
-            "wrs": 8,
-            "duration": 114
+            "wrs": 7,
+            "duration": 105
         },
         {
             "user": {
@@ -16742,7 +16742,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 11
+            "wrs": 10
         },
         {
             "zone": [
@@ -17173,36 +17173,6 @@
         },
         {
             "user": {
-                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oceania",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australia",
-                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australian Capital Territory",
-                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AR_Mudda"
-            },
-            "wrs": 8,
-            "duration": 18
-        },
-        {
-            "user": {
                 "id": "cd5e5278-bf0e-47d4-911b-2a62c9f37a45",
                 "zone": [
                     {
@@ -17233,8 +17203,38 @@
                 ],
                 "name": "maxmad-46"
             },
-            "wrs": 7,
+            "wrs": 8,
             "duration": 21
+        },
+        {
+            "user": {
+                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oceania",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australia",
+                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australian Capital Territory",
+                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_Mudda"
+            },
+            "wrs": 8,
+            "duration": 18
         },
         {
             "user": {
@@ -20016,7 +20016,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 80
+            "wrs": 81
         },
         {
             "zone": [
