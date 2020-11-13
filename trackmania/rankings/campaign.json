@@ -67,7 +67,7 @@
                 ],
                 "name": "MTP.hugo220"
             },
-            "wrs": 5,
+            "wrs": 6,
             "duration": 102
         },
         {
@@ -182,7 +182,7 @@
                 ],
                 "name": "Erizel"
             },
-            "wrs": 4,
+            "wrs": 3,
             "duration": 58
         },
         {
@@ -1280,7 +1280,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 21
+            "wrs": 22
         },
         {
             "zone": [
@@ -1301,26 +1301,6 @@
                 }
             ],
             "wrs": 17
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Norway",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 5
         },
         {
             "zone": [
@@ -1361,6 +1341,26 @@
                 }
             ],
             "wrs": 5
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Norway",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 4
         },
         {
             "zone": [
@@ -1646,6 +1646,41 @@
     "historyLeaderboard": [
         {
             "user": {
+                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Grand Est",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fa0c0-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bas-Rhin",
+                        "parentId": "301fa0c0-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fa363-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MTP.hugo220"
+            },
+            "wrs": 36,
+            "duration": 247
+        },
+        {
+            "user": {
                 "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
                 "zone": [
                     {
@@ -1703,41 +1738,6 @@
             },
             "wrs": 35,
             "duration": 115
-        },
-        {
-            "user": {
-                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Grand Est",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fa0c0-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bas-Rhin",
-                        "parentId": "301fa0c0-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fa363-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "MTP.hugo220"
-            },
-            "wrs": 35,
-            "duration": 247
         },
         {
             "user": {
@@ -5784,7 +5784,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 152
+            "wrs": 153
         },
         {
             "zone": [
