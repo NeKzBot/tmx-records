@@ -3424,7 +3424,7 @@
                     "delta": 149,
                     "date": "2020-11-11T17:50:41+00:00",
                     "replay": "0ee78c33-03f8-4bd3-ae50-093d354d0ca4",
-                    "duration": 1
+                    "duration": 2
                 }
             ],
             "isOfficial": false,
@@ -4423,10 +4423,60 @@
                 }
             ],
             "thumbnail": "a55fd071-eac5-4221-a311-c3321f5fa111"
+        },
+        {
+            "id": "dTkQkkkKOHX4i1qELh7eaN8lPg2",
+            "_id": "1988adef-07c7-4bd0-b7cd-14a6db59b3fc",
+            "season": "0b76e308-c9d7-49e7-83d3-a67955443e1c",
+            "name": "Uphill",
+            "monthDay": 13,
+            "wrs": [
+                {
+                    "user": {
+                        "id": "89fb8501-4b41-44d6-9ed2-243062820ccf",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Germany",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Rheinland-Pfalz",
+                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30201925-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Koblenz",
+                                "parentId": "30201925-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30201a3f-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "AR_transporter"
+                    },
+                    "score": 44890,
+                    "delta": 0,
+                    "date": "2020-11-13T18:01:03+00:00",
+                    "replay": "f76131ba-8dd8-4d83-87fe-16fb17770e11",
+                    "duration": 0
+                }
+            ],
+            "isOfficial": false,
+            "history": [],
+            "thumbnail": "00af9bc3-b260-4635-a55d-4289a094ad79"
         }
     ],
     "stats": {
-        "totalTime": 514418
+        "totalTime": 559308
     },
     "leaderboard": [
         {
@@ -4722,7 +4772,7 @@
                 "name": "AR_Down"
             },
             "wrs": 1,
-            "duration": 1
+            "duration": 2
         },
         {
             "user": {
@@ -4793,6 +4843,41 @@
             },
             "wrs": 1,
             "duration": 0
+        },
+        {
+            "user": {
+                "id": "89fb8501-4b41-44d6-9ed2-243062820ccf",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Rheinland-Pfalz",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30201925-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Koblenz",
+                        "parentId": "30201925-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30201a3f-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_transporter"
+            },
+            "wrs": 1,
+            "duration": 0
         }
     ],
     "countryLeaderboard": [
@@ -4829,12 +4914,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "United Kingdom",
+                    "name": "Germany",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 2
+            "wrs": 3
         },
         {
             "zone": [
@@ -4849,9 +4934,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Germany",
+                    "name": "United Kingdom",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
@@ -6347,6 +6432,41 @@
             },
             "wrs": 1,
             "duration": 0
+        },
+        {
+            "user": {
+                "id": "89fb8501-4b41-44d6-9ed2-243062820ccf",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Rheinland-Pfalz",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30201925-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Koblenz",
+                        "parentId": "30201925-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30201a3f-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_transporter"
+            },
+            "wrs": 1,
+            "duration": 0
         }
     ],
     "historyCountryLeaderboard": [
@@ -6388,7 +6508,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 21
+            "wrs": 22
         },
         {
             "zone": [
@@ -8096,6 +8216,40 @@
                 "name": "AffiTM"
             },
             "wrs": 1
+        },
+        {
+            "user": {
+                "id": "89fb8501-4b41-44d6-9ed2-243062820ccf",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Rheinland-Pfalz",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30201925-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Koblenz",
+                        "parentId": "30201925-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30201a3f-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_transporter"
+            },
+            "wrs": 1
         }
     ],
     "uniqueCountryLeaderboard": [
@@ -8137,7 +8291,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 13
+            "wrs": 14
         },
         {
             "zone": [
