@@ -202,6 +202,36 @@
         },
         {
             "user": {
+                "id": "aa57691a-dbde-4b5f-97e4-52bcf02156cf",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Poland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Mazowieckie",
+                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302218ec-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "FrevTM"
+            },
+            "wrs": 5,
+            "duration": 5
+        },
+        {
+            "user": {
                 "id": "a6ae76c9-9030-4a7b-b533-cacfd6e85cb2",
                 "zone": [
                     {
@@ -357,36 +387,6 @@
         },
         {
             "user": {
-                "id": "aa57691a-dbde-4b5f-97e4-52bcf02156cf",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Poland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Mazowieckie",
-                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302218ec-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "FrevTM"
-            },
-            "wrs": 4,
-            "duration": 5
-        },
-        {
-            "user": {
                 "id": "4d949246-4a71-46b0-b30d-43cbbf63d0f7",
                 "zone": [
                     {
@@ -443,7 +443,7 @@
                 "name": "PacTM"
             },
             "wrs": 3,
-            "duration": 7
+            "duration": 8
         },
         {
             "user": {
@@ -863,7 +863,7 @@
                 "name": "Gwen_TM"
             },
             "wrs": 1,
-            "duration": 3
+            "duration": 4
         },
         {
             "user": {
@@ -891,31 +891,6 @@
                     }
                 ],
                 "name": "Arieug0n"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "b203af9c-ea87-402e-a5d6-9a7df4ef9c5e",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norway",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "magga009"
             },
             "wrs": 1,
             "duration": 0
@@ -1795,7 +1770,7 @@
                     "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 18
+            "wrs": 19
         },
         {
             "zone": [
@@ -1850,12 +1825,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Norway",
+                    "name": "Czechia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 6
+            "wrs": 5
         },
         {
             "zone": [
@@ -1870,9 +1845,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Czechia",
+                    "name": "Norway",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 5
@@ -2631,7 +2606,7 @@
                 ],
                 "name": "FrevTM"
             },
-            "wrs": 13,
+            "wrs": 14,
             "duration": 0
         },
         {
@@ -7089,7 +7064,7 @@
                     "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 102
+            "wrs": 103
         },
         {
             "zone": [
