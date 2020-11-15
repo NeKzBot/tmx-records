@@ -4692,7 +4692,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+                        "id": "4d949246-4a71-46b0-b30d-43cbbf63d0f7",
                         "zone": [
                             {
                                 "name": "World",
@@ -4700,27 +4700,22 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Europe",
+                                "name": "Africa",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Poland",
-                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Dolnośląskie",
-                                "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3020ad48-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Uganda",
+                                "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "mime.."
+                        "name": "BIG_MAN_TAXON"
                     },
-                    "score": 89005,
-                    "delta": 222,
-                    "date": "2020-11-15T00:28:40+00:00",
-                    "replay": "b8e5bbcc-c715-4b27-ae52-c1af0f5d92f3",
+                    "score": 88530,
+                    "delta": 475,
+                    "date": "2020-11-15T01:08:06+00:00",
+                    "replay": "2328bd31-9e7f-485b-b036-43739f2205b9",
                     "duration": 0
                 }
             ],
@@ -4885,13 +4880,41 @@
                     "date": "2020-11-15T00:28:40+00:00",
                     "replay": "b8e5bbcc-c715-4b27-ae52-c1af0f5d92f3",
                     "duration": 0
+                },
+                {
+                    "user": {
+                        "id": "4d949246-4a71-46b0-b30d-43cbbf63d0f7",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Africa",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Uganda",
+                                "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "BIG_MAN_TAXON"
+                    },
+                    "score": 88530,
+                    "delta": 475,
+                    "date": "2020-11-15T01:08:06+00:00",
+                    "replay": "2328bd31-9e7f-485b-b036-43739f2205b9",
+                    "duration": 0
                 }
             ],
             "thumbnail": "b9250c21-40ee-497e-8693-c0b704cb947b"
         }
     ],
     "stats": {
-        "totalTime": 644681
+        "totalTime": 644206
     },
     "leaderboard": [
         {
@@ -4931,6 +4954,31 @@
         },
         {
             "user": {
+                "id": "4d949246-4a71-46b0-b30d-43cbbf63d0f7",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Africa",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Uganda",
+                        "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "BIG_MAN_TAXON"
+            },
+            "wrs": 2,
+            "duration": 8
+        },
+        {
+            "user": {
                 "id": "3d9abe15-e802-48d4-893d-b19a8bcbba12",
                 "zone": [
                     {
@@ -4963,31 +5011,6 @@
             },
             "wrs": 1,
             "duration": 9
-        },
-        {
-            "user": {
-                "id": "4d949246-4a71-46b0-b30d-43cbbf63d0f7",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Africa",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Uganda",
-                        "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "BIG_MAN_TAXON"
-            },
-            "wrs": 1,
-            "duration": 8
         },
         {
             "user": {
@@ -5288,36 +5311,6 @@
             },
             "wrs": 1,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Poland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Dolnośląskie",
-                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020ad48-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "mime.."
-            },
-            "wrs": 1,
-            "duration": 0
         }
     ],
     "countryLeaderboard": [
@@ -5369,14 +5362,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "Africa",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Germany",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Uganda",
+                    "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
@@ -5389,17 +5382,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Africa",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Uganda",
-                    "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Germany",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 1
+            "wrs": 2
         },
         {
             "zone": [
@@ -5437,26 +5430,6 @@
                     "name": "Switzerland",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Poland",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -5655,6 +5628,31 @@
         },
         {
             "user": {
+                "id": "4d949246-4a71-46b0-b30d-43cbbf63d0f7",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Africa",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Uganda",
+                        "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "BIG_MAN_TAXON"
+            },
+            "wrs": 4,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
                 "zone": [
                     {
@@ -5711,31 +5709,6 @@
                 "name": "AffiTM"
             },
             "wrs": 4,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "4d949246-4a71-46b0-b30d-43cbbf63d0f7",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Africa",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Uganda",
-                        "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "BIG_MAN_TAXON"
-            },
-            "wrs": 3,
             "duration": 0
         },
         {
@@ -7058,7 +7031,7 @@
                     "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 3
+            "wrs": 4
         },
         {
             "zone": [
