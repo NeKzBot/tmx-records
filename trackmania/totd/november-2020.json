@@ -4959,7 +4959,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "a90404b4-7217-4f78-8891-135da2b442b2",
+                        "id": "f40d3c02-135a-4c84-ad99-5e96f2431c41",
                         "zone": [
                             {
                                 "name": "World",
@@ -4977,22 +4977,22 @@
                                 "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Grand Est",
+                                "name": "Centre-Val de Loire",
                                 "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301fa0c0-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Bas-Rhin",
-                                "parentId": "301fa0c0-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301fa363-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Indre-et-Loire",
+                                "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9a60-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Ice-TM"
+                        "name": "NeqzoTM"
                     },
-                    "score": 43279,
-                    "delta": 82,
-                    "date": "2020-11-15T23:28:29+00:00",
-                    "replay": "d80a48d3-9711-4deb-b83d-361977f6be23",
+                    "score": 43123,
+                    "delta": 156,
+                    "date": "2020-11-16T01:04:12+00:00",
+                    "replay": "cf8b5a3f-1342-4bfb-bf63-88ae741059a0",
                     "duration": 0
                 }
             ],
@@ -5167,13 +5167,51 @@
                     "date": "2020-11-15T23:28:29+00:00",
                     "replay": "d80a48d3-9711-4deb-b83d-361977f6be23",
                     "duration": 0
+                },
+                {
+                    "user": {
+                        "id": "f40d3c02-135a-4c84-ad99-5e96f2431c41",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Centre-Val de Loire",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Indre-et-Loire",
+                                "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9a60-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "NeqzoTM"
+                    },
+                    "score": 43123,
+                    "delta": 156,
+                    "date": "2020-11-16T01:04:12+00:00",
+                    "replay": "cf8b5a3f-1342-4bfb-bf63-88ae741059a0",
+                    "duration": 0
                 }
             ],
             "thumbnail": "005a2491-3a64-4e78-a2f3-5b3a9edd3543"
         }
     ],
     "stats": {
-        "totalTime": 687113
+        "totalTime": 686957
     },
     "leaderboard": [
         {
@@ -5208,7 +5246,7 @@
                 ],
                 "name": "NeqzoTM"
             },
-            "wrs": 3,
+            "wrs": 4,
             "duration": 37
         },
         {
@@ -5600,41 +5638,6 @@
             },
             "wrs": 1,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "a90404b4-7217-4f78-8891-135da2b442b2",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Grand Est",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fa0c0-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bas-Rhin",
-                        "parentId": "301fa0c0-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fa363-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Ice-TM"
-            },
-            "wrs": 1,
-            "duration": 0
         }
     ],
     "countryLeaderboard": [
@@ -5812,7 +5815,7 @@
                 ],
                 "name": "NeqzoTM"
             },
-            "wrs": 15,
+            "wrs": 16,
             "duration": 0
         },
         {
@@ -7335,7 +7338,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 50
+            "wrs": 51
         },
         {
             "zone": [
