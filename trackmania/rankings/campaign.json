@@ -882,7 +882,7 @@
         },
         {
             "user": {
-                "id": "804cc3ef-fe36-4e92-bedf-9cfe66056fe7",
+                "id": "300d6266-04ab-4f51-934a-f2837facb0f0",
                 "zone": [
                     {
                         "name": "World",
@@ -895,20 +895,20 @@
                         "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Netherlands",
+                        "name": "United Kingdom",
                         "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Zuid-Holland",
-                        "parentId": "302094fd-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30209e41-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Scotland",
+                        "parentId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022aa3f-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "CMC_Aru"
+                "name": "Dodecahedral"
             },
             "wrs": 1,
-            "duration": 114
+            "duration": 0
         },
         {
             "user": {
@@ -1410,26 +1410,6 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Netherlands",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 3
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
                     "name": "Middle East",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
@@ -1501,6 +1481,26 @@
                 }
             ],
             "wrs": 3
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Netherlands",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
         },
         {
             "zone": [
@@ -1598,6 +1598,26 @@
                     "name": "Austria",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "United Kingdom",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -5471,6 +5491,36 @@
         },
         {
             "user": {
+                "id": "300d6266-04ab-4f51-934a-f2837facb0f0",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "United Kingdom",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Scotland",
+                        "parentId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022aa3f-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Dodecahedral"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "2f660031-21f7-4f27-bca8-dc7d4b127391",
                 "name": "sancirigo",
                 "zone": [
@@ -6269,12 +6319,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Lithuania",
+                    "name": "United Kingdom",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30208514-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 2
+            "wrs": 3
         },
         {
             "zone": [
@@ -6289,9 +6339,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "United Kingdom",
+                    "name": "Lithuania",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "30208514-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
@@ -10137,6 +10187,35 @@
         },
         {
             "user": {
+                "id": "300d6266-04ab-4f51-934a-f2837facb0f0",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "United Kingdom",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Scotland",
+                        "parentId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022aa3f-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Dodecahedral"
+            },
+            "wrs": 1
+        },
+        {
+            "user": {
                 "id": "2f660031-21f7-4f27-bca8-dc7d4b127391",
                 "name": "sancirigo",
                 "zone": [
@@ -10891,6 +10970,26 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "United Kingdom",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 3
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Spain",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30225b07-7e13-11e8-8060-e284abfd2bc4"
@@ -10934,26 +11033,6 @@
                     "name": "Uganda",
                     "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 2
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "United Kingdom",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
