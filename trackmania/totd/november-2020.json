@@ -5591,7 +5591,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "ca62293d-79db-4ad6-b631-3ad5146f799e",
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
                         "zone": [
                             {
                                 "name": "World",
@@ -5604,22 +5604,27 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Czechia",
+                                "name": "France",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Pardubický kraj",
-                                "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f4f0e-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Bretagne",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Morbihan",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "xNovisTM"
+                        "name": "Gwen_TM"
                     },
-                    "score": 39823,
-                    "delta": 269,
-                    "date": "2020-11-17T19:08:59+00:00",
-                    "replay": "69c92de7-1c7e-499d-aa50-8f68fcd3461a",
+                    "score": 39818,
+                    "delta": 5,
+                    "date": "2020-11-17T19:40:43+00:00",
+                    "replay": "994b174c-34e9-487c-9ed3-291eeb7f3929",
                     "duration": 0
                 }
             ],
@@ -5794,13 +5799,51 @@
                     "date": "2020-11-17T19:08:59+00:00",
                     "replay": "69c92de7-1c7e-499d-aa50-8f68fcd3461a",
                     "duration": 0
+                },
+                {
+                    "user": {
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Bretagne",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Morbihan",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "Gwen_TM"
+                    },
+                    "score": 39818,
+                    "delta": 5,
+                    "date": "2020-11-17T19:40:43+00:00",
+                    "replay": "994b174c-34e9-487c-9ed3-291eeb7f3929",
+                    "duration": 0
                 }
             ],
             "thumbnail": "3bcfa553-6a8c-461e-9e41-6f4f4435f886"
         }
     ],
     "stats": {
-        "totalTime": 759223
+        "totalTime": 759218
     },
     "leaderboard": [
         {
@@ -5870,7 +5913,7 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 2,
+            "wrs": 3,
             "duration": 6
         },
         {
@@ -6227,36 +6270,6 @@
             },
             "wrs": 1,
             "duration": 2
-        },
-        {
-            "user": {
-                "id": "ca62293d-79db-4ad6-b631-3ad5146f799e",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Czechia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Pardubický kraj",
-                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f4f0e-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "xNovisTM"
-            },
-            "wrs": 1,
-            "duration": 0
         }
     ],
     "countryLeaderboard": [
@@ -6278,7 +6291,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 9
+            "wrs": 10
         },
         {
             "zone": [
@@ -6399,26 +6412,6 @@
                 }
             ],
             "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Czechia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
         }
     ],
     "historyLeaderboard": [
@@ -6489,7 +6482,7 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 17,
+            "wrs": 18,
             "duration": 0
         },
         {
@@ -8032,7 +8025,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 59
+            "wrs": 60
         },
         {
             "zone": [
