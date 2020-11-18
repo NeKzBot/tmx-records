@@ -493,7 +493,7 @@
                 "name": "Gwen_TM"
             },
             "wrs": 4,
-            "duration": 10
+            "duration": 11
         },
         {
             "user": {
@@ -788,7 +788,7 @@
                 "name": "PacTM"
             },
             "wrs": 3,
-            "duration": 10
+            "duration": 11
         },
         {
             "user": {
@@ -3821,6 +3821,31 @@
         },
         {
             "user": {
+                "id": "a198e640-779a-47c0-97b5-9d38a351e7fa",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Croatia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "tekky_TM"
+            },
+            "wrs": 21,
+            "duration": 15
+        },
+        {
+            "user": {
                 "id": "2a17ca02-ce1e-413a-b847-3befb60f4b4b",
                 "zone": [
                     {
@@ -3843,31 +3868,6 @@
             },
             "wrs": 20,
             "duration": 24
-        },
-        {
-            "user": {
-                "id": "a198e640-779a-47c0-97b5-9d38a351e7fa",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Croatia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "tekky_TM"
-            },
-            "wrs": 20,
-            "duration": 15
         },
         {
             "user": {
@@ -11044,7 +11044,7 @@
                     "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 46
+            "wrs": 47
         },
         {
             "zone": [
