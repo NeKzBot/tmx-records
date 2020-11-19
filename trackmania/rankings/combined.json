@@ -322,6 +322,41 @@
         },
         {
             "user": {
+                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bretagne",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Morbihan",
+                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Gwen_TM"
+            },
+            "wrs": 5,
+            "duration": 14
+        },
+        {
+            "user": {
                 "id": "cd32b288-a361-483a-9c48-68417eb83c74",
                 "zone": [
                     {
@@ -434,41 +469,6 @@
             },
             "wrs": 4,
             "duration": 40
-        },
-        {
-            "user": {
-                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Morbihan",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Gwen_TM"
-            },
-            "wrs": 4,
-            "duration": 14
         },
         {
             "user": {
@@ -693,7 +693,7 @@
                 "name": "CamionTM"
             },
             "wrs": 3,
-            "duration": 209
+            "duration": 210
         },
         {
             "user": {
@@ -1638,7 +1638,7 @@
                 "name": "xTigershark777"
             },
             "wrs": 1,
-            "duration": 83
+            "duration": 84
         },
         {
             "user": {
@@ -1668,7 +1668,7 @@
                 "name": "Nersons"
             },
             "wrs": 1,
-            "duration": 63
+            "duration": 64
         },
         {
             "user": {
@@ -2026,41 +2026,6 @@
                     }
                 ],
                 "name": "Hazardu."
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "5d6b14db-4d41-47a4-93e2-36a3bf229f9b",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Provence-Alpes-Côte d'Azur",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff0a1-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Alpes-Maritimes",
-                        "parentId": "301ff0a1-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff1d3-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Bren.KC"
             },
             "wrs": 1,
             "duration": 0
@@ -3666,7 +3631,7 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 31,
+            "wrs": 32,
             "duration": 24
         },
         {
@@ -5407,7 +5372,7 @@
                 "name": "xTigershark777"
             },
             "wrs": 5,
-            "duration": 83
+            "duration": 84
         },
         {
             "user": {
@@ -5792,7 +5757,7 @@
                 "name": "CamionTM"
             },
             "wrs": 4,
-            "duration": 275
+            "duration": 276
         },
         {
             "user": {
@@ -9127,7 +9092,7 @@
                 "name": "Nersons"
             },
             "wrs": 1,
-            "duration": 63
+            "duration": 64
         },
         {
             "user": {
@@ -11099,7 +11064,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 390
+            "wrs": 391
         },
         {
             "zone": [
