@@ -8077,7 +8077,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                        "id": "28f89eae-4e8f-4207-9eed-68ee8d0a0bc5",
                         "zone": [
                             {
                                 "name": "World",
@@ -8090,17 +8090,22 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Norway",
+                                "name": "Czechia",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Kraj Vysočina",
+                                "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f4ae5-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Erizel"
+                        "name": "MorceTM"
                     },
-                    "score": 31276,
-                    "delta": 7,
-                    "date": "2020-11-20T10:07:22+00:00",
-                    "replay": "f4fd50a3-1ef8-4433-9fb4-72bd52e017d6",
+                    "score": 31274,
+                    "delta": 2,
+                    "date": "2020-11-20T19:55:12+00:00",
+                    "replay": "6bfcbc42-ff83-43e4-af0a-5971a79fc22a",
                     "duration": 0
                 }
             ],
@@ -8797,6 +8802,39 @@
                     "delta": 7,
                     "date": "2020-11-20T10:07:22+00:00",
                     "replay": "f4fd50a3-1ef8-4433-9fb4-72bd52e017d6",
+                    "duration": 0
+                },
+                {
+                    "user": {
+                        "id": "28f89eae-4e8f-4207-9eed-68ee8d0a0bc5",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Czechia",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Kraj Vysočina",
+                                "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f4ae5-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "MorceTM"
+                    },
+                    "score": 31274,
+                    "delta": 2,
+                    "date": "2020-11-20T19:55:12+00:00",
+                    "replay": "6bfcbc42-ff83-43e4-af0a-5971a79fc22a",
                     "duration": 0
                 }
             ],
@@ -14251,7 +14289,7 @@
                     "delta": 37,
                     "date": "2020-11-19T19:45:37+00:00",
                     "replay": "c8c4da67-ff6d-4736-8d0b-00f5cd8f35c5",
-                    "duration": 0
+                    "duration": 1
                 }
             ],
             "isOfficial": true,
@@ -14823,7 +14861,7 @@
                     "delta": 37,
                     "date": "2020-11-19T19:45:37+00:00",
                     "replay": "c8c4da67-ff6d-4736-8d0b-00f5cd8f35c5",
-                    "duration": 0
+                    "duration": 1
                 }
             ],
             "thumbnail": "576c525c-9be4-44a5-aad0-6648e6f68140"
@@ -17323,7 +17361,7 @@
         }
     ],
     "stats": {
-        "totalTime": 924180
+        "totalTime": 924178
     },
     "leaderboard": [
         {
@@ -17359,32 +17397,7 @@
                 "name": "riolu-tm"
             },
             "wrs": 9,
-            "duration": 164
-        },
-        {
-            "user": {
-                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norway",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Erizel"
-            },
-            "wrs": 4,
-            "duration": 37
+            "duration": 165
         },
         {
             "user": {
@@ -17420,6 +17433,31 @@
             },
             "wrs": 4,
             "duration": 58
+        },
+        {
+            "user": {
+                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norway",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Erizel"
+            },
+            "wrs": 3,
+            "duration": 37
         },
         {
             "user": {
@@ -17512,6 +17550,36 @@
                     }
                 ],
                 "name": "Hyll-TM"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "28f89eae-4e8f-4207-9eed-68ee8d0a0bc5",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Czechia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Kraj Vysočina",
+                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f4ae5-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MorceTM"
             },
             "wrs": 1,
             "duration": 0
@@ -17736,27 +17804,7 @@
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Netherlands",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
+            "wrs": 3
         },
         {
             "zone": [
@@ -17774,6 +17822,26 @@
                     "name": "Czechia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Netherlands",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -17878,7 +17946,7 @@
                 "name": "riolu-tm"
             },
             "wrs": 33,
-            "duration": 231
+            "duration": 232
         },
         {
             "user": {
@@ -18822,6 +18890,36 @@
         },
         {
             "user": {
+                "id": "28f89eae-4e8f-4207-9eed-68ee8d0a0bc5",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Czechia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Kraj Vysočina",
+                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f4ae5-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MorceTM"
+            },
+            "wrs": 4,
+            "duration": 14
+        },
+        {
+            "user": {
                 "id": "ba06de15-1fb3-4ea3-b279-4283828151d6",
                 "zone": [
                     {
@@ -19019,36 +19117,6 @@
             },
             "wrs": 3,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "28f89eae-4e8f-4207-9eed-68ee8d0a0bc5",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Czechia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Kraj Vysočina",
-                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f4ae5-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "MorceTM"
-            },
-            "wrs": 3,
-            "duration": 14
         },
         {
             "user": {
@@ -21175,7 +21243,7 @@
                     "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 14
+            "wrs": 15
         },
         {
             "zone": [
