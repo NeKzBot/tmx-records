@@ -202,6 +202,31 @@
         },
         {
             "user": {
+                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norway",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Erizel"
+            },
+            "wrs": 7,
+            "duration": 38
+        },
+        {
+            "user": {
                 "id": "f40d3c02-135a-4c84-ad99-5e96f2431c41",
                 "zone": [
                     {
@@ -234,31 +259,6 @@
             },
             "wrs": 7,
             "duration": 61
-        },
-        {
-            "user": {
-                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norway",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Erizel"
-            },
-            "wrs": 6,
-            "duration": 38
         },
         {
             "user": {
@@ -1074,36 +1074,6 @@
             },
             "wrs": 1,
             "duration": 5
-        },
-        {
-            "user": {
-                "id": "28f89eae-4e8f-4207-9eed-68ee8d0a0bc5",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Czechia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Kraj Vysočina",
-                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f4ae5-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "MorceTM"
-            },
-            "wrs": 1,
-            "duration": 8
         },
         {
             "user": {
@@ -2920,7 +2890,7 @@
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 9
+            "wrs": 10
         },
         {
             "zone": [
@@ -2995,9 +2965,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Czechia",
+                    "name": "United Kingdom",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 7
@@ -3015,12 +2985,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "United Kingdom",
+                    "name": "Czechia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 7
+            "wrs": 6
         },
         {
             "zone": [
@@ -3431,7 +3401,7 @@
                 ],
                 "name": "Erizel"
             },
-            "wrs": 59,
+            "wrs": 60,
             "duration": 134
         },
         {
@@ -11124,7 +11094,7 @@
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 88
+            "wrs": 89
         },
         {
             "zone": [
