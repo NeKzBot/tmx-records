@@ -297,6 +297,36 @@
         },
         {
             "user": {
+                "id": "3bb0d130-637d-46a6-9c19-87fe4bda3c52",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Netherlands",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Zuid-Holland",
+                        "parentId": "302094fd-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30209e41-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Spammiej"
+            },
+            "wrs": 4,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "d46fb45d-d422-47c9-9785-67270a311e25",
                 "zone": [
                     {
@@ -539,36 +569,6 @@
             },
             "wrs": 3,
             "duration": 2
-        },
-        {
-            "user": {
-                "id": "3bb0d130-637d-46a6-9c19-87fe4bda3c52",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Netherlands",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Zuid-Holland",
-                        "parentId": "302094fd-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30209e41-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Spammiej"
-            },
-            "wrs": 3,
-            "duration": 0
         },
         {
             "user": {
@@ -919,31 +919,6 @@
             },
             "wrs": 1,
             "duration": 3
-        },
-        {
-            "user": {
-                "id": "2a13aa7d-992d-4a7c-a3c5-d29b08b7f8cb",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Sweden",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30228671-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "kebytm"
-            },
-            "wrs": 1,
-            "duration": 0
         },
         {
             "user": {
@@ -1875,6 +1850,26 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Netherlands",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 6
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Czechia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
@@ -1898,26 +1893,6 @@
                     "name": "Norway",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 5
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Netherlands",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 5
@@ -2050,26 +2025,6 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Sweden",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30228671-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 2
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
                     "name": "North America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
@@ -2178,6 +2133,26 @@
                     "name": "Russia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "3022427b-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Sweden",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30228671-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -3071,6 +3046,36 @@
         },
         {
             "user": {
+                "id": "3bb0d130-637d-46a6-9c19-87fe4bda3c52",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Netherlands",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Zuid-Holland",
+                        "parentId": "302094fd-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30209e41-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Spammiej"
+            },
+            "wrs": 7,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "6fd80ece-baee-44f7-abba-c4324ef744fa",
                 "zone": [
                     {
@@ -3195,36 +3200,6 @@
                     }
                 ],
                 "name": "SIMPLYNICK"
-            },
-            "wrs": 6,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "3bb0d130-637d-46a6-9c19-87fe4bda3c52",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Netherlands",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Zuid-Holland",
-                        "parentId": "302094fd-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30209e41-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Spammiej"
             },
             "wrs": 6,
             "duration": 0
@@ -7384,12 +7359,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Czechia",
+                    "name": "Netherlands",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 15
+            "wrs": 16
         },
         {
             "zone": [
@@ -7404,9 +7379,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Netherlands",
+                    "name": "Czechia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 15
