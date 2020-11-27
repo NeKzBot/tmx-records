@@ -8986,7 +8986,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                        "id": "f40d3c02-135a-4c84-ad99-5e96f2431c41",
                         "zone": [
                             {
                                 "name": "World",
@@ -9004,22 +9004,22 @@
                                 "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Bretagne",
+                                "name": "Centre-Val de Loire",
                                 "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Morbihan",
-                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Indre-et-Loire",
+                                "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9a60-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Gwen_TM"
+                        "name": "NeqzoTM"
                     },
-                    "score": 27378,
-                    "delta": 18,
-                    "date": "2020-11-27T19:00:55+00:00",
-                    "replay": "c579b610-6cc0-4dd2-b227-7e3b7b02d505",
+                    "score": 27335,
+                    "delta": 43,
+                    "date": "2020-11-27T20:26:03+00:00",
+                    "replay": "d301d7c2-2766-47cb-a03f-76ef150c70e0",
                     "duration": 0
                 }
             ],
@@ -9214,13 +9214,51 @@
                     "date": "2020-11-27T19:00:55+00:00",
                     "replay": "c579b610-6cc0-4dd2-b227-7e3b7b02d505",
                     "duration": 0
+                },
+                {
+                    "user": {
+                        "id": "f40d3c02-135a-4c84-ad99-5e96f2431c41",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Centre-Val de Loire",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Indre-et-Loire",
+                                "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9a60-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "NeqzoTM"
+                    },
+                    "score": 27335,
+                    "delta": 43,
+                    "date": "2020-11-27T20:26:03+00:00",
+                    "replay": "d301d7c2-2766-47cb-a03f-76ef150c70e0",
+                    "duration": 0
                 }
             ],
             "thumbnail": "b66caf48-3f16-4e42-83e5-29953f27625b"
         }
     ],
     "stats": {
-        "totalTime": 1224285
+        "totalTime": 1224242
     },
     "leaderboard": [
         {
@@ -9255,43 +9293,8 @@
                 ],
                 "name": "NeqzoTM"
             },
-            "wrs": 4,
+            "wrs": 5,
             "duration": 83
-        },
-        {
-            "user": {
-                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Morbihan",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Gwen_TM"
-            },
-            "wrs": 4,
-            "duration": 35
         },
         {
             "user": {
@@ -9327,6 +9330,41 @@
             },
             "wrs": 3,
             "duration": 30
+        },
+        {
+            "user": {
+                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bretagne",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Morbihan",
+                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Gwen_TM"
+            },
+            "wrs": 3,
+            "duration": 35
         },
         {
             "user": {
@@ -10114,7 +10152,7 @@
                 ],
                 "name": "NeqzoTM"
             },
-            "wrs": 26,
+            "wrs": 27,
             "duration": 0
         },
         {
@@ -12207,7 +12245,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 94
+            "wrs": 95
         },
         {
             "zone": [
@@ -12697,7 +12735,7 @@
                 ],
                 "name": "NeqzoTM"
             },
-            "wrs": 10
+            "wrs": 11
         },
         {
             "user": {
@@ -14723,7 +14761,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 48
+            "wrs": 49
         },
         {
             "zone": [
