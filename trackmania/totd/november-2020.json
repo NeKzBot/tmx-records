@@ -8570,7 +8570,7 @@
                     "delta": 10,
                     "date": "2020-11-26T11:03:23+00:00",
                     "replay": "b7aa74a6-0ed4-4511-b7c7-7adb2651152b",
-                    "duration": 2
+                    "duration": 3
                 }
             ],
             "isOfficial": false,
@@ -9336,7 +9336,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "7f5a5045-27bb-4fef-9faf-2967fe0bc478",
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
                         "zone": [
                             {
                                 "name": "World",
@@ -9354,22 +9354,22 @@
                                 "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Normandie",
+                                "name": "Bretagne",
                                 "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301fb0d7-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Eure",
-                                "parentId": "301fb0d7-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301fb203-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Morbihan",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "ShamzieTM"
+                        "name": "Gwen_TM"
                     },
-                    "score": 52198,
-                    "delta": 7,
-                    "date": "2020-11-29T07:32:13+00:00",
-                    "replay": "c67f52ec-656f-47aa-b9ce-9c1dde00bb0a",
+                    "score": 52122,
+                    "delta": 76,
+                    "date": "2020-11-29T11:12:17+00:00",
+                    "replay": "78e05b15-efc4-4356-b0ed-c8e637f39d33",
                     "duration": 0
                 }
             ],
@@ -9567,13 +9567,51 @@
                     "date": "2020-11-29T07:32:13+00:00",
                     "replay": "c67f52ec-656f-47aa-b9ce-9c1dde00bb0a",
                     "duration": 0
+                },
+                {
+                    "user": {
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Bretagne",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Morbihan",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "Gwen_TM"
+                    },
+                    "score": 52122,
+                    "delta": 76,
+                    "date": "2020-11-29T11:12:17+00:00",
+                    "replay": "78e05b15-efc4-4356-b0ed-c8e637f39d33",
+                    "duration": 0
                 }
             ],
             "thumbnail": "eab6d548-5472-4d89-b4c3-03dcc4b1d914"
         }
     ],
     "stats": {
-        "totalTime": 1276412
+        "totalTime": 1276336
     },
     "leaderboard": [
         {
@@ -9613,6 +9651,41 @@
         },
         {
             "user": {
+                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bretagne",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Morbihan",
+                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Gwen_TM"
+            },
+            "wrs": 4,
+            "duration": 38
+        },
+        {
+            "user": {
                 "id": "2d4cba8b-3b77-45af-a635-5e4d6e61cfa2",
                 "zone": [
                     {
@@ -9645,41 +9718,6 @@
             },
             "wrs": 3,
             "duration": 33
-        },
-        {
-            "user": {
-                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Morbihan",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Gwen_TM"
-            },
-            "wrs": 3,
-            "duration": 38
         },
         {
             "user": {
@@ -10149,7 +10187,7 @@
                 "name": "eLconn21"
             },
             "wrs": 1,
-            "duration": 2
+            "duration": 3
         },
         {
             "user": {
@@ -10207,41 +10245,6 @@
                     }
                 ],
                 "name": "LeviTM"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "7f5a5045-27bb-4fef-9faf-2967fe0bc478",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Normandie",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fb0d7-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Eure",
-                        "parentId": "301fb0d7-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fb203-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "ShamzieTM"
             },
             "wrs": 1,
             "duration": 0
@@ -10502,7 +10505,7 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 37,
+            "wrs": 38,
             "duration": 0
         },
         {
@@ -12755,7 +12758,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 97
+            "wrs": 98
         },
         {
             "zone": [
