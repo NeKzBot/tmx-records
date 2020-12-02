@@ -1579,7 +1579,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                        "id": "2dd1e832-8f25-44c1-8189-ff28d7388806",
                         "zone": [
                             {
                                 "name": "World",
@@ -1592,18 +1592,28 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Norway",
+                                "name": "Germany",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Bayern",
+                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Nürnberg",
+                                "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Erizel"
+                        "name": "esu-LX"
                     },
-                    "score": 21311,
-                    "delta": 13,
-                    "date": "2020-11-21T11:25:48+00:00",
-                    "replay": "1935dbfc-19ea-4236-be20-2ac7de0caec9",
-                    "duration": 11
+                    "score": 21284,
+                    "delta": 27,
+                    "date": "2020-12-02T12:43:55+00:00",
+                    "replay": "7be510ce-0508-4b35-b192-a0fa3b3e0d1d",
+                    "duration": 0
                 }
             ],
             "isOfficial": true,
@@ -2252,6 +2262,44 @@
                     "date": "2020-11-21T11:25:48+00:00",
                     "replay": "1935dbfc-19ea-4236-be20-2ac7de0caec9",
                     "duration": 11
+                },
+                {
+                    "user": {
+                        "id": "2dd1e832-8f25-44c1-8189-ff28d7388806",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Germany",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Bayern",
+                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Nürnberg",
+                                "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "esu-LX"
+                    },
+                    "score": 21284,
+                    "delta": 27,
+                    "date": "2020-12-02T12:43:55+00:00",
+                    "replay": "7be510ce-0508-4b35-b192-a0fa3b3e0d1d",
+                    "duration": 0
                 }
             ],
             "thumbnail": "e48236b6-c4b7-41b8-9b8e-e2ce1edf67c2"
@@ -18093,7 +18141,7 @@
         }
     ],
     "stats": {
-        "totalTime": 923119
+        "totalTime": 923092
     },
     "leaderboard": [
         {
@@ -18153,8 +18201,8 @@
                 ],
                 "name": "Erizel"
             },
-            "wrs": 7,
-            "duration": 99
+            "wrs": 6,
+            "duration": 88
         },
         {
             "user": {
@@ -18210,6 +18258,41 @@
             },
             "wrs": 2,
             "duration": 12
+        },
+        {
+            "user": {
+                "id": "2dd1e832-8f25-44c1-8189-ff28d7388806",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bayern",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nürnberg",
+                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "esu-LX"
+            },
+            "wrs": 1,
+            "duration": 0
         },
         {
             "user": {
@@ -18356,7 +18439,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 10
+            "wrs": 11
         },
         {
             "zone": [
@@ -18376,7 +18459,7 @@
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 7
+            "wrs": 6
         },
         {
             "zone": [
@@ -20577,6 +20660,41 @@
         },
         {
             "user": {
+                "id": "2dd1e832-8f25-44c1-8189-ff28d7388806",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bayern",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nürnberg",
+                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "esu-LX"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "7aa19bef-a3f5-4aaa-aeae-ff2284bbadd8",
                 "zone": [
                     {
@@ -21815,7 +21933,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 93
+            "wrs": 94
         },
         {
             "zone": [
@@ -23731,6 +23849,40 @@
         },
         {
             "user": {
+                "id": "2dd1e832-8f25-44c1-8189-ff28d7388806",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bayern",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nürnberg",
+                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "esu-LX"
+            },
+            "wrs": 1
+        },
+        {
+            "user": {
                 "id": "7aa19bef-a3f5-4aaa-aeae-ff2284bbadd8",
                 "zone": [
                     {
@@ -25570,7 +25722,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 42
+            "wrs": 43
         },
         {
             "zone": [
