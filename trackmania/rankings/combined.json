@@ -492,6 +492,41 @@
         },
         {
             "user": {
+                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bretagne",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Morbihan",
+                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Gwen_TM"
+            },
+            "wrs": 4,
+            "duration": 46
+        },
+        {
+            "user": {
                 "id": "3bb0d130-637d-46a6-9c19-87fe4bda3c52",
                 "zone": [
                     {
@@ -774,41 +809,6 @@
             },
             "wrs": 3,
             "duration": 53
-        },
-        {
-            "user": {
-                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Morbihan",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Gwen_TM"
-            },
-            "wrs": 3,
-            "duration": 46
         },
         {
             "user": {
@@ -1253,7 +1253,7 @@
                 "name": "Nodd_"
             },
             "wrs": 1,
-            "duration": 100
+            "duration": 101
         },
         {
             "user": {
@@ -1794,41 +1794,6 @@
             },
             "wrs": 1,
             "duration": 10
-        },
-        {
-            "user": {
-                "id": "99ea99f9-71ca-486b-a457-c87119ea50e0",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Brandenburg",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fff25-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Potsdam",
-                        "parentId": "301fff25-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fffb7-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "amgreborn"
-            },
-            "wrs": 1,
-            "duration": 14
         },
         {
             "user": {
@@ -2935,7 +2900,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 54
+            "wrs": 53
         },
         {
             "zone": [
@@ -2955,7 +2920,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 51
+            "wrs": 52
         },
         {
             "zone": [
@@ -3586,36 +3551,6 @@
         },
         {
             "user": {
-                "id": "eb30a7cb-d9c0-49e7-92b4-1eadeeddcd12",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Austria",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Lower Austria",
-                        "parentId": "301e41fc-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e4b33-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "PokeR.4W"
-            },
-            "wrs": 47,
-            "duration": 142
-        },
-        {
-            "user": {
                 "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
                 "zone": [
                     {
@@ -3646,8 +3581,38 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 46,
+            "wrs": 47,
             "duration": 27
+        },
+        {
+            "user": {
+                "id": "eb30a7cb-d9c0-49e7-92b4-1eadeeddcd12",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Austria",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Lower Austria",
+                        "parentId": "301e41fc-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e4b33-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "PokeR.4W"
+            },
+            "wrs": 47,
+            "duration": 142
         },
         {
             "user": {
@@ -5806,41 +5771,6 @@
         },
         {
             "user": {
-                "id": "99ea99f9-71ca-486b-a457-c87119ea50e0",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Brandenburg",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fff25-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Potsdam",
-                        "parentId": "301fff25-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fffb7-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "amgreborn"
-            },
-            "wrs": 4,
-            "duration": 14
-        },
-        {
-            "user": {
                 "id": "5c49be2d-deef-4c39-8ff2-144b4f88782f",
                 "zone": [
                     {
@@ -6461,6 +6391,41 @@
         },
         {
             "user": {
+                "id": "99ea99f9-71ca-486b-a457-c87119ea50e0",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Brandenburg",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fff25-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Potsdam",
+                        "parentId": "301fff25-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fffb7-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "amgreborn"
+            },
+            "wrs": 3,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "d3557ada-6d0c-40be-9208-8587d9293dff",
                 "zone": [
                     {
@@ -6527,7 +6492,7 @@
                 "name": "Nodd_"
             },
             "wrs": 3,
-            "duration": 101
+            "duration": 102
         },
         {
             "user": {
@@ -11674,7 +11639,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 427
+            "wrs": 428
         },
         {
             "zone": [
@@ -11694,7 +11659,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 326
+            "wrs": 325
         },
         {
             "zone": [
@@ -12523,30 +12488,6 @@
         },
         {
             "user": {
-                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norway",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Erizel"
-            },
-            "wrs": 22
-        },
-        {
-            "user": {
                 "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
                 "zone": [
                     {
@@ -12577,7 +12518,31 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 21
+            "wrs": 22
+        },
+        {
+            "user": {
+                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norway",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Erizel"
+            },
+            "wrs": 22
         },
         {
             "user": {
@@ -14897,40 +14862,6 @@
         },
         {
             "user": {
-                "id": "99ea99f9-71ca-486b-a457-c87119ea50e0",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Brandenburg",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fff25-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Potsdam",
-                        "parentId": "301fff25-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fffb7-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "amgreborn"
-            },
-            "wrs": 2
-        },
-        {
-            "user": {
                 "id": "9cc6a37c-db02-4ff0-b037-5dad47918b4f",
                 "zone": [
                     {
@@ -15952,6 +15883,40 @@
                     }
                 ],
                 "name": "Cauazone"
+            },
+            "wrs": 1
+        },
+        {
+            "user": {
+                "id": "99ea99f9-71ca-486b-a457-c87119ea50e0",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Brandenburg",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fff25-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Potsdam",
+                        "parentId": "301fff25-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fffb7-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "amgreborn"
             },
             "wrs": 1
         },
@@ -20414,7 +20379,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 253
+            "wrs": 254
         },
         {
             "zone": [
@@ -20434,7 +20399,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 171
+            "wrs": 170
         },
         {
             "zone": [
