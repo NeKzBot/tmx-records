@@ -15086,7 +15086,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
+                        "id": "6c26b761-bd62-42b5-8190-e3e732c2b937",
                         "zone": [
                             {
                                 "name": "World",
@@ -15094,23 +15094,28 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Middle East",
+                                "name": "South America",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Israel",
-                                "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Brazil",
+                                "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "São Paulo",
+                                "parentId": "301e6521-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "825a3452-6a36-4fe1-94b5-637986936ef7"
                             }
                         ],
-                        "name": "RacetalTM"
+                        "name": "GNR-HASKELL"
                     },
-                    "score": 52421,
-                    "delta": 45,
-                    "date": "2020-12-03T01:46:03+00:00",
-                    "replay": "682bbb45-a24a-49dd-96ea-25c00d7f2f67",
-                    "duration": 1
+                    "score": 52344,
+                    "delta": 77,
+                    "date": "2020-12-04T07:20:03+00:00",
+                    "replay": "a7df4a25-e875-42e4-a954-3843a09ce2f8",
+                    "duration": 0
                 }
             ],
             "isOfficial": true,
@@ -15711,6 +15716,39 @@
                     "date": "2020-12-03T01:46:03+00:00",
                     "replay": "682bbb45-a24a-49dd-96ea-25c00d7f2f67",
                     "duration": 1
+                },
+                {
+                    "user": {
+                        "id": "6c26b761-bd62-42b5-8190-e3e732c2b937",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "South America",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Brazil",
+                                "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "São Paulo",
+                                "parentId": "301e6521-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "825a3452-6a36-4fe1-94b5-637986936ef7"
+                            }
+                        ],
+                        "name": "GNR-HASKELL"
+                    },
+                    "score": 52344,
+                    "delta": 77,
+                    "date": "2020-12-04T07:20:03+00:00",
+                    "replay": "a7df4a25-e875-42e4-a954-3843a09ce2f8",
+                    "duration": 0
                 }
             ],
             "thumbnail": "576c525c-9be4-44a5-aad0-6648e6f68140"
@@ -18253,7 +18291,7 @@
         }
     ],
     "stats": {
-        "totalTime": 923004
+        "totalTime": 922927
     },
     "leaderboard": [
         {
@@ -18368,33 +18406,8 @@
                 ],
                 "name": "GNR-HASKELL"
             },
-            "wrs": 2,
+            "wrs": 3,
             "duration": 16
-        },
-        {
-            "user": {
-                "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Middle East",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Israel",
-                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "RacetalTM"
-            },
-            "wrs": 2,
-            "duration": 12
         },
         {
             "user": {
@@ -18560,6 +18573,31 @@
             },
             "wrs": 1,
             "duration": 8
+        },
+        {
+            "user": {
+                "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Middle East",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Israel",
+                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "RacetalTM"
+            },
+            "wrs": 1,
+            "duration": 11
         }
     ],
     "countryLeaderboard": [
@@ -18641,27 +18679,7 @@
                     "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 2
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Middle East",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Israel",
-                    "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 2
+            "wrs": 3
         },
         {
             "zone": [
@@ -18719,6 +18737,26 @@
                     "name": "France",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Middle East",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Israel",
+                    "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -18847,7 +18885,7 @@
                 ],
                 "name": "GNR-HASKELL"
             },
-            "wrs": 27,
+            "wrs": 28,
             "duration": 118
         },
         {
@@ -22135,7 +22173,7 @@
                     "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 28
+            "wrs": 29
         },
         {
             "zone": [
