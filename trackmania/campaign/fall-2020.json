@@ -1579,7 +1579,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "2dd1e832-8f25-44c1-8189-ff28d7388806",
+                        "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
                         "zone": [
                             {
                                 "name": "World",
@@ -1597,23 +1597,23 @@
                                 "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Bayern",
+                                "name": "Nordrhein-Westfalen",
                                 "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Nürnberg",
-                                "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Dortmund",
+                                "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30201200-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "esu-LX"
+                        "name": "riolu-tm"
                     },
-                    "score": 21284,
-                    "delta": 27,
-                    "date": "2020-12-02T12:43:55+00:00",
-                    "replay": "7be510ce-0508-4b35-b192-a0fa3b3e0d1d",
-                    "duration": 3
+                    "score": 21248,
+                    "delta": 36,
+                    "date": "2020-12-05T15:42:06+00:00",
+                    "replay": "946d212f-3883-4ceb-90eb-be7307802687",
+                    "duration": 0
                 }
             ],
             "isOfficial": true,
@@ -2300,6 +2300,44 @@
                     "date": "2020-12-02T12:43:55+00:00",
                     "replay": "7be510ce-0508-4b35-b192-a0fa3b3e0d1d",
                     "duration": 3
+                },
+                {
+                    "user": {
+                        "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Germany",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Nordrhein-Westfalen",
+                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Dortmund",
+                                "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30201200-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "riolu-tm"
+                    },
+                    "score": 21248,
+                    "delta": 36,
+                    "date": "2020-12-05T15:42:06+00:00",
+                    "replay": "946d212f-3883-4ceb-90eb-be7307802687",
+                    "duration": 0
                 }
             ],
             "thumbnail": "e48236b6-c4b7-41b8-9b8e-e2ce1edf67c2"
@@ -3992,7 +4030,7 @@
                     "delta": 17,
                     "date": "2020-10-30T15:41:04+00:00",
                     "replay": "975211c1-1d31-401f-8c94-2fef68fd82f3",
-                    "duration": 35
+                    "duration": 36
                 }
             ],
             "isOfficial": true,
@@ -4439,7 +4477,7 @@
                     "delta": 17,
                     "date": "2020-10-30T15:41:04+00:00",
                     "replay": "975211c1-1d31-401f-8c94-2fef68fd82f3",
-                    "duration": 35
+                    "duration": 36
                 }
             ],
             "thumbnail": "330c886f-02c9-4f6c-9e41-a6a395de2387"
@@ -18291,7 +18329,7 @@
         }
     ],
     "stats": {
-        "totalTime": 922927
+        "totalTime": 922891
     },
     "leaderboard": [
         {
@@ -18326,7 +18364,7 @@
                 ],
                 "name": "riolu-tm"
             },
-            "wrs": 7,
+            "wrs": 8,
             "duration": 144
         },
         {
@@ -18377,7 +18415,7 @@
                 "name": "MTP.hugo220"
             },
             "wrs": 3,
-            "duration": 95
+            "duration": 96
         },
         {
             "user": {
@@ -18408,41 +18446,6 @@
             },
             "wrs": 3,
             "duration": 19
-        },
-        {
-            "user": {
-                "id": "2dd1e832-8f25-44c1-8189-ff28d7388806",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bayern",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Nürnberg",
-                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "esu-LX"
-            },
-            "wrs": 1,
-            "duration": 3
         },
         {
             "user": {
@@ -18820,7 +18823,7 @@
                 ],
                 "name": "riolu-tm"
             },
-            "wrs": 40,
+            "wrs": 41,
             "duration": 353
         },
         {
@@ -18856,7 +18859,7 @@
                 "name": "MTP.hugo220"
             },
             "wrs": 31,
-            "duration": 203
+            "duration": 204
         },
         {
             "user": {
@@ -22133,7 +22136,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 94
+            "wrs": 95
         },
         {
             "zone": [
@@ -22659,30 +22662,6 @@
     "uniqueLeaderboard": [
         {
             "user": {
-                "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Middle East",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Israel",
-                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "RacetalTM"
-            },
-            "wrs": 13
-        },
-        {
-            "user": {
                 "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
                 "zone": [
                     {
@@ -22712,6 +22691,30 @@
                     }
                 ],
                 "name": "riolu-tm"
+            },
+            "wrs": 14
+        },
+        {
+            "user": {
+                "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Middle East",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Israel",
+                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "RacetalTM"
             },
             "wrs": 13
         },
@@ -25922,7 +25925,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 43
+            "wrs": 44
         },
         {
             "zone": [
