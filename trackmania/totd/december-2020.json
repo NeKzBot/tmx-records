@@ -1487,7 +1487,7 @@
                     "delta": 19017,
                     "date": "2020-12-06T18:13:38+00:00",
                     "replay": "d919e16d-533a-4170-9f0d-8bbb2a27e7ff",
-                    "duration": 0
+                    "duration": 1
                 }
             ],
             "isOfficial": false,
@@ -1537,7 +1537,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "a4615959-2ccb-4264-8de1-108cfce42585",
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
                         "zone": [
                             {
                                 "name": "World",
@@ -1555,34 +1555,108 @@
                                 "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Île-de-France",
+                                "name": "Bretagne",
                                 "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Essonne",
-                                "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301fac1b-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Morbihan",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Acide.."
+                        "name": "Gwen_TM"
                     },
-                    "score": 46655,
-                    "delta": 0,
-                    "date": "2020-12-07T18:01:12+00:00",
-                    "replay": "e4eccc98-2ac3-4a8a-9628-3aa31c511f00",
+                    "score": 43818,
+                    "delta": 2837,
+                    "date": "2020-12-07T18:14:12+00:00",
+                    "replay": "f8ca3f62-322a-41d6-b4bd-fbf9de3f80f6",
                     "duration": 0
                 }
             ],
             "isOfficial": false,
-            "history": [],
+            "history": [
+                {
+                    "user": {
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Bretagne",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Morbihan",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "Gwen_TM"
+                    },
+                    "score": 43818,
+                    "delta": 2837,
+                    "date": "2020-12-07T18:14:12+00:00",
+                    "replay": "f8ca3f62-322a-41d6-b4bd-fbf9de3f80f6",
+                    "duration": 0
+                }
+            ],
             "thumbnail": "70f16a0f-969f-46c1-9840-81277b2266d7"
         }
     ],
     "stats": {
-        "totalTime": 301802
+        "totalTime": 298965
     },
     "leaderboard": [
+        {
+            "user": {
+                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bretagne",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Morbihan",
+                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Gwen_TM"
+            },
+            "wrs": 2,
+            "duration": 2
+        },
         {
             "user": {
                 "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
@@ -1675,41 +1749,6 @@
         },
         {
             "user": {
-                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Morbihan",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Gwen_TM"
-            },
-            "wrs": 1,
-            "duration": 2
-        },
-        {
-            "user": {
                 "id": "a5af97bc-d185-404f-a7d1-5c4e48d05db6",
                 "zone": [
                     {
@@ -1766,42 +1805,7 @@
                 "name": "Sedjems"
             },
             "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "a4615959-2ccb-4264-8de1-108cfce42585",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Île-de-France",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Essonne",
-                        "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fac1b-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Acide.."
-            },
-            "wrs": 1,
-            "duration": 0
+            "duration": 1
         }
     ],
     "countryLeaderboard": [
@@ -1939,7 +1943,7 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 9,
+            "wrs": 10,
             "duration": 0
         },
         {
@@ -2311,41 +2315,6 @@
             },
             "wrs": 1,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "a4615959-2ccb-4264-8de1-108cfce42585",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Île-de-France",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Essonne",
-                        "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fac1b-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Acide.."
-            },
-            "wrs": 1,
-            "duration": 0
         }
     ],
     "historyCountryLeaderboard": [
@@ -2563,7 +2532,7 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 4
+            "wrs": 5
         },
         {
             "user": {
@@ -2920,40 +2889,6 @@
                     }
                 ],
                 "name": "Sedjems"
-            },
-            "wrs": 1
-        },
-        {
-            "user": {
-                "id": "a4615959-2ccb-4264-8de1-108cfce42585",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Île-de-France",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Essonne",
-                        "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fac1b-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Acide.."
             },
             "wrs": 1
         }
