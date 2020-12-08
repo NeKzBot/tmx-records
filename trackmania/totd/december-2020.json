@@ -1487,7 +1487,7 @@
                     "delta": 19017,
                     "date": "2020-12-06T18:13:38+00:00",
                     "replay": "d919e16d-533a-4170-9f0d-8bbb2a27e7ff",
-                    "duration": 1
+                    "duration": 2
                 }
             ],
             "isOfficial": false,
@@ -1816,7 +1816,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "7cd60a75-609a-4e64-b286-16f329878249",
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
                         "zone": [
                             {
                                 "name": "World",
@@ -1834,34 +1834,108 @@
                                 "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Île-de-France",
+                                "name": "Bretagne",
                                 "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Paris",
-                                "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301fad4a-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Morbihan",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Tona."
+                        "name": "Gwen_TM"
                     },
-                    "score": 51472,
-                    "delta": 0,
-                    "date": "2020-12-08T09:57:30+00:00",
-                    "replay": "189d49a3-7f97-46c6-9e4b-54de985e9897",
+                    "score": 48177,
+                    "delta": 3295,
+                    "date": "2020-12-08T18:14:10+00:00",
+                    "replay": "66232ae7-db78-4390-ac32-9db97b3850f3",
                     "duration": 0
                 }
             ],
             "isOfficial": false,
-            "history": [],
+            "history": [
+                {
+                    "user": {
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Bretagne",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Morbihan",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "Gwen_TM"
+                    },
+                    "score": 48177,
+                    "delta": 3295,
+                    "date": "2020-12-08T18:14:10+00:00",
+                    "replay": "66232ae7-db78-4390-ac32-9db97b3850f3",
+                    "duration": 0
+                }
+            ],
             "thumbnail": "3cfffb1f-ca5b-4c1f-912f-379b67390ab3"
         }
     ],
     "stats": {
-        "totalTime": 350165
+        "totalTime": 346870
     },
     "leaderboard": [
+        {
+            "user": {
+                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bretagne",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Morbihan",
+                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Gwen_TM"
+            },
+            "wrs": 2,
+            "duration": 3
+        },
         {
             "user": {
                 "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
@@ -1954,41 +2028,6 @@
         },
         {
             "user": {
-                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Morbihan",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Gwen_TM"
-            },
-            "wrs": 1,
-            "duration": 3
-        },
-        {
-            "user": {
                 "id": "a5af97bc-d185-404f-a7d1-5c4e48d05db6",
                 "zone": [
                     {
@@ -2045,7 +2084,7 @@
                 "name": "Sedjems"
             },
             "wrs": 1,
-            "duration": 1
+            "duration": 2
         },
         {
             "user": {
@@ -2078,41 +2117,6 @@
                     }
                 ],
                 "name": "Kainry."
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "7cd60a75-609a-4e64-b286-16f329878249",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Île-de-France",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Paris",
-                        "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fad4a-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Tona."
             },
             "wrs": 1,
             "duration": 0
@@ -2253,7 +2257,7 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 13,
+            "wrs": 14,
             "duration": 0
         },
         {
@@ -2695,41 +2699,6 @@
             },
             "wrs": 1,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "7cd60a75-609a-4e64-b286-16f329878249",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Île-de-France",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Paris",
-                        "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fad4a-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Tona."
-            },
-            "wrs": 1,
-            "duration": 0
         }
     ],
     "historyCountryLeaderboard": [
@@ -2947,7 +2916,7 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 5
+            "wrs": 6
         },
         {
             "user": {
@@ -3372,40 +3341,6 @@
                     }
                 ],
                 "name": "Kainry."
-            },
-            "wrs": 1
-        },
-        {
-            "user": {
-                "id": "7cd60a75-609a-4e64-b286-16f329878249",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Île-de-France",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Paris",
-                        "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fad4a-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Tona."
             },
             "wrs": 1
         }
