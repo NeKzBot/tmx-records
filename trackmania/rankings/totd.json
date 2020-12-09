@@ -202,41 +202,6 @@
         },
         {
             "user": {
-                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Morbihan",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Gwen_TM"
-            },
-            "wrs": 5,
-            "duration": 50
-        },
-        {
-            "user": {
                 "id": "d46fb45d-d422-47c9-9785-67270a311e25",
                 "zone": [
                     {
@@ -299,6 +264,41 @@
             },
             "wrs": 5,
             "duration": 40
+        },
+        {
+            "user": {
+                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bretagne",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Morbihan",
+                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Gwen_TM"
+            },
+            "wrs": 4,
+            "duration": 50
         },
         {
             "user": {
@@ -949,6 +949,36 @@
             },
             "wrs": 1,
             "duration": 1
+        },
+        {
+            "user": {
+                "id": "43010ea8-02f9-4de1-90d8-4294b41257d1",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Canada",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Quebec",
+                        "parentId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e73a7-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Ornyx_x"
+            },
+            "wrs": 1,
+            "duration": 0
         },
         {
             "user": {
@@ -2035,7 +2065,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 37
+            "wrs": 36
         },
         {
             "zone": [
@@ -2285,14 +2315,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "North America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Portugal",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Canada",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
@@ -2305,17 +2335,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "North America",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Canada",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Portugal",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 1
+            "wrs": 2
         },
         {
             "zone": [
@@ -5651,6 +5681,36 @@
         },
         {
             "user": {
+                "id": "43010ea8-02f9-4de1-90d8-4294b41257d1",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Canada",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Quebec",
+                        "parentId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e73a7-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Ornyx_x"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "c367a4eb-78b0-4767-97e2-6b21c7e0ca01",
                 "zone": [
                     {
@@ -8159,7 +8219,7 @@
                     "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 18
+            "wrs": 19
         },
         {
             "zone": [
@@ -11088,6 +11148,35 @@
                     }
                 ],
                 "name": "Sedjems"
+            },
+            "wrs": 1
+        },
+        {
+            "user": {
+                "id": "43010ea8-02f9-4de1-90d8-4294b41257d1",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Canada",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Quebec",
+                        "parentId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e73a7-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Ornyx_x"
             },
             "wrs": 1
         },
@@ -14081,17 +14170,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "North America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Czechia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Canada",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 11
+            "wrs": 12
         },
         {
             "zone": [
@@ -14101,14 +14190,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "North America",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Canada",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Czechia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 11
