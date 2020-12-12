@@ -37,6 +37,41 @@
         },
         {
             "user": {
+                "id": "cd32b288-a361-483a-9c48-68417eb83c74",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nouvelle-Aquitaine",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fb84d-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Deux-Sèvres",
+                        "parentId": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fc272-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Flechetas"
+            },
+            "wrs": 6,
+            "duration": 272
+        },
+        {
+            "user": {
                 "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
                 "zone": [
                     {
@@ -113,42 +148,7 @@
                 "name": "GNR-HASKELL"
             },
             "wrs": 5,
-            "duration": 61
-        },
-        {
-            "user": {
-                "id": "cd32b288-a361-483a-9c48-68417eb83c74",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Nouvelle-Aquitaine",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fb84d-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Deux-Sèvres",
-                        "parentId": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fc272-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Flechetas"
-            },
-            "wrs": 5,
-            "duration": 272
+            "duration": 53
         },
         {
             "user": {
@@ -613,7 +613,7 @@
                 "name": "BODIVOD"
             },
             "wrs": 1,
-            "duration": 160
+            "duration": 161
         },
         {
             "user": {
@@ -1175,7 +1175,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 15
+            "wrs": 16
         },
         {
             "zone": [
@@ -1746,7 +1746,7 @@
                 ],
                 "name": "GNR-HASKELL"
             },
-            "wrs": 31,
+            "wrs": 32,
             "duration": 166
         },
         {
@@ -1991,6 +1991,41 @@
         },
         {
             "user": {
+                "id": "cd32b288-a361-483a-9c48-68417eb83c74",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nouvelle-Aquitaine",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fb84d-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Deux-Sèvres",
+                        "parentId": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fc272-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Flechetas"
+            },
+            "wrs": 9,
+            "duration": 276
+        },
+        {
+            "user": {
                 "id": "b05db0f8-d845-47d2-b0e5-795717038ac6",
                 "zone": [
                     {
@@ -2088,41 +2123,6 @@
             },
             "wrs": 9,
             "duration": 12
-        },
-        {
-            "user": {
-                "id": "cd32b288-a361-483a-9c48-68417eb83c74",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Nouvelle-Aquitaine",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fb84d-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Deux-Sèvres",
-                        "parentId": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fc272-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Flechetas"
-            },
-            "wrs": 8,
-            "duration": 276
         },
         {
             "user": {
@@ -5322,7 +5322,7 @@
                 ]
             },
             "wrs": 1,
-            "duration": 160
+            "duration": 161
         },
         {
             "user": {
@@ -5954,7 +5954,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 158
+            "wrs": 159
         },
         {
             "zone": [
@@ -6054,7 +6054,7 @@
                     "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 32
+            "wrs": 33
         },
         {
             "zone": [
@@ -6819,7 +6819,7 @@
                 ],
                 "name": "Flechetas"
             },
-            "wrs": 7
+            "wrs": 8
         },
         {
             "user": {
@@ -10835,7 +10835,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 88
+            "wrs": 89
         },
         {
             "zone": [
