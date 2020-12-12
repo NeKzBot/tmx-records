@@ -1487,7 +1487,7 @@
                     "delta": 19017,
                     "date": "2020-12-06T18:13:38+00:00",
                     "replay": "d919e16d-533a-4170-9f0d-8bbb2a27e7ff",
-                    "duration": 5
+                    "duration": 6
                 }
             ],
             "isOfficial": false,
@@ -2713,7 +2713,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "957c9eb3-228b-4244-8e6c-834f7300dca5",
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
                         "zone": [
                             {
                                 "name": "World",
@@ -2731,32 +2731,71 @@
                                 "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Auvergne-Rhône-Alpes",
+                                "name": "Bretagne",
                                 "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Rhône",
-                                "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f75d1-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Morbihan",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "ShineluTM"
+                        "name": "Gwen_TM"
                     },
-                    "score": 42371,
-                    "delta": 0,
-                    "date": "2020-12-07T16:25:52+00:00",
-                    "replay": "ebbfd28e-f8aa-46c0-adb3-311d20710209",
-                    "duration": 5
+                    "score": 39931,
+                    "delta": 2440,
+                    "date": "2020-12-12T18:13:35+00:00",
+                    "replay": "519f2266-5d1f-43df-ae37-0dd42520dd1c",
+                    "duration": 0
                 }
             ],
             "isOfficial": false,
-            "history": [],
+            "history": [
+                {
+                    "user": {
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Bretagne",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Morbihan",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "Gwen_TM"
+                    },
+                    "score": 39931,
+                    "delta": 2440,
+                    "date": "2020-12-12T18:13:35+00:00",
+                    "replay": "519f2266-5d1f-43df-ae37-0dd42520dd1c",
+                    "duration": 0
+                }
+            ],
             "thumbnail": "599d1ab1-da95-40e1-b8c5-9a4497e89c7d"
         }
     ],
     "stats": {
-        "totalTime": 579849
+        "totalTime": 577409
     },
     "leaderboard": [
         {
@@ -2788,6 +2827,41 @@
             },
             "wrs": 2,
             "duration": 8
+        },
+        {
+            "user": {
+                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bretagne",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Morbihan",
+                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Gwen_TM"
+            },
+            "wrs": 2,
+            "duration": 7
         },
         {
             "user": {
@@ -2851,41 +2925,6 @@
         },
         {
             "user": {
-                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Morbihan",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Gwen_TM"
-            },
-            "wrs": 1,
-            "duration": 7
-        },
-        {
-            "user": {
                 "id": "a5af97bc-d185-404f-a7d1-5c4e48d05db6",
                 "zone": [
                     {
@@ -2942,7 +2981,7 @@
                 "name": "Sedjems"
             },
             "wrs": 1,
-            "duration": 5
+            "duration": 6
         },
         {
             "user": {
@@ -3068,41 +3107,6 @@
             },
             "wrs": 1,
             "duration": 1
-        },
-        {
-            "user": {
-                "id": "957c9eb3-228b-4244-8e6c-834f7300dca5",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Auvergne-Rhône-Alpes",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Rhône",
-                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f75d1-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "ShineluTM"
-            },
-            "wrs": 1,
-            "duration": 5
         }
     ],
     "countryLeaderboard": [
@@ -3300,7 +3304,7 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 18,
+            "wrs": 19,
             "duration": 0
         },
         {
@@ -3917,41 +3921,6 @@
             },
             "wrs": 1,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "957c9eb3-228b-4244-8e6c-834f7300dca5",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Auvergne-Rhône-Alpes",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Rhône",
-                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f75d1-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "ShineluTM"
-            },
-            "wrs": 1,
-            "duration": 5
         }
     ],
     "historyCountryLeaderboard": [
@@ -4249,7 +4218,7 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 8
+            "wrs": 9
         },
         {
             "user": {
@@ -4843,40 +4812,6 @@
                     }
                 ],
                 "name": "Dopamine98"
-            },
-            "wrs": 1
-        },
-        {
-            "user": {
-                "id": "957c9eb3-228b-4244-8e6c-834f7300dca5",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Auvergne-Rhône-Alpes",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Rhône",
-                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f75d1-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "ShineluTM"
             },
             "wrs": 1
         }
