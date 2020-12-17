@@ -175,24 +175,14 @@
                         "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Europe",
+                        "name": "North America",
                         "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Grand Est",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fa0c0-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bas-Rhin",
-                        "parentId": "301fa0c0-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fa363-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Bahamas",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5811-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
                 "name": "MTP.hugo220"
@@ -383,7 +373,7 @@
                 "name": "Gwen_TM"
             },
             "wrs": 6,
-            "duration": 63
+            "duration": 64
         },
         {
             "user": {
@@ -413,7 +403,7 @@
                 "name": "AffiTM"
             },
             "wrs": 6,
-            "duration": 271
+            "duration": 272
         },
         {
             "user": {
@@ -1923,7 +1913,7 @@
                 "name": "TSUN.KAKKOU"
             },
             "wrs": 1,
-            "duration": 2
+            "duration": 3
         },
         {
             "user": {
@@ -3000,7 +2990,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 59
+            "wrs": 56
         },
         {
             "zone": [
@@ -3281,6 +3271,26 @@
                 }
             ],
             "wrs": 5
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "North America",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Bahamas",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e5811-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 3
         },
         {
             "zone": [
@@ -4447,7 +4457,7 @@
                 "name": "AffiTM"
             },
             "wrs": 12,
-            "duration": 244
+            "duration": 245
         },
         {
             "user": {
