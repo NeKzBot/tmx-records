@@ -11005,7 +11005,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
+                        "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
                         "zone": [
                             {
                                 "name": "World",
@@ -11018,27 +11018,22 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Germany",
+                                "name": "Poland",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Nordrhein-Westfalen",
-                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Dortmund",
-                                "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30201200-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Dolnośląskie",
+                                "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "3020ad48-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "riolu-tm"
+                        "name": "mime.."
                     },
-                    "score": 43961,
-                    "delta": 4,
-                    "date": "2020-12-19T19:50:58+00:00",
-                    "replay": "9fe2b80f-f422-4f1c-9c86-2fff09de1779",
+                    "score": 43938,
+                    "delta": 23,
+                    "date": "2020-12-20T12:10:18+00:00",
+                    "replay": "2b7da1c3-f855-403c-9ea1-ea1f4ccf0500",
                     "duration": 0
                 }
             ],
@@ -12125,6 +12120,39 @@
                     "delta": 4,
                     "date": "2020-12-19T19:50:58+00:00",
                     "replay": "9fe2b80f-f422-4f1c-9c86-2fff09de1779",
+                    "duration": 0
+                },
+                {
+                    "user": {
+                        "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Poland",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Dolnośląskie",
+                                "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "3020ad48-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "mime.."
+                    },
+                    "score": 43938,
+                    "delta": 23,
+                    "date": "2020-12-20T12:10:18+00:00",
+                    "replay": "2b7da1c3-f855-403c-9ea1-ea1f4ccf0500",
                     "duration": 0
                 }
             ],
@@ -19105,7 +19133,7 @@
         }
     ],
     "stats": {
-        "totalTime": 922011
+        "totalTime": 921988
     },
     "leaderboard": [
         {
@@ -19140,7 +19168,7 @@
                 ],
                 "name": "riolu-tm"
             },
-            "wrs": 8,
+            "wrs": 7,
             "duration": 232
         },
         {
@@ -19347,6 +19375,36 @@
             },
             "wrs": 1,
             "duration": 0
+        },
+        {
+            "user": {
+                "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Poland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Dolnośląskie",
+                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020ad48-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "mime.."
+            },
+            "wrs": 1,
+            "duration": 0
         }
     ],
     "countryLeaderboard": [
@@ -19368,7 +19426,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 9
+            "wrs": 8
         },
         {
             "zone": [
@@ -19438,17 +19496,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "South America",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Panama",
-                    "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Poland",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 2
+            "wrs": 3
         },
         {
             "zone": [
@@ -19458,14 +19516,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "South America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Poland",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Panama",
+                    "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
@@ -20624,6 +20682,36 @@
         },
         {
             "user": {
+                "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Poland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Dolnośląskie",
+                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020ad48-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "mime.."
+            },
+            "wrs": 4,
+            "duration": 2
+        },
+        {
+            "user": {
                 "id": "2a13aa7d-992d-4a7c-a3c5-d29b08b7f8cb",
                 "zone": [
                     {
@@ -20786,36 +20874,6 @@
             },
             "wrs": 3,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Poland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Dolnośląskie",
-                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020ad48-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "mime.."
-            },
-            "wrs": 3,
-            "duration": 2
         },
         {
             "user": {
@@ -22952,7 +23010,7 @@
                     "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 31
+            "wrs": 32
         },
         {
             "zone": [
