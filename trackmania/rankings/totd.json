@@ -1222,7 +1222,7 @@
         },
         {
             "user": {
-                "id": "962a2970-ac04-4475-885f-4dc1376fc062",
+                "id": "0def209a-944b-40ac-8dc8-989af08c8ef4",
                 "zone": [
                     {
                         "name": "World",
@@ -1235,22 +1235,17 @@
                         "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Germany",
+                        "name": "Portugal",
                         "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Sachsen-Anhalt",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020309d-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Halle",
-                        "parentId": "3020309d-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30203812-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Norte",
+                        "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302240ae-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "sh0rty.de"
+                "name": "PauLL.4W"
             },
             "wrs": 1,
             "duration": 0
@@ -2290,12 +2285,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Germany",
+                    "name": "France",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 40
+            "wrs": 39
         },
         {
             "zone": [
@@ -2310,9 +2305,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "France",
+                    "name": "Germany",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 39
@@ -2545,6 +2540,26 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Portugal",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 3
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Africa",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
@@ -2573,26 +2588,6 @@
                     "name": "Canada",
                     "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 2
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Portugal",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
@@ -4271,6 +4266,36 @@
         },
         {
             "user": {
+                "id": "0def209a-944b-40ac-8dc8-989af08c8ef4",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Portugal",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norte",
+                        "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302240ae-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "PauLL.4W"
+            },
+            "wrs": 5,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "abed9589-1509-4d56-83fa-7f2a72dbacb4",
                 "zone": [
                     {
@@ -4382,36 +4407,6 @@
                 "name": "KC.DarkeR"
             },
             "wrs": 5,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "0def209a-944b-40ac-8dc8-989af08c8ef4",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Portugal",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norte",
-                        "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302240ae-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "PauLL.4W"
-            },
-            "wrs": 4,
             "duration": 0
         },
         {
@@ -8834,14 +8829,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "North America",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Canada",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Portugal",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 20
@@ -8854,17 +8849,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "North America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Portugal",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Canada",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 19
+            "wrs": 20
         },
         {
             "zone": [
@@ -10728,6 +10723,35 @@
         },
         {
             "user": {
+                "id": "0def209a-944b-40ac-8dc8-989af08c8ef4",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Portugal",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norte",
+                        "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302240ae-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "PauLL.4W"
+            },
+            "wrs": 3
+        },
+        {
+            "user": {
                 "id": "962a2970-ac04-4475-885f-4dc1376fc062",
                 "zone": [
                     {
@@ -11308,35 +11332,6 @@
                     }
                 ],
                 "name": "RotakeR_"
-            },
-            "wrs": 2
-        },
-        {
-            "user": {
-                "id": "0def209a-944b-40ac-8dc8-989af08c8ef4",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Portugal",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norte",
-                        "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302240ae-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "PauLL.4W"
             },
             "wrs": 2
         },
@@ -15164,9 +15159,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Netherlands",
+                    "name": "Portugal",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 13
@@ -15184,12 +15179,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Portugal",
+                    "name": "Netherlands",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 12
+            "wrs": 13
         },
         {
             "zone": [
