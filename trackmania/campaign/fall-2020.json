@@ -16169,7 +16169,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "6c26b761-bd62-42b5-8190-e3e732c2b937",
+                        "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
                         "zone": [
                             {
                                 "name": "World",
@@ -16177,28 +16177,23 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "South America",
+                                "name": "Middle East",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Brazil",
-                                "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "São Paulo",
-                                "parentId": "301e6521-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "825a3452-6a36-4fe1-94b5-637986936ef7"
+                                "name": "Israel",
+                                "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "GNR-HASKELL"
+                        "name": "RacetalTM"
                     },
-                    "score": 52284,
-                    "delta": 60,
-                    "date": "2020-12-12T12:49:07+00:00",
-                    "replay": "522846da-922b-4d92-8bb5-21e9562bed1e",
-                    "duration": 11
+                    "score": 52261,
+                    "delta": 23,
+                    "date": "2020-12-24T12:20:08+00:00",
+                    "replay": "d7ead304-d5cd-498e-8957-5366151e2c24",
+                    "duration": 0
                 }
             ],
             "isOfficial": true,
@@ -16865,6 +16860,34 @@
                     "date": "2020-12-12T12:49:07+00:00",
                     "replay": "522846da-922b-4d92-8bb5-21e9562bed1e",
                     "duration": 11
+                },
+                {
+                    "user": {
+                        "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Middle East",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Israel",
+                                "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "RacetalTM"
+                    },
+                    "score": 52261,
+                    "delta": 23,
+                    "date": "2020-12-24T12:20:08+00:00",
+                    "replay": "d7ead304-d5cd-498e-8957-5366151e2c24",
+                    "duration": 0
                 }
             ],
             "thumbnail": "576c525c-9be4-44a5-aad0-6648e6f68140"
@@ -19534,7 +19557,7 @@
         }
     ],
     "stats": {
-        "totalTime": 921665
+        "totalTime": 921642
     },
     "leaderboard": [
         {
@@ -19594,8 +19617,33 @@
                 ],
                 "name": "RacetalTM"
             },
-            "wrs": 4,
+            "wrs": 5,
             "duration": 28
+        },
+        {
+            "user": {
+                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norway",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Erizel"
+            },
+            "wrs": 3,
+            "duration": 111
         },
         {
             "user": {
@@ -19624,33 +19672,8 @@
                 ],
                 "name": "GNR-HASKELL"
             },
-            "wrs": 4,
-            "duration": 40
-        },
-        {
-            "user": {
-                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norway",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Erizel"
-            },
             "wrs": 3,
-            "duration": 111
+            "duration": 29
         },
         {
             "user": {
@@ -19907,27 +19930,7 @@
                     "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "South America",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Brazil",
-                    "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 4
+            "wrs": 5
         },
         {
             "zone": [
@@ -19965,6 +19968,26 @@
                     "name": "Norway",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 3
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "South America",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Brazil",
+                    "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 3
@@ -20113,6 +20136,31 @@
         },
         {
             "user": {
+                "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Middle East",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Israel",
+                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "RacetalTM"
+            },
+            "wrs": 33,
+            "duration": 162
+        },
+        {
+            "user": {
                 "id": "6c26b761-bd62-42b5-8190-e3e732c2b937",
                 "zone": [
                     {
@@ -20140,31 +20188,6 @@
             },
             "wrs": 33,
             "duration": 190
-        },
-        {
-            "user": {
-                "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Middle East",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Israel",
-                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "RacetalTM"
-            },
-            "wrs": 32,
-            "duration": 162
         },
         {
             "user": {
@@ -23541,7 +23564,7 @@
                     "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 33
+            "wrs": 34
         },
         {
             "zone": [
