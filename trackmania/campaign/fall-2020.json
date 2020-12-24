@@ -3430,7 +3430,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "541cd232-0daa-48c4-8e59-5d9d70371f51",
+                        "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
                         "zone": [
                             {
                                 "name": "World",
@@ -3438,27 +3438,22 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Europe",
+                                "name": "Middle East",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Netherlands",
-                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Fryslân",
-                                "parentId": "302094fd-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3020986b-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Israel",
+                                "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "apX.Vixxa"
+                        "name": "RacetalTM"
                     },
-                    "score": 40601,
-                    "delta": 30,
-                    "date": "2020-12-24T00:26:47+00:00",
-                    "replay": "2a99fab9-e52f-45c8-aef3-c41f9df7dc92",
+                    "score": 40588,
+                    "delta": 13,
+                    "date": "2020-12-24T21:47:42+00:00",
+                    "replay": "bbb236ee-b4f7-4aec-972f-d73f93a05708",
                     "duration": 0
                 }
             ],
@@ -3947,6 +3942,34 @@
                     "delta": 30,
                     "date": "2020-12-24T00:26:47+00:00",
                     "replay": "2a99fab9-e52f-45c8-aef3-c41f9df7dc92",
+                    "duration": 0
+                },
+                {
+                    "user": {
+                        "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Middle East",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Israel",
+                                "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "RacetalTM"
+                    },
+                    "score": 40588,
+                    "delta": 13,
+                    "date": "2020-12-24T21:47:42+00:00",
+                    "replay": "bbb236ee-b4f7-4aec-972f-d73f93a05708",
                     "duration": 0
                 }
             ],
@@ -19613,9 +19636,34 @@
         }
     ],
     "stats": {
-        "totalTime": 921562
+        "totalTime": 921549
     },
     "leaderboard": [
+        {
+            "user": {
+                "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Middle East",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Israel",
+                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "RacetalTM"
+            },
+            "wrs": 7,
+            "duration": 29
+        },
         {
             "user": {
                 "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
@@ -19650,31 +19698,6 @@
             },
             "wrs": 6,
             "duration": 213
-        },
-        {
-            "user": {
-                "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Middle East",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Israel",
-                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "RacetalTM"
-            },
-            "wrs": 6,
-            "duration": 29
         },
         {
             "user": {
@@ -19795,36 +19818,6 @@
             },
             "wrs": 1,
             "duration": 1
-        },
-        {
-            "user": {
-                "id": "541cd232-0daa-48c4-8e59-5d9d70371f51",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Netherlands",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Fryslân",
-                        "parentId": "302094fd-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020986b-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "apX.Vixxa"
-            },
-            "wrs": 1,
-            "duration": 0
         },
         {
             "user": {
@@ -19986,7 +19979,7 @@
                     "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 6
+            "wrs": 7
         },
         {
             "zone": [
@@ -20047,26 +20040,6 @@
                 }
             ],
             "wrs": 2
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Netherlands",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
         },
         {
             "zone": [
@@ -20212,7 +20185,7 @@
                 ],
                 "name": "RacetalTM"
             },
-            "wrs": 34,
+            "wrs": 35,
             "duration": 163
         },
         {
@@ -23600,7 +23573,7 @@
                     "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 35
+            "wrs": 36
         },
         {
             "zone": [
