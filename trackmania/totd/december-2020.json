@@ -6915,7 +6915,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "da4642f9-6acf-43fe-88b6-b120ff1308ba",
+                        "id": "bd45204c-80f1-4809-b983-38b3f0ffc1ef",
                         "zone": [
                             {
                                 "name": "World",
@@ -6928,22 +6928,17 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Belgium",
+                                "name": "Norway",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Liège",
-                                "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e5e63-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Scrapie98"
+                        "name": "WirtualTM"
                     },
-                    "score": 51971,
-                    "delta": 87,
-                    "date": "2020-12-25T18:58:09+00:00",
-                    "replay": "84e04dc5-49d1-474d-89c8-8434451c20f8",
+                    "score": 51926,
+                    "delta": 45,
+                    "date": "2020-12-25T19:08:51+00:00",
+                    "replay": "2d28af02-b1d9-4071-8229-3a533131017c",
                     "duration": 0
                 }
             ],
@@ -7019,13 +7014,41 @@
                     "date": "2020-12-25T18:58:09+00:00",
                     "replay": "84e04dc5-49d1-474d-89c8-8434451c20f8",
                     "duration": 0
+                },
+                {
+                    "user": {
+                        "id": "bd45204c-80f1-4809-b983-38b3f0ffc1ef",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Norway",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "WirtualTM"
+                    },
+                    "score": 51926,
+                    "delta": 45,
+                    "date": "2020-12-25T19:08:51+00:00",
+                    "replay": "2d28af02-b1d9-4071-8229-3a533131017c",
+                    "duration": 0
                 }
             ],
             "thumbnail": "cbe59046-c1d1-4f0e-874d-4874e5e7faf2"
         }
     ],
     "stats": {
-        "totalTime": 1114538
+        "totalTime": 1114493
     },
     "leaderboard": [
         {
@@ -7055,7 +7078,7 @@
                 ],
                 "name": "Scrapie98"
             },
-            "wrs": 3,
+            "wrs": 2,
             "duration": 34
         },
         {
@@ -7707,6 +7730,31 @@
             },
             "wrs": 1,
             "duration": 0
+        },
+        {
+            "user": {
+                "id": "bd45204c-80f1-4809-b983-38b3f0ffc1ef",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norway",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "WirtualTM"
+            },
+            "wrs": 1,
+            "duration": 0
         }
     ],
     "countryLeaderboard": [
@@ -7743,9 +7791,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Belgium",
+                    "name": "Germany",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 4
@@ -7763,12 +7811,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Germany",
+                    "name": "Belgium",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
+            "wrs": 3
         },
         {
             "zone": [
@@ -7946,6 +7994,26 @@
                     "name": "Lithuania",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30208514-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Norway",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -9646,6 +9714,31 @@
             },
             "wrs": 1,
             "duration": 0
+        },
+        {
+            "user": {
+                "id": "bd45204c-80f1-4809-b983-38b3f0ffc1ef",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norway",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "WirtualTM"
+            },
+            "wrs": 1,
+            "duration": 0
         }
     ],
     "historyCountryLeaderboard": [
@@ -10045,6 +10138,26 @@
                     "name": "Estonia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301f5eb6-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Norway",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -11691,6 +11804,30 @@
                 "name": "the.Piranha"
             },
             "wrs": 1
+        },
+        {
+            "user": {
+                "id": "bd45204c-80f1-4809-b983-38b3f0ffc1ef",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norway",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "WirtualTM"
+            },
+            "wrs": 1
         }
     ],
     "uniqueCountryLeaderboard": [
@@ -12090,6 +12227,26 @@
                     "name": "Estonia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301f5eb6-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Norway",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
