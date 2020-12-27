@@ -1487,7 +1487,7 @@
                     "delta": 19017,
                     "date": "2020-12-06T18:13:38+00:00",
                     "replay": "d919e16d-533a-4170-9f0d-8bbb2a27e7ff",
-                    "duration": 20
+                    "duration": 21
                 }
             ],
             "isOfficial": false,
@@ -7775,7 +7775,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "05477e79-25fd-48c2-84c7-e1621aa46517",
+                        "id": "d46fb45d-d422-47c9-9785-67270a311e25",
                         "zone": [
                             {
                                 "name": "World",
@@ -7788,37 +7788,66 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Germany",
+                                "name": "Czechia",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Sachsen",
-                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30202744-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Dresden",
-                                "parentId": "30202744-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30202b1c-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Středočeský kraj",
+                                "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f555b-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Wavy.GranaDy"
+                        "name": "eLconn21"
                     },
-                    "score": 46245,
-                    "delta": 0,
-                    "date": "2020-12-21T16:42:39+00:00",
-                    "replay": "910c81fb-ecf0-430b-b4ee-124f9f5c9f89",
-                    "duration": 6
+                    "score": 45987,
+                    "delta": 258,
+                    "date": "2020-12-27T18:13:47+00:00",
+                    "replay": "40ce8f05-3628-460e-98ee-cc40378f1e23",
+                    "duration": 0
                 }
             ],
             "isOfficial": false,
-            "history": [],
+            "history": [
+                {
+                    "user": {
+                        "id": "d46fb45d-d422-47c9-9785-67270a311e25",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Czechia",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Středočeský kraj",
+                                "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f555b-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "eLconn21"
+                    },
+                    "score": 45987,
+                    "delta": 258,
+                    "date": "2020-12-27T18:13:47+00:00",
+                    "replay": "40ce8f05-3628-460e-98ee-cc40378f1e23",
+                    "duration": 0
+                }
+            ],
             "thumbnail": "3c4d864a-f8d1-4748-bb40-99311f60d76d"
         }
     ],
     "stats": {
-        "totalTime": 1208029
+        "totalTime": 1207771
     },
     "leaderboard": [
         {
@@ -7885,41 +7914,6 @@
             },
             "wrs": 2,
             "duration": 38
-        },
-        {
-            "user": {
-                "id": "05477e79-25fd-48c2-84c7-e1621aa46517",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Sachsen",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30202744-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Dresden",
-                        "parentId": "30202744-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30202b1c-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Wavy.GranaDy"
-            },
-            "wrs": 2,
-            "duration": 15
         },
         {
             "user": {
@@ -8074,7 +8068,7 @@
                 "name": "Sedjems"
             },
             "wrs": 1,
-            "duration": 20
+            "duration": 21
         },
         {
             "user": {
@@ -8328,6 +8322,41 @@
         },
         {
             "user": {
+                "id": "05477e79-25fd-48c2-84c7-e1621aa46517",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Sachsen",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30202744-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Dresden",
+                        "parentId": "30202744-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30202b1c-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Wavy.GranaDy"
+            },
+            "wrs": 1,
+            "duration": 9
+        },
+        {
+            "user": {
                 "id": "52f28ccd-89d1-4863-a119-822c7c7b6695",
                 "zone": [
                     {
@@ -8500,6 +8529,36 @@
             },
             "wrs": 1,
             "duration": 3
+        },
+        {
+            "user": {
+                "id": "d46fb45d-d422-47c9-9785-67270a311e25",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Czechia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Středočeský kraj",
+                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f555b-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "eLconn21"
+            },
+            "wrs": 1,
+            "duration": 0
         }
     ],
     "countryLeaderboard": [
@@ -8541,7 +8600,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 6
+            "wrs": 5
         },
         {
             "zone": [
@@ -8616,6 +8675,26 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Czechia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Switzerland",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
@@ -8659,26 +8738,6 @@
                     "name": "Canada",
                     "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Czechia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -8847,6 +8906,36 @@
         },
         {
             "user": {
+                "id": "d46fb45d-d422-47c9-9785-67270a311e25",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Czechia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Středočeský kraj",
+                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f555b-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "eLconn21"
+            },
+            "wrs": 7,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "a5af97bc-d185-404f-a7d1-5c4e48d05db6",
                 "zone": [
                     {
@@ -8901,36 +8990,6 @@
                     }
                 ],
                 "name": "FrevTM"
-            },
-            "wrs": 6,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "d46fb45d-d422-47c9-9785-67270a311e25",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Czechia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Středočeský kraj",
-                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f555b-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "eLconn21"
             },
             "wrs": 6,
             "duration": 0
@@ -9124,41 +9183,6 @@
             },
             "wrs": 5,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "05477e79-25fd-48c2-84c7-e1621aa46517",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Sachsen",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30202744-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Dresden",
-                        "parentId": "30202744-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30202b1c-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Wavy.GranaDy"
-            },
-            "wrs": 4,
-            "duration": 6
         },
         {
             "user": {
@@ -9373,6 +9397,41 @@
                 "name": "LeviTM"
             },
             "wrs": 4,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "05477e79-25fd-48c2-84c7-e1621aa46517",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Sachsen",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30202744-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Dresden",
+                        "parentId": "30202744-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30202b1c-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Wavy.GranaDy"
+            },
+            "wrs": 3,
             "duration": 0
         },
         {
@@ -10570,7 +10629,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 41
+            "wrs": 40
         },
         {
             "zone": [
@@ -10590,7 +10649,7 @@
                     "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 17
+            "wrs": 18
         },
         {
             "zone": [
@@ -11116,7 +11175,7 @@
         },
         {
             "user": {
-                "id": "05477e79-25fd-48c2-84c7-e1621aa46517",
+                "id": "d46fb45d-d422-47c9-9785-67270a311e25",
                 "zone": [
                     {
                         "name": "World",
@@ -11129,22 +11188,17 @@
                         "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Germany",
+                        "name": "Czechia",
                         "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Sachsen",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30202744-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Dresden",
-                        "parentId": "30202744-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30202b1c-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Středočeský kraj",
+                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f555b-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "Wavy.GranaDy"
+                "name": "eLconn21"
             },
             "wrs": 3
         },
@@ -11353,6 +11407,40 @@
         },
         {
             "user": {
+                "id": "05477e79-25fd-48c2-84c7-e1621aa46517",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Sachsen",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30202744-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Dresden",
+                        "parentId": "30202744-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30202b1c-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Wavy.GranaDy"
+            },
+            "wrs": 2
+        },
+        {
+            "user": {
                 "id": "8977a4a0-3458-4e00-a1f4-864e4d1d4dbe",
                 "zone": [
                     {
@@ -11377,35 +11465,6 @@
                     }
                 ],
                 "name": "ComplexStatics_"
-            },
-            "wrs": 2
-        },
-        {
-            "user": {
-                "id": "d46fb45d-d422-47c9-9785-67270a311e25",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Czechia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Středočeský kraj",
-                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f555b-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "eLconn21"
             },
             "wrs": 2
         },
@@ -12722,7 +12781,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 22
+            "wrs": 21
         },
         {
             "zone": [
@@ -12782,7 +12841,7 @@
                     "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 7
+            "wrs": 8
         },
         {
             "zone": [
