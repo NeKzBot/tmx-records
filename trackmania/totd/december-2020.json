@@ -8389,7 +8389,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "da4642f9-6acf-43fe-88b6-b120ff1308ba",
+                        "id": "0c857beb-fd95-4449-a669-21fb310cacae",
                         "zone": [
                             {
                                 "name": "World",
@@ -8397,27 +8397,27 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Europe",
+                                "name": "North America",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Belgium",
-                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Canada",
+                                "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Liège",
-                                "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e5e63-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Quebec",
+                                "parentId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e73a7-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Scrapie98"
+                        "name": "CarlJr."
                     },
-                    "score": 47230,
-                    "delta": 28,
-                    "date": "2020-12-29T19:00:07+00:00",
-                    "replay": "ec118609-9497-4e13-a4c1-2cc58b91b9ee",
+                    "score": 47038,
+                    "delta": 192,
+                    "date": "2020-12-29T19:04:11+00:00",
+                    "replay": "dae621ad-657b-40d7-9aa7-2de9074bf37a",
                     "duration": 0
                 }
             ],
@@ -8493,45 +8493,48 @@
                     "date": "2020-12-29T19:00:07+00:00",
                     "replay": "ec118609-9497-4e13-a4c1-2cc58b91b9ee",
                     "duration": 0
+                },
+                {
+                    "user": {
+                        "id": "0c857beb-fd95-4449-a669-21fb310cacae",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "North America",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Canada",
+                                "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Quebec",
+                                "parentId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e73a7-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "CarlJr."
+                    },
+                    "score": 47038,
+                    "delta": 192,
+                    "date": "2020-12-29T19:04:11+00:00",
+                    "replay": "dae621ad-657b-40d7-9aa7-2de9074bf37a",
+                    "duration": 0
                 }
             ],
             "thumbnail": "ca9517b6-b72b-4eeb-9793-a359e6065ed3"
         }
     ],
     "stats": {
-        "totalTime": 1292803
+        "totalTime": 1292611
     },
     "leaderboard": [
-        {
-            "user": {
-                "id": "da4642f9-6acf-43fe-88b6-b120ff1308ba",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Belgium",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Liège",
-                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e5e63-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Scrapie98"
-            },
-            "wrs": 3,
-            "duration": 42
-        },
         {
             "user": {
                 "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
@@ -8565,6 +8568,36 @@
                 "name": "Gwen_TM"
             },
             "wrs": 3,
+            "duration": 42
+        },
+        {
+            "user": {
+                "id": "da4642f9-6acf-43fe-88b6-b120ff1308ba",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Belgium",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Liège",
+                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5e63-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Scrapie98"
+            },
+            "wrs": 2,
             "duration": 42
         },
         {
@@ -9216,6 +9249,36 @@
             },
             "wrs": 1,
             "duration": 5
+        },
+        {
+            "user": {
+                "id": "0c857beb-fd95-4449-a669-21fb310cacae",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Canada",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Quebec",
+                        "parentId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e73a7-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "CarlJr."
+            },
+            "wrs": 1,
+            "duration": 0
         }
     ],
     "countryLeaderboard": [
@@ -9277,7 +9340,7 @@
                     "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
+            "wrs": 3
         },
         {
             "zone": [
@@ -9298,6 +9361,26 @@
                 }
             ],
             "wrs": 3
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "North America",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Canada",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
         },
         {
             "zone": [
@@ -9355,26 +9438,6 @@
                     "name": "Netherlands",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "North America",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Canada",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -10528,6 +10591,36 @@
         },
         {
             "user": {
+                "id": "0c857beb-fd95-4449-a669-21fb310cacae",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Canada",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Quebec",
+                        "parentId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e73a7-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "CarlJr."
+            },
+            "wrs": 2,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "dc9f18ad-d746-4cca-8b9a-7f068c123dbd",
                 "zone": [
                     {
@@ -11138,36 +11231,6 @@
         },
         {
             "user": {
-                "id": "0c857beb-fd95-4449-a669-21fb310cacae",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "North America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Canada",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Quebec",
-                        "parentId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e73a7-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "CarlJr."
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "45f29d90-1edb-43be-8933-a3f1418cfa27",
                 "zone": [
                     {
@@ -11536,6 +11599,26 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "North America",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Canada",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 5
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
@@ -11567,26 +11650,6 @@
                 }
             ],
             "wrs": 5
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "North America",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Canada",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 4
         },
         {
             "zone": [
@@ -12500,6 +12563,35 @@
         },
         {
             "user": {
+                "id": "0c857beb-fd95-4449-a669-21fb310cacae",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Canada",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Quebec",
+                        "parentId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e73a7-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "CarlJr."
+            },
+            "wrs": 2
+        },
+        {
+            "user": {
                 "id": "3bb0d130-637d-46a6-9c19-87fe4bda3c52",
                 "zone": [
                     {
@@ -13362,35 +13454,6 @@
         },
         {
             "user": {
-                "id": "0c857beb-fd95-4449-a669-21fb310cacae",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "North America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Canada",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Quebec",
-                        "parentId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e73a7-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "CarlJr."
-            },
-            "wrs": 1
-        },
-        {
-            "user": {
                 "id": "45f29d90-1edb-43be-8933-a3f1418cfa27",
                 "zone": [
                     {
@@ -13854,7 +13917,7 @@
                     "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 3
+            "wrs": 4
         },
         {
             "zone": [
