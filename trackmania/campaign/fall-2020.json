@@ -874,7 +874,7 @@
                     "delta": 21,
                     "date": "2020-10-09T13:00:05+00:00",
                     "replay": "85de4a7d-63e4-40cd-86f5-daabacd30781",
-                    "duration": 81
+                    "duration": 82
                 }
             ],
             "thumbnail": "48f6e3db-0153-4cef-81bf-9b68504dcbd6"
@@ -9308,7 +9308,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
+                        "id": "28f89eae-4e8f-4207-9eed-68ee8d0a0bc5",
                         "zone": [
                             {
                                 "name": "World",
@@ -9316,23 +9316,28 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Middle East",
+                                "name": "Europe",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Israel",
-                                "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Czechia",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Kraj Vysočina",
+                                "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f4ae5-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "RacetalTM"
+                        "name": "MorceTM"
                     },
-                    "score": 31265,
-                    "delta": 1,
-                    "date": "2020-12-22T00:43:37+00:00",
-                    "replay": "7e6db0dc-7a2a-4798-8fbc-e61245a3266f",
-                    "duration": 8
+                    "score": 31196,
+                    "delta": 69,
+                    "date": "2020-12-30T14:05:59+00:00",
+                    "replay": "228bcdcf-ae67-492f-b423-4e3ad584cda8",
+                    "duration": 0
                 }
             ],
             "isOfficial": true,
@@ -10118,6 +10123,39 @@
                     "date": "2020-12-22T00:43:37+00:00",
                     "replay": "7e6db0dc-7a2a-4798-8fbc-e61245a3266f",
                     "duration": 8
+                },
+                {
+                    "user": {
+                        "id": "28f89eae-4e8f-4207-9eed-68ee8d0a0bc5",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Czechia",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Kraj Vysočina",
+                                "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f4ae5-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "MorceTM"
+                    },
+                    "score": 31196,
+                    "delta": 69,
+                    "date": "2020-12-30T14:05:59+00:00",
+                    "replay": "228bcdcf-ae67-492f-b423-4e3ad584cda8",
+                    "duration": 0
                 }
             ],
             "thumbnail": "85ff0a77-1928-4d84-b3a3-888e4639676f"
@@ -15888,7 +15926,7 @@
                     "delta": 261,
                     "date": "2020-11-22T14:12:23+00:00",
                     "replay": "9fc04452-2df3-4e51-b5f7-853fa71d237d",
-                    "duration": 37
+                    "duration": 38
                 }
             ],
             "isOfficial": true,
@@ -16495,7 +16533,7 @@
                     "delta": 261,
                     "date": "2020-11-22T14:12:23+00:00",
                     "replay": "9fc04452-2df3-4e51-b5f7-853fa71d237d",
-                    "duration": 37
+                    "duration": 38
                 }
             ],
             "thumbnail": "fd2122eb-4033-4c66-aa66-f1c2813a8cb3"
@@ -20060,7 +20098,7 @@
         }
     ],
     "stats": {
-        "totalTime": 921134
+        "totalTime": 921065
     },
     "leaderboard": [
         {
@@ -20085,8 +20123,8 @@
                 ],
                 "name": "RacetalTM"
             },
-            "wrs": 9,
-            "duration": 71
+            "wrs": 8,
+            "duration": 63
         },
         {
             "user": {
@@ -20146,7 +20184,7 @@
                 "name": "Erizel"
             },
             "wrs": 3,
-            "duration": 129
+            "duration": 130
         },
         {
             "user": {
@@ -20270,6 +20308,36 @@
         },
         {
             "user": {
+                "id": "28f89eae-4e8f-4207-9eed-68ee8d0a0bc5",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Czechia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Kraj Vysočina",
+                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f4ae5-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MorceTM"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "ae6262f9-31ad-48a7-8445-3e701414a86a",
                 "zone": [
                     {
@@ -20388,7 +20456,7 @@
                     "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 9
+            "wrs": 8
         },
         {
             "zone": [
@@ -20523,6 +20591,26 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Czechia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Switzerland",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
@@ -20565,7 +20653,7 @@
                 "name": "riolu-tm"
             },
             "wrs": 46,
-            "duration": 516
+            "duration": 517
         },
         {
             "user": {
@@ -20590,7 +20678,7 @@
                 "name": "Erizel"
             },
             "wrs": 44,
-            "duration": 323
+            "duration": 324
         },
         {
             "user": {
@@ -21499,6 +21587,36 @@
         },
         {
             "user": {
+                "id": "28f89eae-4e8f-4207-9eed-68ee8d0a0bc5",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Czechia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Kraj Vysočina",
+                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f4ae5-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MorceTM"
+            },
+            "wrs": 5,
+            "duration": 14
+        },
+        {
+            "user": {
                 "id": "a98c34ef-5896-417b-bdfe-35c8ed25c4bc",
                 "zone": [
                     {
@@ -21656,36 +21774,6 @@
             },
             "wrs": 4,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "28f89eae-4e8f-4207-9eed-68ee8d0a0bc5",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Czechia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Kraj Vysočina",
-                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f4ae5-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "MorceTM"
-            },
-            "wrs": 4,
-            "duration": 14
         },
         {
             "user": {
@@ -24082,7 +24170,7 @@
                     "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 17
+            "wrs": 18
         },
         {
             "zone": [
