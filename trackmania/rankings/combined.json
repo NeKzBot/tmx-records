@@ -882,7 +882,7 @@
         },
         {
             "user": {
-                "id": "65341b56-1625-4df2-8fb4-ad7145c03c34",
+                "id": "6144e670-7461-4ade-87b2-798f32240a7d",
                 "zone": [
                     {
                         "name": "World",
@@ -895,25 +895,20 @@
                         "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "France",
+                        "name": "Belgium",
                         "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Outre-mer",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fe667-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Réunion",
-                        "parentId": "301fe667-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fea75-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Oost-Vlaanderen",
+                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e606d-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "Micka_TM"
+                "name": "Soolja"
             },
             "wrs": 2,
-            "duration": 0
+            "duration": 10
         },
         {
             "user": {
@@ -1486,6 +1481,41 @@
                     }
                 ],
                 "name": "AB3493"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "65341b56-1625-4df2-8fb4-ad7145c03c34",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Outre-mer",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fe667-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Réunion",
+                        "parentId": "301fe667-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fea75-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Micka_TM"
             },
             "wrs": 1,
             "duration": 0
@@ -2124,36 +2154,6 @@
             },
             "wrs": 1,
             "duration": 125
-        },
-        {
-            "user": {
-                "id": "6144e670-7461-4ade-87b2-798f32240a7d",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Belgium",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oost-Vlaanderen",
-                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e606d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Soolja"
-            },
-            "wrs": 1,
-            "duration": 10
         },
         {
             "user": {
@@ -3450,7 +3450,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 69
+            "wrs": 68
         },
         {
             "zone": [
@@ -3625,6 +3625,26 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Belgium",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 8
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Netherlands",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
@@ -3668,26 +3688,6 @@
                     "name": "Switzerland",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 7
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Belgium",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 7
@@ -5986,6 +5986,36 @@
         },
         {
             "user": {
+                "id": "6144e670-7461-4ade-87b2-798f32240a7d",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Belgium",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oost-Vlaanderen",
+                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e606d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Soolja"
+            },
+            "wrs": 7,
+            "duration": 12
+        },
+        {
+            "user": {
                 "id": "24b09acf-f745-408e-80fc-b1141054504c",
                 "zone": [
                     {
@@ -6328,36 +6358,6 @@
             },
             "wrs": 6,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "6144e670-7461-4ade-87b2-798f32240a7d",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Belgium",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oost-Vlaanderen",
-                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e606d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Soolja"
-            },
-            "wrs": 6,
-            "duration": 12
         },
         {
             "user": {
@@ -14699,7 +14699,7 @@
                     "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 44
+            "wrs": 45
         },
         {
             "zone": [
@@ -18437,6 +18437,35 @@
                     }
                 ],
                 "name": "VoMF1TeN"
+            },
+            "wrs": 2
+        },
+        {
+            "user": {
+                "id": "6144e670-7461-4ade-87b2-798f32240a7d",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Belgium",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oost-Vlaanderen",
+                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e606d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Soolja"
             },
             "wrs": 2
         },
@@ -22795,35 +22824,6 @@
         },
         {
             "user": {
-                "id": "6144e670-7461-4ade-87b2-798f32240a7d",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Belgium",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oost-Vlaanderen",
-                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e606d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Soolja"
-            },
-            "wrs": 1
-        },
-        {
-            "user": {
                 "id": "da0599d6-5a8b-4186-8c6c-23e16dcdd7f3",
                 "zone": [
                     {
@@ -25540,7 +25540,7 @@
                     "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 28
+            "wrs": 29
         },
         {
             "zone": [
