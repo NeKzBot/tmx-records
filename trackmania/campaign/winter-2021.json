@@ -1699,7 +1699,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "64a9dbf9-22b4-4143-a3d4-ffbae7a6ebfa",
+                        "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
                         "zone": [
                             {
                                 "name": "World",
@@ -1707,28 +1707,28 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "North America",
+                                "name": "Europe",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Canada",
-                                "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Switzerland",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Quebec",
-                                "parentId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e73a7-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Vaud",
+                                "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "LyRooZ.F1"
+                        "name": "AffiTM"
                     },
-                    "date": "2021-01-01T17:23:34+00:00",
-                    "replay": "f074e25a-2255-45dc-8152-9be836581332",
+                    "date": "2021-01-01T20:32:04+00:00",
+                    "replay": "8d4738e2-052c-44c2-ab86-b8f84b1b83be",
                     "duration": 0,
-                    "score": 36238,
-                    "delta": 148
+                    "score": 36218,
+                    "delta": 20
                 }
             ],
             "isOfficial": true,
@@ -2102,6 +2102,39 @@
                     "duration": 0,
                     "score": 36238,
                     "delta": 148
+                },
+                {
+                    "user": {
+                        "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Switzerland",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Vaud",
+                                "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "AffiTM"
+                    },
+                    "date": "2021-01-01T20:32:04+00:00",
+                    "replay": "8d4738e2-052c-44c2-ab86-b8f84b1b83be",
+                    "duration": 0,
+                    "score": 36218,
+                    "delta": 20
                 }
             ],
             "thumbnail": "82aec8fc-e20c-44dd-9b79-4a398c637996"
@@ -11040,9 +11073,39 @@
         }
     ],
     "stats": {
-        "totalTime": 1012537
+        "totalTime": 1012517
     },
     "leaderboard": [
+        {
+            "user": {
+                "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Switzerland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Vaud",
+                        "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AffiTM"
+            },
+            "wrs": 3,
+            "duration": 0
+        },
         {
             "user": {
                 "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
@@ -11076,36 +11139,6 @@
                 "name": "Gwen_TM"
             },
             "wrs": 3,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Switzerland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Vaud",
-                        "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AffiTM"
-            },
-            "wrs": 2,
             "duration": 0
         },
         {
@@ -11224,36 +11257,6 @@
                     }
                 ],
                 "name": "WilligamerTM"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "64a9dbf9-22b4-4143-a3d4-ffbae7a6ebfa",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "North America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Canada",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Quebec",
-                        "parentId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e73a7-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "LyRooZ.F1"
             },
             "wrs": 1,
             "duration": 0
@@ -11703,9 +11706,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Germany",
+                    "name": "Switzerland",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 3
@@ -11723,12 +11726,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Switzerland",
+                    "name": "Germany",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 2
+            "wrs": 3
         },
         {
             "zone": [
@@ -11786,26 +11789,6 @@
                     "name": "Sweden",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30228671-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "North America",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Canada",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -12074,6 +12057,36 @@
         },
         {
             "user": {
+                "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Switzerland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Vaud",
+                        "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AffiTM"
+            },
+            "wrs": 7,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "65341b56-1625-4df2-8fb4-ad7145c03c34",
                 "zone": [
                     {
@@ -12195,36 +12208,6 @@
                 "name": "FrevTM"
             },
             "wrs": 7,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Switzerland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Vaud",
-                        "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AffiTM"
-            },
-            "wrs": 6,
             "duration": 0
         },
         {
@@ -15677,9 +15660,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Czechia",
+                    "name": "Switzerland",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 12
@@ -15697,12 +15680,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Switzerland",
+                    "name": "Czechia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 11
+            "wrs": 12
         },
         {
             "zone": [
@@ -16141,7 +16124,7 @@
                 ],
                 "name": "AffiTM"
             },
-            "wrs": 4
+            "wrs": 5
         },
         {
             "user": {
@@ -19663,7 +19646,7 @@
                     "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 9
+            "wrs": 10
         },
         {
             "zone": [
