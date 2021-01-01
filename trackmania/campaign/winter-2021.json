@@ -10,7 +10,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "8cfbfb63-8b1a-476a-99a4-aa1b91657159",
+                        "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
                         "zone": [
                             {
                                 "name": "World",
@@ -23,28 +23,23 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Germany",
+                                "name": "Switzerland",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Sachsen",
-                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30202744-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Dresden",
-                                "parentId": "30202744-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30202b1c-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Vaud",
+                                "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "tsun.Focus"
+                        "name": "AffiTM"
                     },
-                    "date": "2021-01-01T17:20:05+00:00",
-                    "replay": "e15b1afd-8640-4bd6-a133-f5232ffd9139",
+                    "date": "2021-01-01T17:37:02+00:00",
+                    "replay": "d63ee1b3-46be-4170-949c-26ffb12323d6",
                     "duration": 0,
-                    "score": 23436,
-                    "delta": 39
+                    "score": 23413,
+                    "delta": 23
                 }
             ],
             "isOfficial": true,
@@ -228,6 +223,39 @@
                     "duration": 0,
                     "score": 23436,
                     "delta": 39
+                },
+                {
+                    "user": {
+                        "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Switzerland",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Vaud",
+                                "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "AffiTM"
+                    },
+                    "date": "2021-01-01T17:37:02+00:00",
+                    "replay": "d63ee1b3-46be-4170-949c-26ffb12323d6",
+                    "duration": 0,
+                    "score": 23413,
+                    "delta": 23
                 }
             ],
             "thumbnail": "01326c98-0677-4e1e-b681-a88f228372f5"
@@ -963,7 +991,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "cb72807a-bf51-4fbe-84e3-1e3501432bf5",
+                        "id": "04b139f8-02b9-43bb-9312-39a2cea0a48c",
                         "zone": [
                             {
                                 "name": "World",
@@ -971,28 +999,33 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "North America",
+                                "name": "Europe",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "United States",
-                                "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Texas",
-                                "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3022ed9f-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Centre-Val de Loire",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Cher",
+                                "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f989f-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "phegley"
+                        "name": "Nath_TM"
                     },
-                    "date": "2021-01-01T16:42:23+00:00",
-                    "replay": "cc929aa3-bb5f-43f3-9b5c-f967dd1e640c",
+                    "date": "2021-01-01T17:39:01+00:00",
+                    "replay": "764fbe2e-8163-460c-95fa-4dc7f3cdcab2",
                     "duration": 0,
-                    "score": 22318,
-                    "delta": 14
+                    "score": 22295,
+                    "delta": 23
                 }
             ],
             "isOfficial": true,
@@ -1257,6 +1290,44 @@
                     "duration": 0,
                     "score": 22318,
                     "delta": 14
+                },
+                {
+                    "user": {
+                        "id": "04b139f8-02b9-43bb-9312-39a2cea0a48c",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Centre-Val de Loire",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Cher",
+                                "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f989f-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "Nath_TM"
+                    },
+                    "date": "2021-01-01T17:39:01+00:00",
+                    "replay": "764fbe2e-8163-460c-95fa-4dc7f3cdcab2",
+                    "duration": 0,
+                    "score": 22295,
+                    "delta": 23
                 }
             ],
             "thumbnail": "72a3a413-b63c-485e-ab53-6504e382fc7c"
@@ -5625,7 +5696,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "c367a4eb-78b0-4767-97e2-6b21c7e0ca01",
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
                         "zone": [
                             {
                                 "name": "World",
@@ -5648,18 +5719,18 @@
                                 "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Finistère",
+                                "name": "Morbihan",
                                 "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f9648-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "OneX.Xerar"
+                        "name": "Gwen_TM"
                     },
-                    "date": "2021-01-01T16:58:03+00:00",
-                    "replay": "f579486b-cd71-4506-af89-4947a13e4bdc",
+                    "date": "2021-01-01T17:38:23+00:00",
+                    "replay": "7d759b0f-0a44-40d0-ae5b-3d532c3ba593",
                     "duration": 0,
-                    "score": 42418,
-                    "delta": 50
+                    "score": 42285,
+                    "delta": 133
                 }
             ],
             "isOfficial": true,
@@ -5957,6 +6028,44 @@
                     "duration": 0,
                     "score": 42418,
                     "delta": 50
+                },
+                {
+                    "user": {
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Bretagne",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Morbihan",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "Gwen_TM"
+                    },
+                    "date": "2021-01-01T17:38:23+00:00",
+                    "replay": "7d759b0f-0a44-40d0-ae5b-3d532c3ba593",
+                    "duration": 0,
+                    "score": 42285,
+                    "delta": 133
                 }
             ],
             "thumbnail": "fe6ead18-df4a-4edc-8c54-289daa2fa9ed"
@@ -6388,7 +6497,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "65341b56-1625-4df2-8fb4-ad7145c03c34",
+                        "id": "c7b0adf2-a3d0-48e8-8fd8-4aa0e07f53a2",
                         "zone": [
                             {
                                 "name": "World",
@@ -6406,23 +6515,23 @@
                                 "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Outre-mer",
+                                "name": "Hauts-de-France",
                                 "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301fe667-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301fa812-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Réunion",
-                                "parentId": "301fe667-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301fea75-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Oise",
+                                "parentId": "301fa812-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301fa9ce-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Micka_TM"
+                        "name": "MimoJr"
                     },
-                    "date": "2021-01-01T17:14:47+00:00",
-                    "replay": "d5076803-d69d-46b6-9b4e-aff645ad91d0",
+                    "date": "2021-01-01T17:37:04+00:00",
+                    "replay": "b29f5b66-8829-40d8-ba3b-727d8a3227c5",
                     "duration": 0,
-                    "score": 42797,
-                    "delta": 304
+                    "score": 42757,
+                    "delta": 40
                 }
             ],
             "isOfficial": true,
@@ -6609,6 +6718,44 @@
                     "duration": 0,
                     "score": 42797,
                     "delta": 304
+                },
+                {
+                    "user": {
+                        "id": "c7b0adf2-a3d0-48e8-8fd8-4aa0e07f53a2",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Hauts-de-France",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301fa812-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Oise",
+                                "parentId": "301fa812-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301fa9ce-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "MimoJr"
+                    },
+                    "date": "2021-01-01T17:37:04+00:00",
+                    "replay": "b29f5b66-8829-40d8-ba3b-727d8a3227c5",
+                    "duration": 0,
+                    "score": 42757,
+                    "delta": 40
                 }
             ],
             "thumbnail": "2e5a4d97-938e-46d5-85d1-1b47f716ff87"
@@ -6955,11 +7102,11 @@
                         ],
                         "name": "Numelops.Hunter"
                     },
-                    "date": "2021-01-01T17:19:19+00:00",
-                    "replay": "aebedb3b-d8af-4a0b-b675-cf7ccad51426",
+                    "date": "2021-01-01T17:38:58+00:00",
+                    "replay": "f947b1cb-d311-4b9a-9a7f-9f37c898bb74",
                     "duration": 0,
-                    "score": 44015,
-                    "delta": 112
+                    "score": 43825,
+                    "delta": 190
                 }
             ],
             "isOfficial": true,
@@ -7214,6 +7361,44 @@
                     "duration": 0,
                     "score": 44015,
                     "delta": 112
+                },
+                {
+                    "user": {
+                        "id": "01849299-5e26-45eb-b9a3-d1ebe6b5a0c3",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Germany",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Bayern",
+                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Augsburg",
+                                "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ffa36-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "Numelops.Hunter"
+                    },
+                    "date": "2021-01-01T17:38:58+00:00",
+                    "replay": "f947b1cb-d311-4b9a-9a7f-9f37c898bb74",
+                    "duration": 0,
+                    "score": 43825,
+                    "delta": 190
                 }
             ],
             "thumbnail": "b6d1b76a-de6a-402c-aec6-02ef214de92b"
@@ -8224,7 +8409,7 @@
         }
     ],
     "stats": {
-        "totalTime": 1027209
+        "totalTime": 1026800
     },
     "leaderboard": [
         {
@@ -8259,7 +8444,7 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 5,
+            "wrs": 6,
             "duration": 0
         },
         {
@@ -8299,41 +8484,6 @@
         },
         {
             "user": {
-                "id": "65341b56-1625-4df2-8fb4-ad7145c03c34",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Outre-mer",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fe667-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Réunion",
-                        "parentId": "301fe667-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fea75-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Micka_TM"
-            },
-            "wrs": 2,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "aa57691a-dbde-4b5f-97e4-52bcf02156cf",
                 "zone": [
                     {
@@ -8364,7 +8514,7 @@
         },
         {
             "user": {
-                "id": "8cfbfb63-8b1a-476a-99a4-aa1b91657159",
+                "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
                 "zone": [
                     {
                         "name": "World",
@@ -8377,22 +8527,17 @@
                         "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Germany",
+                        "name": "Switzerland",
                         "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Sachsen",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30202744-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Dresden",
-                        "parentId": "30202744-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30202b1c-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Vaud",
+                        "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "tsun.Focus"
+                "name": "AffiTM"
             },
             "wrs": 1,
             "duration": 0
@@ -8464,7 +8609,7 @@
         },
         {
             "user": {
-                "id": "cb72807a-bf51-4fbe-84e3-1e3501432bf5",
+                "id": "04b139f8-02b9-43bb-9312-39a2cea0a48c",
                 "zone": [
                     {
                         "name": "World",
@@ -8472,22 +8617,27 @@
                         "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "North America",
+                        "name": "Europe",
                         "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "United States",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Texas",
-                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ed9f-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Centre-Val de Loire",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Cher",
+                        "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f989f-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "phegley"
+                "name": "Nath_TM"
             },
             "wrs": 1,
             "duration": 0
@@ -8578,6 +8728,41 @@
                     }
                 ],
                 "name": "Numelops.Harry"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "65341b56-1625-4df2-8fb4-ad7145c03c34",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Outre-mer",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fe667-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Réunion",
+                        "parentId": "301fe667-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fea75-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Micka_TM"
             },
             "wrs": 1,
             "duration": 0
@@ -8679,41 +8864,6 @@
         },
         {
             "user": {
-                "id": "c367a4eb-78b0-4767-97e2-6b21c7e0ca01",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Finistère",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9648-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "OneX.Xerar"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "ee5c55c1-4b1e-40ca-a684-f8edefa1bf33",
                 "zone": [
                     {
@@ -8733,6 +8883,41 @@
                     }
                 ],
                 "name": "Masabwasabi"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "c7b0adf2-a3d0-48e8-8fd8-4aa0e07f53a2",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Hauts-de-France",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fa812-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oise",
+                        "parentId": "301fa812-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fa9ce-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MimoJr"
             },
             "wrs": 1,
             "duration": 0
@@ -8822,7 +9007,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 12
+            "wrs": 13
         },
         {
             "zone": [
@@ -8842,7 +9027,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
+            "wrs": 3
         },
         {
             "zone": [
@@ -8877,9 +9062,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Spain",
+                    "name": "Switzerland",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30225b07-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -8892,14 +9077,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "North America",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "United States",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Spain",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30225b07-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -9038,7 +9223,7 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 17,
+            "wrs": 18,
             "duration": 0
         },
         {
@@ -9258,6 +9443,36 @@
         },
         {
             "user": {
+                "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Switzerland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Vaud",
+                        "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AffiTM"
+            },
+            "wrs": 4,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "65341b56-1625-4df2-8fb4-ad7145c03c34",
                 "zone": [
                     {
@@ -9459,36 +9674,6 @@
                 "name": "hamm_TM"
             },
             "wrs": 4,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Switzerland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Vaud",
-                        "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AffiTM"
-            },
-            "wrs": 3,
             "duration": 0
         },
         {
@@ -10273,6 +10458,41 @@
         },
         {
             "user": {
+                "id": "01849299-5e26-45eb-b9a3-d1ebe6b5a0c3",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bayern",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Augsburg",
+                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ffa36-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Numelops.Hunter"
+            },
+            "wrs": 2,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "60b87855-7dda-44c3-844a-86da686ca103",
                 "zone": [
                     {
@@ -10697,6 +10917,41 @@
                     }
                 ],
                 "name": "phegley"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "04b139f8-02b9-43bb-9312-39a2cea0a48c",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Centre-Val de Loire",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Cher",
+                        "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f989f-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Nath_TM"
             },
             "wrs": 1,
             "duration": 0
@@ -11873,7 +12128,7 @@
         },
         {
             "user": {
-                "id": "01849299-5e26-45eb-b9a3-d1ebe6b5a0c3",
+                "id": "c7b0adf2-a3d0-48e8-8fd8-4aa0e07f53a2",
                 "zone": [
                     {
                         "name": "World",
@@ -11886,22 +12141,22 @@
                         "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Germany",
+                        "name": "France",
                         "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Bayern",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Hauts-de-France",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fa812-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Augsburg",
-                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ffa36-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Oise",
+                        "parentId": "301fa812-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fa9ce-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "Numelops.Hunter"
+                "name": "MimoJr"
             },
             "wrs": 1,
             "duration": 0
@@ -12136,7 +12391,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 77
+            "wrs": 80
         },
         {
             "zone": [
@@ -12156,7 +12411,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 42
+            "wrs": 43
         },
         {
             "zone": [
@@ -12236,7 +12491,7 @@
                     "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 7
+            "wrs": 8
         },
         {
             "zone": [
@@ -13709,6 +13964,40 @@
         },
         {
             "user": {
+                "id": "04b139f8-02b9-43bb-9312-39a2cea0a48c",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Centre-Val de Loire",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Cher",
+                        "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f989f-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Nath_TM"
+            },
+            "wrs": 1
+        },
+        {
+            "user": {
                 "id": "5db172fc-21e4-4618-8039-fba4b2d421b9",
                 "zone": [
                     {
@@ -15182,6 +15471,40 @@
         },
         {
             "user": {
+                "id": "c7b0adf2-a3d0-48e8-8fd8-4aa0e07f53a2",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Hauts-de-France",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fa812-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oise",
+                        "parentId": "301fa812-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fa9ce-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MimoJr"
+            },
+            "wrs": 1
+        },
+        {
+            "user": {
                 "id": "59774340-614e-43eb-991b-629b2fab8575",
                 "zone": [
                     {
@@ -15535,7 +15858,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 59
+            "wrs": 61
         },
         {
             "zone": [
