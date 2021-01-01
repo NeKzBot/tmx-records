@@ -9569,7 +9569,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "65341b56-1625-4df2-8fb4-ad7145c03c34",
+                        "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
                         "zone": [
                             {
                                 "name": "World",
@@ -9577,33 +9577,23 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Europe",
+                                "name": "Asia",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "France",
-                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Outre-mer",
-                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301fe667-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Réunion",
-                                "parentId": "301fe667-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301fea75-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Kazakhstan",
+                                "parentId": "301e2069-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Micka_TM"
+                        "name": "MTP.hugo220"
                     },
-                    "date": "2021-01-01T19:45:37+00:00",
-                    "replay": "3e9755fe-9494-4b8f-be30-d8352f9d7c56",
+                    "date": "2021-01-01T23:55:09+00:00",
+                    "replay": "2839afb5-afa9-49f7-9643-6f486bb84272",
                     "duration": 0,
-                    "score": 41858,
-                    "delta": 78
+                    "score": 41578,
+                    "delta": 280
                 }
             ],
             "isOfficial": true,
@@ -9998,6 +9988,34 @@
                     "duration": 0,
                     "score": 41858,
                     "delta": 78
+                },
+                {
+                    "user": {
+                        "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Asia",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Kazakhstan",
+                                "parentId": "301e2069-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "MTP.hugo220"
+                    },
+                    "date": "2021-01-01T23:55:09+00:00",
+                    "replay": "2839afb5-afa9-49f7-9643-6f486bb84272",
+                    "duration": 0,
+                    "score": 41578,
+                    "delta": 280
                 }
             ],
             "thumbnail": "2e5a4d97-938e-46d5-85d1-1b47f716ff87"
@@ -12260,7 +12278,7 @@
         }
     ],
     "stats": {
-        "totalTime": 1009864
+        "totalTime": 1009584
     },
     "leaderboard": [
         {
@@ -12320,7 +12338,7 @@
                 ],
                 "name": "MTP.hugo220"
             },
-            "wrs": 3,
+            "wrs": 4,
             "duration": 0
         },
         {
@@ -12695,41 +12713,6 @@
         },
         {
             "user": {
-                "id": "65341b56-1625-4df2-8fb4-ad7145c03c34",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Outre-mer",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fe667-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Réunion",
-                        "parentId": "301fe667-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fea75-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Micka_TM"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "a390b00c-96cd-4ddb-bfe0-373aeffae0db",
                 "zone": [
                     {
@@ -12848,7 +12831,27 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 9
+            "wrs": 8
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Asia",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Kazakhstan",
+                    "parentId": "301e2069-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 4
         },
         {
             "zone": [
@@ -12869,26 +12872,6 @@
                 }
             ],
             "wrs": 4
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Asia",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Kazakhstan",
-                    "parentId": "301e2069-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 3
         },
         {
             "zone": [
@@ -13224,6 +13207,31 @@
         },
         {
             "user": {
+                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Asia",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Kazakhstan",
+                        "parentId": "301e2069-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MTP.hugo220"
+            },
+            "wrs": 8,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "a6ae76c9-9030-4a7b-b533-cacfd6e85cb2",
                 "zone": [
                     {
@@ -13288,31 +13296,6 @@
                     }
                 ],
                 "name": "Micka_TM"
-            },
-            "wrs": 7,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Asia",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Kazakhstan",
-                        "parentId": "301e2069-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "MTP.hugo220"
             },
             "wrs": 7,
             "duration": 0
@@ -17132,7 +17115,7 @@
                     "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 7
+            "wrs": 8
         },
         {
             "zone": [
