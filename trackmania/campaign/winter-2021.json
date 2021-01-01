@@ -6292,7 +6292,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                        "id": "a5e2c2f7-93cc-4e7b-9fd7-ca93d9dea9f6",
                         "zone": [
                             {
                                 "name": "World",
@@ -6305,28 +6305,23 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "France",
+                                "name": "Belgium",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Bretagne",
-                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Morbihan",
-                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Hainaut",
+                                "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e5de0-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Gwen_TM"
+                        "name": "max_glo"
                     },
-                    "date": "2021-01-01T17:38:23+00:00",
-                    "replay": "7d759b0f-0a44-40d0-ae5b-3d532c3ba593",
+                    "date": "2021-01-01T18:24:11+00:00",
+                    "replay": "19f858c9-0f42-427b-9931-c279709b2029",
                     "duration": 0,
-                    "score": 42285,
-                    "delta": 133
+                    "score": 42098,
+                    "delta": 187
                 }
             ],
             "isOfficial": true,
@@ -6662,6 +6657,39 @@
                     "duration": 0,
                     "score": 42285,
                     "delta": 133
+                },
+                {
+                    "user": {
+                        "id": "a5e2c2f7-93cc-4e7b-9fd7-ca93d9dea9f6",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Belgium",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Hainaut",
+                                "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e5de0-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "max_glo"
+                    },
+                    "date": "2021-01-01T18:24:11+00:00",
+                    "replay": "19f858c9-0f42-427b-9931-c279709b2029",
+                    "duration": 0,
+                    "score": 42098,
+                    "delta": 187
                 }
             ],
             "thumbnail": "fe6ead18-df4a-4edc-8c54-289daa2fa9ed"
@@ -9236,7 +9264,7 @@
         }
     ],
     "stats": {
-        "totalTime": 1020088
+        "totalTime": 1019901
     },
     "leaderboard": [
         {
@@ -9271,7 +9299,7 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 5,
+            "wrs": 4,
             "duration": 0
         },
         {
@@ -9681,6 +9709,36 @@
         },
         {
             "user": {
+                "id": "a5e2c2f7-93cc-4e7b-9fd7-ca93d9dea9f6",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Belgium",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Hainaut",
+                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5de0-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "max_glo"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "ee5c55c1-4b1e-40ca-a684-f8edefa1bf33",
                 "zone": [
                     {
@@ -9824,7 +9882,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 10
+            "wrs": 9
         },
         {
             "zone": [
@@ -9882,6 +9940,26 @@
                     "name": "Germany",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Belgium",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
@@ -10002,26 +10080,6 @@
                     "name": "Finland",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Belgium",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -13000,6 +13058,36 @@
         },
         {
             "user": {
+                "id": "a5e2c2f7-93cc-4e7b-9fd7-ca93d9dea9f6",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Belgium",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Hainaut",
+                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5de0-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "max_glo"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "f09336c7-dcb8-4851-9192-4fb8604e3fc0",
                 "zone": [
                     {
@@ -13398,7 +13486,7 @@
                     "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 16
+            "wrs": 17
         },
         {
             "zone": [
@@ -16414,6 +16502,35 @@
         },
         {
             "user": {
+                "id": "a5e2c2f7-93cc-4e7b-9fd7-ca93d9dea9f6",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Belgium",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Hainaut",
+                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5de0-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "max_glo"
+            },
+            "wrs": 1
+        },
+        {
+            "user": {
                 "id": "f09336c7-dcb8-4851-9192-4fb8604e3fc0",
                 "zone": [
                     {
@@ -17006,9 +17123,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Netherlands",
+                    "name": "Belgium",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 8
@@ -17026,12 +17143,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Belgium",
+                    "name": "Netherlands",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 7
+            "wrs": 8
         },
         {
             "zone": [
