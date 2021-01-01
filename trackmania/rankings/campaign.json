@@ -62,31 +62,6 @@
         },
         {
             "user": {
-                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Asia",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Kazakhstan",
-                        "parentId": "301e2069-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "MTP.hugo220"
-            },
-            "wrs": 6,
-            "duration": 121
-        },
-        {
-            "user": {
                 "id": "cd32b288-a361-483a-9c48-68417eb83c74",
                 "zone": [
                     {
@@ -119,6 +94,31 @@
             },
             "wrs": 6,
             "duration": 266
+        },
+        {
+            "user": {
+                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Asia",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Kazakhstan",
+                        "parentId": "301e2069-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MTP.hugo220"
+            },
+            "wrs": 5,
+            "duration": 121
         },
         {
             "user": {
@@ -836,6 +836,31 @@
                     }
                 ],
                 "name": "max_glo"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "ee5c55c1-4b1e-40ca-a684-f8edefa1bf33",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Finland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Masabwasabi"
             },
             "wrs": 1,
             "duration": 0
@@ -1775,14 +1800,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Asia",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Kazakhstan",
-                    "parentId": "301e2069-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Czechia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 4
@@ -1795,17 +1820,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "Asia",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Czechia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Kazakhstan",
+                    "parentId": "301e2069-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
+            "wrs": 3
         },
         {
             "zone": [
@@ -1883,6 +1908,26 @@
                     "name": "Austria",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Finland",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
@@ -1983,26 +2028,6 @@
                     "name": "Netherlands",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "302094fd-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Finland",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -2706,6 +2731,31 @@
         },
         {
             "user": {
+                "id": "ee5c55c1-4b1e-40ca-a684-f8edefa1bf33",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Finland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Masabwasabi"
+            },
+            "wrs": 10,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "cd32b288-a361-483a-9c48-68417eb83c74",
                 "zone": [
                     {
@@ -2830,31 +2880,6 @@
                     }
                 ],
                 "name": "Scrapie98"
-            },
-            "wrs": 9,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "ee5c55c1-4b1e-40ca-a684-f8edefa1bf33",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Finland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Masabwasabi"
             },
             "wrs": 9,
             "duration": 0
@@ -4256,6 +4281,41 @@
         },
         {
             "user": {
+                "id": "dc9f18ad-d746-4cca-8b9a-7f068c123dbd",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nordrhein-Westfalen",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Köln",
+                        "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302015a3-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "the.Piranha"
+            },
+            "wrs": 3,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "a390b00c-96cd-4ddb-bfe0-373aeffae0db",
                 "zone": [
                     {
@@ -4880,41 +4940,6 @@
                     }
                 ],
                 "name": "Ixxonn"
-            },
-            "wrs": 2,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "dc9f18ad-d746-4cca-8b9a-7f068c123dbd",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Nordrhein-Westfalen",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Köln",
-                        "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302015a3-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "the.Piranha"
             },
             "wrs": 2,
             "duration": 0
@@ -8994,7 +9019,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 182
+            "wrs": 183
         },
         {
             "zone": [
@@ -9234,7 +9259,7 @@
                     "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 15
+            "wrs": 16
         },
         {
             "zone": [
