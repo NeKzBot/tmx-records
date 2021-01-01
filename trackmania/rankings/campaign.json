@@ -3926,6 +3926,41 @@
         },
         {
             "user": {
+                "id": "1addcb03-37e7-4463-82ae-65d64e144015",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bayern",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Augsburg",
+                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ffa36-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "TomsenTM"
+            },
+            "wrs": 4,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "01849299-5e26-45eb-b9a3-d1ebe6b5a0c3",
                 "zone": [
                     {
@@ -4415,41 +4450,6 @@
                     }
                 ],
                 "name": "par_h3lion"
-            },
-            "wrs": 3,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "1addcb03-37e7-4463-82ae-65d64e144015",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bayern",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Augsburg",
-                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ffa36-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "TomsenTM"
             },
             "wrs": 3,
             "duration": 0
@@ -9224,7 +9224,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 194
+            "wrs": 195
         },
         {
             "zone": [
