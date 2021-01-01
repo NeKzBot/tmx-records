@@ -122,6 +122,31 @@
         },
         {
             "user": {
+                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norway",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Erizel"
+            },
+            "wrs": 5,
+            "duration": 132
+        },
+        {
+            "user": {
                 "id": "6c26b761-bd62-42b5-8190-e3e732c2b937",
                 "zone": [
                     {
@@ -237,33 +262,8 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 4,
+            "wrs": 3,
             "duration": 16
-        },
-        {
-            "user": {
-                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norway",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Erizel"
-            },
-            "wrs": 4,
-            "duration": 132
         },
         {
             "user": {
@@ -592,6 +592,31 @@
         },
         {
             "user": {
+                "id": "b09527f2-b61d-4d9a-8cdc-73484590f81f",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Africa",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Uganda",
+                        "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Insanity.TM"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "f3ec2968-b71e-4865-b2bc-7fcbf123d298",
                 "zone": [
                     {
@@ -876,36 +901,6 @@
                     }
                 ],
                 "name": "Micka_TM"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "aa57691a-dbde-4b5f-97e4-52bcf02156cf",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Poland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Mazowieckie",
-                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302218ec-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "FrevTM"
             },
             "wrs": 1,
             "duration": 0
@@ -1625,7 +1620,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 27
+            "wrs": 26
         },
         {
             "zone": [
@@ -1680,9 +1675,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Poland",
+                    "name": "Norway",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 6
@@ -1700,9 +1695,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Norway",
+                    "name": "Poland",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 5
@@ -1955,6 +1950,26 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Africa",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Uganda",
+                    "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
@@ -2126,7 +2141,7 @@
                 ],
                 "name": "Erizel"
             },
-            "wrs": 45,
+            "wrs": 46,
             "duration": 330
         },
         {
@@ -2491,36 +2506,6 @@
         },
         {
             "user": {
-                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oceania",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australia",
-                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australian Capital Territory",
-                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AR_Mudda"
-            },
-            "wrs": 13,
-            "duration": 130
-        },
-        {
-            "user": {
                 "id": "e2630e0a-72f9-4b47-8cb4-15a2abfad1df",
                 "zone": [
                     {
@@ -2551,8 +2536,38 @@
                 ],
                 "name": "SapiTM"
             },
-            "wrs": 12,
+            "wrs": 13,
             "duration": 0
+        },
+        {
+            "user": {
+                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oceania",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australia",
+                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australian Capital Territory",
+                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_Mudda"
+            },
+            "wrs": 13,
+            "duration": 130
         },
         {
             "user": {
@@ -3406,6 +3421,31 @@
         },
         {
             "user": {
+                "id": "b09527f2-b61d-4d9a-8cdc-73484590f81f",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Africa",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Uganda",
+                        "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Insanity.TM"
+            },
+            "wrs": 5,
+            "duration": 22
+        },
+        {
+            "user": {
                 "id": "de590c4e-f98c-4783-afa8-a01efb069ceb",
                 "zone": [
                     {
@@ -3923,41 +3963,6 @@
             },
             "wrs": 4,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "b09527f2-b61d-4d9a-8cdc-73484590f81f",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Île-de-France",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Essonne",
-                        "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fac1b-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Insanity.TM"
-            },
-            "wrs": 4,
-            "duration": 22
         },
         {
             "user": {
@@ -8964,7 +8969,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 266
+            "wrs": 267
         },
         {
             "zone": [
@@ -9004,7 +9009,7 @@
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 67
+            "wrs": 68
         },
         {
             "zone": [
@@ -9274,17 +9279,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "Africa",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "United Kingdom",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Uganda",
+                    "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 6
+            "wrs": 7
         },
         {
             "zone": [
@@ -9294,14 +9299,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Africa",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Uganda",
-                    "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "United Kingdom",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 6
@@ -9879,7 +9884,7 @@
                 ],
                 "name": "Erizel"
             },
-            "wrs": 10
+            "wrs": 11
         },
         {
             "user": {
@@ -11245,6 +11250,30 @@
                     }
                 ],
                 "name": "JurixTM"
+            },
+            "wrs": 2
+        },
+        {
+            "user": {
+                "id": "b09527f2-b61d-4d9a-8cdc-73484590f81f",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Africa",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Uganda",
+                        "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Insanity.TM"
             },
             "wrs": 2
         },
@@ -15299,40 +15328,6 @@
         },
         {
             "user": {
-                "id": "b09527f2-b61d-4d9a-8cdc-73484590f81f",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Île-de-France",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Essonne",
-                        "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fac1b-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Insanity.TM"
-            },
-            "wrs": 1
-        },
-        {
-            "user": {
                 "id": "0ebd7a0d-6bca-4077-b3f9-e8f4856b37d5",
                 "zone": [
                     {
@@ -16467,7 +16462,7 @@
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 19
+            "wrs": 20
         },
         {
             "zone": [
@@ -16757,6 +16752,26 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Africa",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Uganda",
+                    "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 3
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Asia",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
@@ -16825,26 +16840,6 @@
                     "name": "Lithuania",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30208514-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 2
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Africa",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Uganda",
-                    "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
