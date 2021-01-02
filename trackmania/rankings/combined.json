@@ -5401,6 +5401,41 @@
         },
         {
             "user": {
+                "id": "49965c7b-d71c-467d-99c7-ff4092daf0ca",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Auvergne-Rhône-Alpes",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Isère",
+                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6969-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "CamionTM"
+            },
+            "wrs": 11,
+            "duration": 363
+        },
+        {
+            "user": {
                 "id": "bd45204c-80f1-4809-b983-38b3f0ffc1ef",
                 "zone": [
                     {
@@ -5518,41 +5553,6 @@
             },
             "wrs": 11,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "49965c7b-d71c-467d-99c7-ff4092daf0ca",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Auvergne-Rhône-Alpes",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Isère",
-                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6969-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "CamionTM"
-            },
-            "wrs": 10,
-            "duration": 363
         },
         {
             "user": {
@@ -15064,7 +15064,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 622
+            "wrs": 623
         },
         {
             "zone": [
