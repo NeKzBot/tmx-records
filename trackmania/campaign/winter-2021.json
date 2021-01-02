@@ -7473,7 +7473,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
+                        "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
                         "zone": [
                             {
                                 "name": "World",
@@ -7481,33 +7481,23 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Europe",
+                                "name": "Asia",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Germany",
-                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Niedersachsen",
-                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Braunschweig",
-                                "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30200ab8-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Kazakhstan",
+                                "parentId": "301e2069-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "DexteR.771"
+                        "name": "MTP.hugo220"
                     },
-                    "date": "2021-01-02T04:20:09+00:00",
-                    "replay": "95085103-2822-4a86-bea1-daba4dca4de0",
+                    "date": "2021-01-02T10:06:19+00:00",
+                    "replay": "3c2e1360-129f-498b-83ed-5235416377df",
                     "duration": 0,
-                    "score": 54028,
-                    "delta": 100
+                    "score": 53794,
+                    "delta": 234
                 }
             ],
             "isOfficial": true,
@@ -7917,6 +7907,34 @@
                     "duration": 0,
                     "score": 54028,
                     "delta": 100
+                },
+                {
+                    "user": {
+                        "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Asia",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Kazakhstan",
+                                "parentId": "301e2069-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "MTP.hugo220"
+                    },
+                    "date": "2021-01-02T10:06:19+00:00",
+                    "replay": "3c2e1360-129f-498b-83ed-5235416377df",
+                    "duration": 0,
+                    "score": 53794,
+                    "delta": 234
                 }
             ],
             "thumbnail": "a10cf853-157c-4777-9675-189d8eb214c6"
@@ -12732,7 +12750,7 @@
         }
     ],
     "stats": {
-        "totalTime": 1007633
+        "totalTime": 1007399
     },
     "leaderboard": [
         {
@@ -12792,7 +12810,7 @@
                 ],
                 "name": "MTP.hugo220"
             },
-            "wrs": 3,
+            "wrs": 4,
             "duration": 0
         },
         {
@@ -13152,41 +13170,6 @@
         },
         {
             "user": {
-                "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Niedersachsen",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Braunschweig",
-                        "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30200ab8-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "DexteR.771"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "56d650f4-e286-40e7-a978-c05cbeca7b07",
                 "zone": [
                     {
@@ -13380,7 +13363,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 6
+            "wrs": 5
         },
         {
             "zone": [
@@ -13400,7 +13383,7 @@
                     "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 3
+            "wrs": 4
         },
         {
             "zone": [
@@ -13601,7 +13584,7 @@
                 ],
                 "name": "MTP.hugo220"
             },
-            "wrs": 10,
+            "wrs": 11,
             "duration": 0
         },
         {
@@ -17794,7 +17777,7 @@
                     "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 10
+            "wrs": 11
         },
         {
             "zone": [
