@@ -9282,7 +9282,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "4f0b8dec-eaee-4cf3-bc40-66a983dde494",
+                        "id": "a5e2c2f7-93cc-4e7b-9fd7-ca93d9dea9f6",
                         "zone": [
                             {
                                 "name": "World",
@@ -9295,28 +9295,23 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "France",
+                                "name": "Belgium",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Pays-de-la-Loire",
-                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301feb1f-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Loire-Atlantique",
-                                "parentId": "301feb1f-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301febb8-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Hainaut",
+                                "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e5de0-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "PCS.Roquete"
+                        "name": "max_glo"
                     },
-                    "date": "2021-01-02T16:37:25+00:00",
-                    "replay": "f242391c-d4e2-4834-a5a0-ae3f2ab7797f",
+                    "date": "2021-01-02T18:30:19+00:00",
+                    "replay": "d65bad97-c78b-4aa6-bb78-da877827d870",
                     "duration": 0,
-                    "score": 41207,
-                    "delta": 200
+                    "score": 41082,
+                    "delta": 125
                 }
             ],
             "isOfficial": true,
@@ -9893,6 +9888,39 @@
                     "duration": 0,
                     "score": 41207,
                     "delta": 200
+                },
+                {
+                    "user": {
+                        "id": "a5e2c2f7-93cc-4e7b-9fd7-ca93d9dea9f6",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Belgium",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Hainaut",
+                                "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e5de0-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "max_glo"
+                    },
+                    "date": "2021-01-02T18:30:19+00:00",
+                    "replay": "d65bad97-c78b-4aa6-bb78-da877827d870",
+                    "duration": 0,
+                    "score": 41082,
+                    "delta": 125
                 }
             ],
             "thumbnail": "fe6ead18-df4a-4edc-8c54-289daa2fa9ed"
@@ -13518,7 +13546,7 @@
         }
     ],
     "stats": {
-        "totalTime": 1005231
+        "totalTime": 1005106
     },
     "leaderboard": [
         {
@@ -13579,41 +13607,6 @@
                 "name": "MTP.hugo220"
             },
             "wrs": 3,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "4f0b8dec-eaee-4cf3-bc40-66a983dde494",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Pays-de-la-Loire",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301feb1f-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Loire-Atlantique",
-                        "parentId": "301feb1f-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301febb8-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "PCS.Roquete"
-            },
-            "wrs": 2,
             "duration": 0
         },
         {
@@ -13933,6 +13926,71 @@
         },
         {
             "user": {
+                "id": "a5e2c2f7-93cc-4e7b-9fd7-ca93d9dea9f6",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Belgium",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Hainaut",
+                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5de0-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "max_glo"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "4f0b8dec-eaee-4cf3-bc40-66a983dde494",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Pays-de-la-Loire",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301feb1f-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Loire-Atlantique",
+                        "parentId": "301feb1f-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301febb8-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "PCS.Roquete"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
                 "zone": [
                     {
@@ -14076,7 +14134,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 10
+            "wrs": 9
         },
         {
             "zone": [
@@ -14151,6 +14209,26 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Belgium",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Norway",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
@@ -14194,26 +14272,6 @@
                     "name": "Switzerland",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Belgium",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -15112,6 +15170,36 @@
         },
         {
             "user": {
+                "id": "a5e2c2f7-93cc-4e7b-9fd7-ca93d9dea9f6",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Belgium",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Hainaut",
+                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5de0-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "max_glo"
+            },
+            "wrs": 4,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "01849299-5e26-45eb-b9a3-d1ebe6b5a0c3",
                 "zone": [
                     {
@@ -15426,36 +15514,6 @@
                     }
                 ],
                 "name": "Eria.TM"
-            },
-            "wrs": 3,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "a5e2c2f7-93cc-4e7b-9fd7-ca93d9dea9f6",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Belgium",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Hainaut",
-                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e5de0-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "max_glo"
             },
             "wrs": 3,
             "duration": 0
@@ -18510,7 +18568,7 @@
                     "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 21
+            "wrs": 22
         },
         {
             "zone": [
