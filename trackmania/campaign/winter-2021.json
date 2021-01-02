@@ -663,11 +663,11 @@
                         ],
                         "name": "CamionTM"
                     },
-                    "date": "2021-01-02T14:44:06+00:00",
-                    "replay": "640ec9b3-f9b7-4f09-9955-648c5ccf6c0d",
+                    "date": "2021-01-02T16:08:04+00:00",
+                    "replay": "52b7d26f-4284-4e51-b4ce-6b709269d501",
                     "duration": 0,
-                    "score": 20568,
-                    "delta": 52
+                    "score": 20558,
+                    "delta": 10
                 }
             ],
             "isOfficial": true,
@@ -1502,6 +1502,44 @@
                     "duration": 0,
                     "score": 20568,
                     "delta": 52
+                },
+                {
+                    "user": {
+                        "id": "49965c7b-d71c-467d-99c7-ff4092daf0ca",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Auvergne-Rhône-Alpes",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Isère",
+                                "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6969-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "CamionTM"
+                    },
+                    "date": "2021-01-02T16:08:04+00:00",
+                    "replay": "52b7d26f-4284-4e51-b4ce-6b709269d501",
+                    "duration": 0,
+                    "score": 20558,
+                    "delta": 10
                 }
             ],
             "thumbnail": "6cc31d9e-f9e8-4790-996d-2a687b7f6b17"
@@ -13300,7 +13338,7 @@
         }
     ],
     "stats": {
-        "totalTime": 1005975
+        "totalTime": 1005965
     },
     "leaderboard": [
         {
@@ -14239,36 +14277,6 @@
         },
         {
             "user": {
-                "id": "aa57691a-dbde-4b5f-97e4-52bcf02156cf",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Poland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Mazowieckie",
-                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302218ec-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "FrevTM"
-            },
-            "wrs": 9,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "49965c7b-d71c-467d-99c7-ff4092daf0ca",
                 "zone": [
                     {
@@ -14299,7 +14307,37 @@
                 ],
                 "name": "CamionTM"
             },
-            "wrs": 8,
+            "wrs": 9,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "aa57691a-dbde-4b5f-97e4-52bcf02156cf",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Poland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Mazowieckie",
+                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302218ec-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "FrevTM"
+            },
+            "wrs": 9,
             "duration": 0
         },
         {
@@ -18257,7 +18295,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 129
+            "wrs": 130
         },
         {
             "zone": [
