@@ -467,7 +467,7 @@
         },
         {
             "user": {
-                "id": "dc512a57-42b5-411d-b798-ed1961c4fac3",
+                "id": "b6a9ef20-2a1c-4dd2-bb65-fb65f6dc4f1b",
                 "zone": [
                     {
                         "name": "World",
@@ -480,22 +480,12 @@
                         "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Germany",
+                        "name": "Slovakia",
                         "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Niedersachsen",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Hannover",
-                        "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30200b48-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "302251c1-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "LeGSimi"
+                "name": "raizo_O"
             },
             "wrs": 1,
             "duration": 0
@@ -1520,7 +1510,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 18
+            "wrs": 17
         },
         {
             "zone": [
@@ -1741,6 +1731,26 @@
                 }
             ],
             "wrs": 3
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Slovakia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "302251c1-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
         },
         {
             "zone": [
@@ -4845,6 +4855,31 @@
                     }
                 ],
                 "name": "Marius.89"
+            },
+            "wrs": 2,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "b6a9ef20-2a1c-4dd2-bb65-fb65f6dc4f1b",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Slovakia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302251c1-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "raizo_O"
             },
             "wrs": 2,
             "duration": 0
@@ -8036,31 +8071,6 @@
         },
         {
             "user": {
-                "id": "b6a9ef20-2a1c-4dd2-bb65-fb65f6dc4f1b",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Slovakia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302251c1-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "raizo_O"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "23ae2d9d-ae19-4060-9901-19e19a8f6690",
                 "zone": [
                     {
@@ -9944,6 +9954,26 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Slovakia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "302251c1-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Lithuania",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30208514-7e13-11e8-8060-e284abfd2bc4"
@@ -9967,26 +9997,6 @@
                     "name": "Estonia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301f5eb6-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Slovakia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "302251c1-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -11772,6 +11782,30 @@
                     }
                 ],
                 "name": "LeGSimi"
+            },
+            "wrs": 2
+        },
+        {
+            "user": {
+                "id": "b6a9ef20-2a1c-4dd2-bb65-fb65f6dc4f1b",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Slovakia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302251c1-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "raizo_O"
             },
             "wrs": 2
         },
@@ -15498,30 +15532,6 @@
         },
         {
             "user": {
-                "id": "b6a9ef20-2a1c-4dd2-bb65-fb65f6dc4f1b",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Slovakia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302251c1-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "raizo_O"
-            },
-            "wrs": 1
-        },
-        {
-            "user": {
                 "id": "23ae2d9d-ae19-4060-9901-19e19a8f6690",
                 "zone": [
                     {
@@ -17858,6 +17868,26 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Slovakia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "302251c1-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Hungary",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30204b2f-7e13-11e8-8060-e284abfd2bc4"
@@ -17941,26 +17971,6 @@
                     "name": "Estonia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301f5eb6-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Slovakia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "302251c1-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
