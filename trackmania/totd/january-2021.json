@@ -863,7 +863,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "962a2970-ac04-4475-885f-4dc1376fc062",
+                        "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
                         "zone": [
                             {
                                 "name": "World",
@@ -881,23 +881,23 @@
                                 "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Sachsen-Anhalt",
+                                "name": "Niedersachsen",
                                 "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3020309d-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Halle",
-                                "parentId": "3020309d-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30203812-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Braunschweig",
+                                "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30200ab8-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "sh0rty.de"
+                        "name": "DexteR.771"
                     },
-                    "date": "2021-01-03T23:12:34+00:00",
-                    "replay": "ae79db0f-8ea6-46f9-93e8-9893596ce524",
+                    "date": "2021-01-03T23:19:31+00:00",
+                    "replay": "8a95bf63-2991-4759-8faf-e0dfbf25cf48",
                     "duration": 0,
-                    "score": 39627,
-                    "delta": 41
+                    "score": 39417,
+                    "delta": 210
                 }
             ],
             "isOfficial": false,
@@ -1157,15 +1157,83 @@
                     "duration": 0,
                     "score": 39627,
                     "delta": 41
+                },
+                {
+                    "user": {
+                        "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Germany",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Niedersachsen",
+                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Braunschweig",
+                                "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30200ab8-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "DexteR.771"
+                    },
+                    "date": "2021-01-03T23:19:31+00:00",
+                    "replay": "8a95bf63-2991-4759-8faf-e0dfbf25cf48",
+                    "duration": 0,
+                    "score": 39417,
+                    "delta": 210
                 }
             ],
             "thumbnail": "5698f995-4500-46b5-a6db-584cb55faa3d"
         }
     ],
     "stats": {
-        "totalTime": 130539
+        "totalTime": 130329
     },
     "leaderboard": [
+        {
+            "user": {
+                "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Italy",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Emilia-Romagna",
+                        "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "DubbyTM"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
         {
             "user": {
                 "id": "962a2970-ac04-4475-885f-4dc1376fc062",
@@ -1198,12 +1266,12 @@
                 ],
                 "name": "sh0rty.de"
             },
-            "wrs": 2,
+            "wrs": 1,
             "duration": 0
         },
         {
             "user": {
-                "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
+                "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
                 "zone": [
                     {
                         "name": "World",
@@ -1216,17 +1284,22 @@
                         "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Italy",
+                        "name": "Germany",
                         "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Emilia-Romagna",
-                        "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Niedersachsen",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Braunschweig",
+                        "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30200ab8-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "DubbyTM"
+                "name": "DexteR.771"
             },
             "wrs": 1,
             "duration": 0
@@ -1442,6 +1515,41 @@
         },
         {
             "user": {
+                "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Niedersachsen",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Braunschweig",
+                        "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30200ab8-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "DexteR.771"
+            },
+            "wrs": 2,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "9da54743-020c-4e87-82b9-1dad80f8162d",
                 "zone": [
                     {
@@ -1566,41 +1674,6 @@
                     }
                 ],
                 "name": "Scrapie98"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Niedersachsen",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Braunschweig",
-                        "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30200ab8-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "DexteR.771"
             },
             "wrs": 1,
             "duration": 0
@@ -1740,7 +1813,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 6
+            "wrs": 7
         },
         {
             "zone": [
@@ -1934,6 +2007,40 @@
         },
         {
             "user": {
+                "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Niedersachsen",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Braunschweig",
+                        "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30200ab8-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "DexteR.771"
+            },
+            "wrs": 2
+        },
+        {
+            "user": {
                 "id": "f6980cd4-77ce-4045-bc73-25e68997d911",
                 "zone": [
                     {
@@ -2118,40 +2225,6 @@
         },
         {
             "user": {
-                "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Niedersachsen",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Braunschweig",
-                        "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30200ab8-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "DexteR.771"
-            },
-            "wrs": 1
-        },
-        {
-            "user": {
                 "id": "05477e79-25fd-48c2-84c7-e1621aa46517",
                 "zone": [
                     {
@@ -2296,7 +2369,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 5
+            "wrs": 6
         },
         {
             "zone": [
