@@ -893,11 +893,11 @@
                         ],
                         "name": "OneX.Vulnerra"
                     },
-                    "date": "2021-01-03T18:42:34+00:00",
-                    "replay": "8f1f6079-9268-4802-983f-4406fd15e96b",
+                    "date": "2021-01-03T18:48:38+00:00",
+                    "replay": "186b5376-2921-4084-916e-92dd4931cadb",
                     "duration": 0,
-                    "score": 39828,
-                    "delta": 126
+                    "score": 39822,
+                    "delta": 6
                 }
             ],
             "isOfficial": false,
@@ -1043,13 +1043,51 @@
                     "duration": 0,
                     "score": 39828,
                     "delta": 126
+                },
+                {
+                    "user": {
+                        "id": "9da54743-020c-4e87-82b9-1dad80f8162d",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Bretagne",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Finistère",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9648-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "OneX.Vulnerra"
+                    },
+                    "date": "2021-01-03T18:48:38+00:00",
+                    "replay": "186b5376-2921-4084-916e-92dd4931cadb",
+                    "duration": 0,
+                    "score": 39822,
+                    "delta": 6
                 }
             ],
             "thumbnail": "5698f995-4500-46b5-a6db-584cb55faa3d"
         }
     ],
     "stats": {
-        "totalTime": 130740
+        "totalTime": 130734
     },
     "leaderboard": [
         {
@@ -1383,6 +1421,41 @@
         },
         {
             "user": {
+                "id": "9da54743-020c-4e87-82b9-1dad80f8162d",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bretagne",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Finistère",
+                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9648-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "OneX.Vulnerra"
+            },
+            "wrs": 2,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "f6980cd4-77ce-4045-bc73-25e68997d911",
                 "zone": [
                     {
@@ -1570,41 +1643,6 @@
             },
             "wrs": 1,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "9da54743-020c-4e87-82b9-1dad80f8162d",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Finistère",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9648-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "OneX.Vulnerra"
-            },
-            "wrs": 1,
-            "duration": 0
         }
     ],
     "historyCountryLeaderboard": [
@@ -1666,7 +1704,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
+            "wrs": 5
         },
         {
             "zone": [
