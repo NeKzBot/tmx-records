@@ -4175,7 +4175,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
+                        "id": "5cada1ac-a938-4468-af83-8e945d6251f3",
                         "zone": [
                             {
                                 "name": "World",
@@ -4183,23 +4183,33 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Asia",
+                                "name": "Europe",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2069-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Kazakhstan",
-                                "parentId": "301e2069-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Germany",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Nordrhein-Westfalen",
+                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Dortmund",
+                                "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30201200-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "MTP.hugo220"
+                        "name": "PatroseTV"
                     },
-                    "date": "2021-01-01T23:36:09+00:00",
-                    "replay": "b88ebc04-f14c-4262-b080-90eaac839c33",
+                    "date": "2021-01-04T11:28:40+00:00",
+                    "replay": "99e52809-6884-47be-bc6e-2fecfa8eed0d",
                     "duration": 0,
-                    "score": 33581,
-                    "delta": 27
+                    "score": 33460,
+                    "delta": 121
                 }
             ],
             "isOfficial": true,
@@ -4718,6 +4728,44 @@
                     "duration": 2,
                     "score": 33581,
                     "delta": 27
+                },
+                {
+                    "user": {
+                        "id": "5cada1ac-a938-4468-af83-8e945d6251f3",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Germany",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Nordrhein-Westfalen",
+                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Dortmund",
+                                "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30201200-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "PatroseTV"
+                    },
+                    "date": "2021-01-04T11:28:40+00:00",
+                    "replay": "99e52809-6884-47be-bc6e-2fecfa8eed0d",
+                    "duration": 0,
+                    "score": 33460,
+                    "delta": 121
                 }
             ],
             "thumbnail": "1d295ed0-5139-4b29-932f-ff5f8d59c6fb"
@@ -15456,34 +15504,9 @@
         }
     ],
     "stats": {
-        "totalTime": 999967
+        "totalTime": 999846
     },
     "leaderboard": [
-        {
-            "user": {
-                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Middle East",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Israel",
-                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "MTP.hugo220"
-            },
-            "wrs": 4,
-            "duration": 0
-        },
         {
             "user": {
                 "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
@@ -15550,6 +15573,31 @@
                     }
                 ],
                 "name": "racehansTM"
+            },
+            "wrs": 3,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Middle East",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Israel",
+                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MTP.hugo220"
             },
             "wrs": 3,
             "duration": 0
@@ -15781,6 +15829,41 @@
         },
         {
             "user": {
+                "id": "5cada1ac-a938-4468-af83-8e945d6251f3",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nordrhein-Westfalen",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Dortmund",
+                        "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30201200-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "PatroseTV"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "b6a9ef20-2a1c-4dd2-bb65-fb65f6dc4f1b",
                 "zone": [
                     {
@@ -15989,7 +16072,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 3
+            "wrs": 4
         },
         {
             "zone": [
@@ -16009,7 +16092,7 @@
                     "zoneId": "30207e01-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 3
+            "wrs": 2
         },
         {
             "zone": [
@@ -17890,6 +17973,41 @@
         },
         {
             "user": {
+                "id": "5cada1ac-a938-4468-af83-8e945d6251f3",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nordrhein-Westfalen",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Dortmund",
+                        "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30201200-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "PatroseTV"
+            },
+            "wrs": 2,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "c367a4eb-78b0-4767-97e2-6b21c7e0ca01",
                 "zone": [
                     {
@@ -19114,41 +19232,6 @@
                     }
                 ],
                 "name": "Enibeti"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "5cada1ac-a938-4468-af83-8e945d6251f3",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Nordrhein-Westfalen",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Dortmund",
-                        "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30201200-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "PatroseTV"
             },
             "wrs": 1,
             "duration": 0
@@ -20703,7 +20786,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 81
+            "wrs": 82
         },
         {
             "zone": [
