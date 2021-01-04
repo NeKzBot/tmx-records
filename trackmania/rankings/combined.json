@@ -132,6 +132,31 @@
         },
         {
             "user": {
+                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Middle East",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Israel",
+                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MTP.hugo220"
+            },
+            "wrs": 9,
+            "duration": 143
+        },
+        {
+            "user": {
                 "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
                 "zone": [
                     {
@@ -154,66 +179,6 @@
             },
             "wrs": 9,
             "duration": 95
-        },
-        {
-            "user": {
-                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Middle East",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Israel",
-                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "MTP.hugo220"
-            },
-            "wrs": 8,
-            "duration": 143
-        },
-        {
-            "user": {
-                "id": "f40d3c02-135a-4c84-ad99-5e96f2431c41",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Centre-Val de Loire",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Indre-et-Loire",
-                        "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9a60-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "NeqzoTM"
-            },
-            "wrs": 8,
-            "duration": 106
         },
         {
             "user": {
@@ -342,6 +307,41 @@
         },
         {
             "user": {
+                "id": "f40d3c02-135a-4c84-ad99-5e96f2431c41",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Centre-Val de Loire",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Indre-et-Loire",
+                        "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9a60-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "NeqzoTM"
+            },
+            "wrs": 7,
+            "duration": 106
+        },
+        {
+            "user": {
                 "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
                 "zone": [
                     {
@@ -404,41 +404,6 @@
             },
             "wrs": 6,
             "duration": 223
-        },
-        {
-            "user": {
-                "id": "a6ae76c9-9030-4a7b-b533-cacfd6e85cb2",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Auvergne-Rhône-Alpes",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Drôme",
-                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f68d0-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Shadow_Crancer"
-            },
-            "wrs": 6,
-            "duration": 58
         },
         {
             "user": {
@@ -534,6 +499,41 @@
             },
             "wrs": 6,
             "duration": 148
+        },
+        {
+            "user": {
+                "id": "a6ae76c9-9030-4a7b-b533-cacfd6e85cb2",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Auvergne-Rhône-Alpes",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Drôme",
+                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f68d0-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Shadow_Crancer"
+            },
+            "wrs": 5,
+            "duration": 58
         },
         {
             "user": {
@@ -654,6 +654,41 @@
             },
             "wrs": 5,
             "duration": 40
+        },
+        {
+            "user": {
+                "id": "ae6262f9-31ad-48a7-8445-3e701414a86a",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nouvelle-Aquitaine",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fb84d-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Vienne",
+                        "parentId": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fd0bd-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "KC.DarkeR"
+            },
+            "wrs": 4,
+            "duration": 30
         },
         {
             "user": {
@@ -844,41 +879,6 @@
             },
             "wrs": 3,
             "duration": 103
-        },
-        {
-            "user": {
-                "id": "ae6262f9-31ad-48a7-8445-3e701414a86a",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Nouvelle-Aquitaine",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fb84d-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Vienne",
-                        "parentId": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fd0bd-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "KC.DarkeR"
-            },
-            "wrs": 3,
-            "duration": 30
         },
         {
             "user": {
@@ -3555,7 +3555,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 70
+            "wrs": 69
         },
         {
             "zone": [
@@ -3625,14 +3625,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "Middle East",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "United Kingdom",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Israel",
+                    "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 11
@@ -3645,17 +3645,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Middle East",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Israel",
-                    "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "United Kingdom",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022a1b2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 10
+            "wrs": 11
         },
         {
             "zone": [
@@ -4301,7 +4301,7 @@
                 ],
                 "name": "MTP.hugo220"
             },
-            "wrs": 53,
+            "wrs": 54,
             "duration": 430
         },
         {
@@ -4771,31 +4771,6 @@
         },
         {
             "user": {
-                "id": "4d949246-4a71-46b0-b30d-43cbbf63d0f7",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Africa",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Uganda",
-                        "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "BIG_MAN_TAXON"
-            },
-            "wrs": 25,
-            "duration": 28
-        },
-        {
-            "user": {
                 "id": "ae6262f9-31ad-48a7-8445-3e701414a86a",
                 "zone": [
                     {
@@ -4826,8 +4801,33 @@
                 ],
                 "name": "KC.DarkeR"
             },
-            "wrs": 24,
+            "wrs": 25,
             "duration": 102
+        },
+        {
+            "user": {
+                "id": "4d949246-4a71-46b0-b30d-43cbbf63d0f7",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Africa",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Uganda",
+                        "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "BIG_MAN_TAXON"
+            },
+            "wrs": 25,
+            "duration": 28
         },
         {
             "user": {
@@ -15389,7 +15389,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 656
+            "wrs": 657
         },
         {
             "zone": [
@@ -15629,7 +15629,7 @@
                     "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 48
+            "wrs": 49
         },
         {
             "zone": [
@@ -16761,6 +16761,40 @@
         },
         {
             "user": {
+                "id": "ae6262f9-31ad-48a7-8445-3e701414a86a",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nouvelle-Aquitaine",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fb84d-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Vienne",
+                        "parentId": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fd0bd-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "KC.DarkeR"
+            },
+            "wrs": 14
+        },
+        {
+            "user": {
                 "id": "a198e640-779a-47c0-97b5-9d38a351e7fa",
                 "zone": [
                     {
@@ -16872,40 +16906,6 @@
                     }
                 ],
                 "name": "Larstm"
-            },
-            "wrs": 13
-        },
-        {
-            "user": {
-                "id": "ae6262f9-31ad-48a7-8445-3e701414a86a",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Nouvelle-Aquitaine",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fb84d-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Vienne",
-                        "parentId": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fd0bd-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "KC.DarkeR"
             },
             "wrs": 13
         },
@@ -27109,7 +27109,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 373
+            "wrs": 374
         },
         {
             "zone": [
