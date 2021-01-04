@@ -1887,7 +1887,7 @@
                     },
                     "date": "2021-01-02T16:42:25+00:00",
                     "replay": "d154eedf-b3c6-4dc2-9fca-11de03402e74",
-                    "duration": 1,
+                    "duration": 2,
                     "score": 20508,
                     "delta": 34
                 }
@@ -11555,7 +11555,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "f40d3c02-135a-4c84-ad99-5e96f2431c41",
+                        "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
                         "zone": [
                             {
                                 "name": "World",
@@ -11563,33 +11563,23 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Europe",
+                                "name": "Middle East",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "France",
-                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Centre-Val de Loire",
-                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Indre-et-Loire",
-                                "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f9a60-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Israel",
+                                "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "NeqzoTM"
+                        "name": "MTP.hugo220"
                     },
-                    "date": "2021-01-04T15:52:05+00:00",
-                    "replay": "3f506dfc-5b82-4a8d-98fb-7c19175edf2c",
+                    "date": "2021-01-04T16:40:46+00:00",
+                    "replay": "0861a9e3-2d37-4a8e-8357-7bc225d43b47",
                     "duration": 0,
-                    "score": 51843,
-                    "delta": 120
+                    "score": 51766,
+                    "delta": 77
                 }
             ],
             "isOfficial": true,
@@ -12350,6 +12340,34 @@
                     "duration": 0,
                     "score": 51843,
                     "delta": 120
+                },
+                {
+                    "user": {
+                        "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Middle East",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Israel",
+                                "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "MTP.hugo220"
+                    },
+                    "date": "2021-01-04T16:40:46+00:00",
+                    "replay": "0861a9e3-2d37-4a8e-8357-7bc225d43b47",
+                    "duration": 0,
+                    "score": 51766,
+                    "delta": 77
                 }
             ],
             "thumbnail": "29cd6172-60a4-49de-a2f2-3cd97d5551d2"
@@ -15963,7 +15981,7 @@
         }
     ],
     "stats": {
-        "totalTime": 998171
+        "totalTime": 998094
     },
     "leaderboard": [
         {
@@ -15992,6 +16010,31 @@
                     }
                 ],
                 "name": "RotakeR_"
+            },
+            "wrs": 3,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Middle East",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Israel",
+                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MTP.hugo220"
             },
             "wrs": 3,
             "duration": 0
@@ -16062,31 +16105,6 @@
                     }
                 ],
                 "name": "racehansTM"
-            },
-            "wrs": 2,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Middle East",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Israel",
-                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "MTP.hugo220"
             },
             "wrs": 2,
             "duration": 0
@@ -16443,41 +16461,6 @@
         },
         {
             "user": {
-                "id": "f40d3c02-135a-4c84-ad99-5e96f2431c41",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Centre-Val de Loire",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Indre-et-Loire",
-                        "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9a60-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "NeqzoTM"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "8a33bee9-6971-41b7-8e64-ef07f9952ddb",
                 "zone": [
                     {
@@ -16566,7 +16549,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 11
+            "wrs": 10
         },
         {
             "zone": [
@@ -16616,6 +16599,26 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Middle East",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Israel",
+                    "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
@@ -16644,26 +16647,6 @@
                     "name": "United States",
                     "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Middle East",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Israel",
-                    "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -16802,7 +16785,7 @@
                 ],
                 "name": "MTP.hugo220"
             },
-            "wrs": 14,
+            "wrs": 15,
             "duration": 6
         },
         {
@@ -16898,7 +16881,7 @@
                 "name": "CamionTM"
             },
             "wrs": 11,
-            "duration": 1
+            "duration": 2
         },
         {
             "user": {
@@ -21600,6 +21583,26 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Middle East",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Israel",
+                    "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 4
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
@@ -21628,26 +21631,6 @@
                     "name": "Austria",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 3
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Middle East",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Israel",
-                    "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 3
