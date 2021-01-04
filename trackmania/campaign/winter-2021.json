@@ -7602,7 +7602,7 @@
                     },
                     "date": "2021-01-02T11:30:01+00:00",
                     "replay": "20e644eb-5857-4af0-8259-f70549174f45",
-                    "duration": 1,
+                    "duration": 2,
                     "score": 37822,
                     "delta": 156
                 }
@@ -13569,7 +13569,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                        "id": "8a33bee9-6971-41b7-8e64-ef07f9952ddb",
                         "zone": [
                             {
                                 "name": "World",
@@ -13587,23 +13587,23 @@
                                 "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Bretagne",
+                                "name": "Centre-Val de Loire",
                                 "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Morbihan",
-                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Indre",
+                                "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f99cb-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Gwen_TM"
+                        "name": "vr-Julien36"
                     },
-                    "date": "2021-01-03T18:16:12+00:00",
-                    "replay": "17750093-6978-4c58-a82c-342b02450624",
+                    "date": "2021-01-04T11:36:57+00:00",
+                    "replay": "e81a36e9-ba6d-4d44-9533-51c386a83294",
                     "duration": 0,
-                    "score": 61226,
-                    "delta": 41
+                    "score": 61136,
+                    "delta": 90
                 }
             ],
             "isOfficial": true,
@@ -14076,6 +14076,44 @@
                     "duration": 0,
                     "score": 61226,
                     "delta": 41
+                },
+                {
+                    "user": {
+                        "id": "8a33bee9-6971-41b7-8e64-ef07f9952ddb",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Centre-Val de Loire",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Indre",
+                                "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f99cb-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "vr-Julien36"
+                    },
+                    "date": "2021-01-04T11:36:57+00:00",
+                    "replay": "e81a36e9-ba6d-4d44-9533-51c386a83294",
+                    "duration": 0,
+                    "score": 61136,
+                    "delta": 90
                 }
             ],
             "thumbnail": "1c3c14de-20ef-4e82-8d83-29da9c64748d"
@@ -15504,44 +15542,9 @@
         }
     ],
     "stats": {
-        "totalTime": 999846
+        "totalTime": 999756
     },
     "leaderboard": [
-        {
-            "user": {
-                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Morbihan",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Gwen_TM"
-            },
-            "wrs": 4,
-            "duration": 0
-        },
         {
             "user": {
                 "id": "aa4e375f-d23e-4915-8d53-8b3307e06764",
@@ -15573,6 +15576,41 @@
                     }
                 ],
                 "name": "racehansTM"
+            },
+            "wrs": 3,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bretagne",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Morbihan",
+                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Gwen_TM"
             },
             "wrs": 3,
             "duration": 0
@@ -15979,6 +16017,41 @@
         },
         {
             "user": {
+                "id": "8a33bee9-6971-41b7-8e64-ef07f9952ddb",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Centre-Val de Loire",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Indre",
+                        "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f99cb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "vr-Julien36"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "a90404b4-7217-4f78-8891-135da2b442b2",
                 "zone": [
                     {
@@ -16229,7 +16302,7 @@
                 "name": "Gwen_TM"
             },
             "wrs": 30,
-            "duration": 8
+            "duration": 9
         },
         {
             "user": {
@@ -18488,6 +18561,41 @@
         },
         {
             "user": {
+                "id": "8a33bee9-6971-41b7-8e64-ef07f9952ddb",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Centre-Val de Loire",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Indre",
+                        "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f99cb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "vr-Julien36"
+            },
+            "wrs": 2,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "60b87855-7dda-44c3-844a-86da686ca103",
                 "zone": [
                     {
@@ -20513,41 +20621,6 @@
         },
         {
             "user": {
-                "id": "8a33bee9-6971-41b7-8e64-ef07f9952ddb",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Centre-Val de Loire",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Indre",
-                        "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f99cb-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "vr-Julien36"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "e71b79b8-36e7-4ae2-b970-91cb4c82216e",
                 "zone": [
                     {
@@ -20766,7 +20839,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 149
+            "wrs": 150
         },
         {
             "zone": [
