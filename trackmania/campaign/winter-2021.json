@@ -10,7 +10,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "a5af97bc-d185-404f-a7d1-5c4e48d05db6",
+                        "id": "aa4e375f-d23e-4915-8d53-8b3307e06764",
                         "zone": [
                             {
                                 "name": "World",
@@ -23,56 +23,28 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Poland",
+                                "name": "Germany",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Wielkopolskie",
-                                "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30222b92-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Bayern",
+                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Nürnberg",
+                                "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "RotakeR_"
+                        "name": "racehansTM"
                     },
-                    "date": "2021-01-03T10:20:16+00:00",
-                    "replay": "d6cefe6b-4ef3-42eb-b405-2491ff6540c7",
+                    "date": "2021-01-05T20:11:29+00:00",
+                    "replay": "0521f905-df55-44ba-8538-84d9efbff1c6",
                     "duration": 0,
-                    "score": 23321,
-                    "delta": 3
-                },
-                {
-                    "user": {
-                        "id": "7bbb9fac-f887-4a3f-8e41-be3121b39a7d",
-                        "zone": [
-                            {
-                                "name": "World",
-                                "parentId": null,
-                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "North America",
-                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "United States",
-                                "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Colorado",
-                                "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3022b270-7e13-11e8-8060-e284abfd2bc4"
-                            }
-                        ],
-                        "name": "Girsh."
-                    },
-                    "date": "2021-01-04T07:35:28+00:00",
-                    "replay": "679be111-0629-4eb5-89cc-4403dd1e665a",
-                    "duration": 0,
-                    "score": 23321,
-                    "delta": 0
+                    "score": 23314,
+                    "delta": 7
                 }
             ],
             "isOfficial": true,
@@ -525,6 +497,44 @@
                     "duration": 1,
                     "score": 23321,
                     "delta": 0
+                },
+                {
+                    "user": {
+                        "id": "aa4e375f-d23e-4915-8d53-8b3307e06764",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Germany",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Bayern",
+                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Nürnberg",
+                                "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "racehansTM"
+                    },
+                    "date": "2021-01-05T20:11:29+00:00",
+                    "replay": "0521f905-df55-44ba-8538-84d9efbff1c6",
+                    "duration": 0,
+                    "score": 23314,
+                    "delta": 7
                 }
             ],
             "thumbnail": "01326c98-0677-4e1e-b681-a88f228372f5"
@@ -16888,7 +16898,7 @@
         }
     ],
     "stats": {
-        "totalTime": 996505
+        "totalTime": 996498
     },
     "leaderboard": [
         {
@@ -16928,36 +16938,6 @@
         },
         {
             "user": {
-                "id": "a5af97bc-d185-404f-a7d1-5c4e48d05db6",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Poland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Wielkopolskie",
-                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30222b92-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "RotakeR_"
-            },
-            "wrs": 2,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "aa4e375f-d23e-4915-8d53-8b3307e06764",
                 "zone": [
                     {
@@ -16988,7 +16968,7 @@
                 ],
                 "name": "racehansTM"
             },
-            "wrs": 2,
+            "wrs": 3,
             "duration": 0
         },
         {
@@ -17039,36 +17019,6 @@
                 "name": "Erizel"
             },
             "wrs": 2,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "7bbb9fac-f887-4a3f-8e41-be3121b39a7d",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "North America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "United States",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Colorado",
-                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022b270-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Girsh."
-            },
-            "wrs": 1,
             "duration": 0
         },
         {
@@ -17237,6 +17187,36 @@
                     }
                 ],
                 "name": "PatroseTV"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "a5af97bc-d185-404f-a7d1-5c4e48d05db6",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Poland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Wielkopolskie",
+                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30222b92-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "RotakeR_"
             },
             "wrs": 1,
             "duration": 0
@@ -17516,12 +17496,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Poland",
+                    "name": "Germany",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
+            "wrs": 5
         },
         {
             "zone": [
@@ -17536,12 +17516,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Germany",
+                    "name": "Poland",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
+            "wrs": 3
         },
         {
             "zone": [
@@ -17562,26 +17542,6 @@
                 }
             ],
             "wrs": 2
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "North America",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "United States",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
         },
         {
             "zone": [
@@ -18157,7 +18117,7 @@
                 ],
                 "name": "racehansTM"
             },
-            "wrs": 6,
+            "wrs": 7,
             "duration": 2
         },
         {
@@ -22390,7 +22350,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 92
+            "wrs": 93
         },
         {
             "zone": [
@@ -23067,6 +23027,40 @@
         },
         {
             "user": {
+                "id": "aa4e375f-d23e-4915-8d53-8b3307e06764",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bayern",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nürnberg",
+                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "racehansTM"
+            },
+            "wrs": 4
+        },
+        {
+            "user": {
                 "id": "a6ae76c9-9030-4a7b-b533-cacfd6e85cb2",
                 "zone": [
                     {
@@ -23372,40 +23366,6 @@
                     }
                 ],
                 "name": "Larstm"
-            },
-            "wrs": 3
-        },
-        {
-            "user": {
-                "id": "aa4e375f-d23e-4915-8d53-8b3307e06764",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bayern",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Nürnberg",
-                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "racehansTM"
             },
             "wrs": 3
         },
@@ -27553,7 +27513,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 54
+            "wrs": 55
         },
         {
             "zone": [
