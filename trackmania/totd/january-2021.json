@@ -1718,7 +1718,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "962a2970-ac04-4475-885f-4dc1376fc062",
+                        "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
                         "zone": [
                             {
                                 "name": "World",
@@ -1736,23 +1736,23 @@
                                 "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Sachsen-Anhalt",
+                                "name": "Niedersachsen",
                                 "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3020309d-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Halle",
-                                "parentId": "3020309d-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30203812-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Braunschweig",
+                                "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30200ab8-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "sh0rty.de"
+                        "name": "DexteR.771"
                     },
-                    "date": "2021-01-05T22:58:22+00:00",
-                    "replay": "55477e10-5d7f-435d-a78b-4a48ad0e9a3b",
+                    "date": "2021-01-05T23:36:35+00:00",
+                    "replay": "a43f430b-0c03-41f8-a39d-9af9dd451a0a",
                     "duration": 0,
-                    "score": 40208,
-                    "delta": 4
+                    "score": 40203,
+                    "delta": 5
                 }
             ],
             "isOfficial": false,
@@ -1979,15 +1979,83 @@
                     "duration": 0,
                     "score": 40208,
                     "delta": 4
+                },
+                {
+                    "user": {
+                        "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Germany",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Niedersachsen",
+                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Braunschweig",
+                                "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30200ab8-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "DexteR.771"
+                    },
+                    "date": "2021-01-05T23:36:35+00:00",
+                    "replay": "a43f430b-0c03-41f8-a39d-9af9dd451a0a",
+                    "duration": 0,
+                    "score": 40203,
+                    "delta": 5
                 }
             ],
             "thumbnail": "b4c7500f-295d-40cc-b362-31437c6ac779"
         }
     ],
     "stats": {
-        "totalTime": 229821
+        "totalTime": 229816
     },
     "leaderboard": [
+        {
+            "user": {
+                "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Italy",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Emilia-Romagna",
+                        "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "DubbyTM"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
         {
             "user": {
                 "id": "962a2970-ac04-4475-885f-4dc1376fc062",
@@ -2019,36 +2087,6 @@
                     }
                 ],
                 "name": "sh0rty.de"
-            },
-            "wrs": 2,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Italy",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Emilia-Romagna",
-                        "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "DubbyTM"
             },
             "wrs": 1,
             "duration": 0
@@ -2109,6 +2147,41 @@
                     }
                 ],
                 "name": "Asetek.Dunste"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Niedersachsen",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Braunschweig",
+                        "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30200ab8-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "DexteR.771"
             },
             "wrs": 1,
             "duration": 0
@@ -2234,36 +2307,6 @@
         },
         {
             "user": {
-                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oceania",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australia",
-                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australian Capital Territory",
-                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AR_Mudda"
-            },
-            "wrs": 5,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
                 "zone": [
                     {
@@ -2293,6 +2336,36 @@
                     }
                 ],
                 "name": "DexteR.771"
+            },
+            "wrs": 6,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oceania",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australia",
+                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australian Capital Territory",
+                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_Mudda"
             },
             "wrs": 5,
             "duration": 0
@@ -2972,7 +3045,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 14
+            "wrs": 15
         },
         {
             "zone": [
