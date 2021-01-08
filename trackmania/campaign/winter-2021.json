@@ -5349,7 +5349,7 @@
                     },
                     "date": "2021-01-06T19:02:27+00:00",
                     "replay": "9e9ccc97-d5f6-45c0-8710-c0b4b3ca8903",
-                    "duration": 1,
+                    "duration": 2,
                     "score": 34341,
                     "delta": 1
                 }
@@ -5892,7 +5892,7 @@
                     },
                     "date": "2021-01-06T19:02:27+00:00",
                     "replay": "9e9ccc97-d5f6-45c0-8710-c0b4b3ca8903",
-                    "duration": 1,
+                    "duration": 2,
                     "score": 34341,
                     "delta": 1
                 }
@@ -5906,7 +5906,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
                         "zone": [
                             {
                                 "name": "World",
@@ -5919,23 +5919,28 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Switzerland",
+                                "name": "France",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Vaud",
-                                "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Bretagne",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Morbihan",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "AffiTM"
+                        "name": "Gwen_TM"
                     },
-                    "date": "2021-01-08T18:39:29+00:00",
-                    "replay": "a9b057e3-46ae-4bb2-87f8-646ac2cae097",
+                    "date": "2021-01-08T19:03:49+00:00",
+                    "replay": "8619878c-f105-4450-aeb1-c895693a8a1b",
                     "duration": 0,
-                    "score": 44246,
-                    "delta": 87
+                    "score": 44193,
+                    "delta": 53
                 }
             ],
             "isOfficial": true,
@@ -6304,6 +6309,44 @@
                     "duration": 0,
                     "score": 44246,
                     "delta": 87
+                },
+                {
+                    "user": {
+                        "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Bretagne",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Morbihan",
+                                "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f9773-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "Gwen_TM"
+                    },
+                    "date": "2021-01-08T19:03:49+00:00",
+                    "replay": "8619878c-f105-4450-aeb1-c895693a8a1b",
+                    "duration": 0,
+                    "score": 44193,
+                    "delta": 53
                 }
             ],
             "thumbnail": "04af525d-6e7c-43ae-82db-1c845fe0a19c"
@@ -17981,7 +18024,7 @@
         }
     ],
     "stats": {
-        "totalTime": 994148
+        "totalTime": 994095
     },
     "leaderboard": [
         {
@@ -18016,8 +18059,8 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 5,
-            "duration": 17
+            "wrs": 6,
+            "duration": 18
         },
         {
             "user": {
@@ -18238,36 +18281,6 @@
             },
             "wrs": 1,
             "duration": 4
-        },
-        {
-            "user": {
-                "id": "a9cbdeff-daa3-4bc2-998c-b2838183fb97",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Switzerland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Vaud",
-                        "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AffiTM"
-            },
-            "wrs": 1,
-            "duration": 0
         },
         {
             "user": {
@@ -18574,7 +18587,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 12
+            "wrs": 13
         },
         {
             "zone": [
@@ -18652,26 +18665,6 @@
                     "name": "Panama",
                     "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Switzerland",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -18770,8 +18763,8 @@
                 ],
                 "name": "Gwen_TM"
             },
-            "wrs": 38,
-            "duration": 30
+            "wrs": 39,
+            "duration": 31
         },
         {
             "user": {
@@ -23573,7 +23566,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 182
+            "wrs": 183
         },
         {
             "zone": [
