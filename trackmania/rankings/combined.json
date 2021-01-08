@@ -132,6 +132,31 @@
         },
         {
             "user": {
+                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norway",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Erizel"
+            },
+            "wrs": 9,
+            "duration": 142
+        },
+        {
+            "user": {
                 "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
                 "zone": [
                     {
@@ -214,31 +239,6 @@
             },
             "wrs": 8,
             "duration": 159
-        },
-        {
-            "user": {
-                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norway",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Erizel"
-            },
-            "wrs": 8,
-            "duration": 142
         },
         {
             "user": {
@@ -882,36 +882,6 @@
         },
         {
             "user": {
-                "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Italy",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Emilia-Romagna",
-                        "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "DubbyTM"
-            },
-            "wrs": 3,
-            "duration": 9
-        },
-        {
-            "user": {
                 "id": "4d949246-4a71-46b0-b30d-43cbbf63d0f7",
                 "zone": [
                     {
@@ -934,6 +904,41 @@
             },
             "wrs": 3,
             "duration": 53
+        },
+        {
+            "user": {
+                "id": "faedcf21-d61a-4305-9ffe-680b2ee5d65e",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bretagne",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Ille-et-Vilaine",
+                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f96de-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "tsun.Loupphok"
+            },
+            "wrs": 2,
+            "duration": 2
         },
         {
             "user": {
@@ -964,6 +969,36 @@
             },
             "wrs": 2,
             "duration": 6
+        },
+        {
+            "user": {
+                "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Italy",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Emilia-Romagna",
+                        "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "DubbyTM"
+            },
+            "wrs": 2,
+            "duration": 9
         },
         {
             "user": {
@@ -1307,41 +1342,6 @@
         },
         {
             "user": {
-                "id": "faedcf21-d61a-4305-9ffe-680b2ee5d65e",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Ille-et-Vilaine",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f96de-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "TSUN.Loupphok"
-            },
-            "wrs": 1,
-            "duration": 2
-        },
-        {
-            "user": {
                 "id": "e96e1b23-631f-4518-a367-3e6feae5b707",
                 "zone": [
                     {
@@ -1439,41 +1439,6 @@
             },
             "wrs": 1,
             "duration": 1
-        },
-        {
-            "user": {
-                "id": "0691c70d-c69d-46a9-a209-6600d708b4bd",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Pays-de-la-Loire",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301feb1f-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Maine-et-Loire",
-                        "parentId": "301feb1f-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fec4d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Wavy.Aynyx"
-            },
-            "wrs": 1,
-            "duration": 0
         },
         {
             "user": {
@@ -3580,7 +3545,7 @@
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 11
+            "wrs": 12
         },
         {
             "zone": [
@@ -3810,26 +3775,6 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Italy",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 3
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
                     "name": "Africa",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
@@ -3878,6 +3823,26 @@
                     "name": "Finland",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Italy",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
@@ -4186,7 +4151,7 @@
                 ],
                 "name": "Erizel"
             },
-            "wrs": 77,
+            "wrs": 78,
             "duration": 339
         },
         {
@@ -9271,6 +9236,41 @@
         },
         {
             "user": {
+                "id": "faedcf21-d61a-4305-9ffe-680b2ee5d65e",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bretagne",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Ille-et-Vilaine",
+                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f96de-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "tsun.Loupphok"
+            },
+            "wrs": 2,
+            "duration": 2
+        },
+        {
+            "user": {
                 "id": "9ddedd87-2afb-46db-8541-c1b3894facb5",
                 "zone": [
                     {
@@ -10895,41 +10895,6 @@
                     }
                 ],
                 "name": "PoG.GzK"
-            },
-            "wrs": 1,
-            "duration": 2
-        },
-        {
-            "user": {
-                "id": "faedcf21-d61a-4305-9ffe-680b2ee5d65e",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Ille-et-Vilaine",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f96de-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "TSUN.Loupphok"
             },
             "wrs": 1,
             "duration": 2
@@ -15574,7 +15539,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 694
+            "wrs": 695
         },
         {
             "zone": [
@@ -15634,7 +15599,7 @@
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 109
+            "wrs": 110
         },
         {
             "zone": [
@@ -16517,7 +16482,7 @@
                 ],
                 "name": "Erizel"
             },
-            "wrs": 25
+            "wrs": 26
         },
         {
             "user": {
@@ -20028,6 +19993,40 @@
         },
         {
             "user": {
+                "id": "faedcf21-d61a-4305-9ffe-680b2ee5d65e",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bretagne",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Ille-et-Vilaine",
+                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f96de-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "tsun.Loupphok"
+            },
+            "wrs": 2
+        },
+        {
+            "user": {
                 "id": "6144e670-7461-4ade-87b2-798f32240a7d",
                 "zone": [
                     {
@@ -21296,40 +21295,6 @@
                     }
                 ],
                 "name": "PoG.GzK"
-            },
-            "wrs": 1
-        },
-        {
-            "user": {
-                "id": "faedcf21-d61a-4305-9ffe-680b2ee5d65e",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bretagne",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9522-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Ille-et-Vilaine",
-                        "parentId": "301f9522-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f96de-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "TSUN.Loupphok"
             },
             "wrs": 1
         },
@@ -27547,7 +27512,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 385
+            "wrs": 386
         },
         {
             "zone": [
@@ -27607,7 +27572,7 @@
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 40
+            "wrs": 41
         },
         {
             "zone": [
