@@ -3230,7 +3230,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
+                        "id": "cf8bba50-68d0-4df2-9d32-c053b74ca438",
                         "zone": [
                             {
                                 "name": "World",
@@ -3243,23 +3243,28 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Italy",
+                                "name": "France",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Emilia-Romagna",
-                                "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Nouvelle-Aquitaine",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301fb84d-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Vienne",
+                                "parentId": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301fd0bd-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "DubbyTM"
+                        "name": "WorkerTm"
                     },
-                    "date": "2021-01-09T18:56:00+00:00",
-                    "replay": "8251f4e9-2eec-4662-a7db-8f99b73295ae",
+                    "date": "2021-01-09T19:03:45+00:00",
+                    "replay": "6b46e92f-8c58-4361-958e-955b36e008b9",
                     "duration": 0,
-                    "score": 35998,
-                    "delta": 177
+                    "score": 35824,
+                    "delta": 174
                 }
             ],
             "isOfficial": false,
@@ -3438,45 +3443,53 @@
                     "duration": 0,
                     "score": 35998,
                     "delta": 177
+                },
+                {
+                    "user": {
+                        "id": "cf8bba50-68d0-4df2-9d32-c053b74ca438",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Nouvelle-Aquitaine",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301fb84d-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Vienne",
+                                "parentId": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301fd0bd-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "WorkerTm"
+                    },
+                    "date": "2021-01-09T19:03:45+00:00",
+                    "replay": "6b46e92f-8c58-4361-958e-955b36e008b9",
+                    "duration": 0,
+                    "score": 35824,
+                    "delta": 174
                 }
             ],
             "thumbnail": "c0add501-5ce4-41e1-af9b-656d1e69c73f"
         }
     ],
     "stats": {
-        "totalTime": 392541
+        "totalTime": 392367
     },
     "leaderboard": [
-        {
-            "user": {
-                "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Italy",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Emilia-Romagna",
-                        "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "DubbyTM"
-            },
-            "wrs": 3,
-            "duration": 0
-        },
         {
             "user": {
                 "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
@@ -3510,6 +3523,36 @@
                 "name": "DexteR.771"
             },
             "wrs": 3,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Italy",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Emilia-Romagna",
+                        "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "DubbyTM"
+            },
+            "wrs": 2,
             "duration": 0
         },
         {
@@ -3606,6 +3649,41 @@
             },
             "wrs": 1,
             "duration": 0
+        },
+        {
+            "user": {
+                "id": "cf8bba50-68d0-4df2-9d32-c053b74ca438",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nouvelle-Aquitaine",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fb84d-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Vienne",
+                        "parentId": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fd0bd-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "WorkerTm"
+            },
+            "wrs": 1,
+            "duration": 0
         }
     ],
     "countryLeaderboard": [
@@ -3647,7 +3725,7 @@
                     "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 3
+            "wrs": 2
         },
         {
             "zone": [
@@ -3685,6 +3763,26 @@
                     "name": "Denmark",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301f5723-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "France",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -4600,6 +4698,41 @@
             },
             "wrs": 1,
             "duration": 0
+        },
+        {
+            "user": {
+                "id": "cf8bba50-68d0-4df2-9d32-c053b74ca438",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nouvelle-Aquitaine",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fb84d-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Vienne",
+                        "parentId": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fd0bd-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "WorkerTm"
+            },
+            "wrs": 1,
+            "duration": 0
         }
     ],
     "historyCountryLeaderboard": [
@@ -4641,7 +4774,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 16
+            "wrs": 17
         },
         {
             "zone": [
@@ -5746,6 +5879,40 @@
                 "name": "Passki"
             },
             "wrs": 1
+        },
+        {
+            "user": {
+                "id": "cf8bba50-68d0-4df2-9d32-c053b74ca438",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nouvelle-Aquitaine",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fb84d-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Vienne",
+                        "parentId": "301fb84d-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fd0bd-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "WorkerTm"
+            },
+            "wrs": 1
         }
     ],
     "uniqueCountryLeaderboard": [
@@ -5787,7 +5954,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 11
+            "wrs": 12
         },
         {
             "zone": [
