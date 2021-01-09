@@ -128,7 +128,7 @@
                 "name": "Flechetas"
             },
             "wrs": 6,
-            "duration": 323
+            "duration": 324
         },
         {
             "user": {
@@ -702,7 +702,7 @@
         },
         {
             "user": {
-                "id": "3c87b975-1d05-4424-8f9a-9534898abb7c",
+                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
                 "zone": [
                     {
                         "name": "World",
@@ -710,30 +710,25 @@
                         "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Europe",
+                        "name": "North America",
                         "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "United States",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Baden-Württemberg",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff6b7-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Stuttgart",
-                        "parentId": "301ff6b7-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff90f-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Oregon",
+                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "LorenziusTM"
+                "name": "shieldbandit"
             },
             "wrs": 1,
-            "duration": 3
+            "duration": 0
         },
         {
             "user": {
@@ -928,7 +923,7 @@
                 "name": "trabadia"
             },
             "wrs": 1,
-            "duration": 181
+            "duration": 182
         },
         {
             "user": {
@@ -1595,7 +1590,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 16
+            "wrs": 15
         },
         {
             "zone": [
@@ -1796,6 +1791,26 @@
                 }
             ],
             "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "North America",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "United States",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
         },
         {
             "zone": [
@@ -3027,7 +3042,7 @@
                 "name": "Flechetas"
             },
             "wrs": 10,
-            "duration": 482
+            "duration": 483
         },
         {
             "user": {
@@ -5636,6 +5651,36 @@
         },
         {
             "user": {
+                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "United States",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oregon",
+                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "shieldbandit"
+            },
+            "wrs": 2,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "3815cec3-c803-4801-8023-0074bdb10eba",
                 "zone": [
                     {
@@ -7561,36 +7606,6 @@
         },
         {
             "user": {
-                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "North America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "United States",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oregon",
-                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "shieldbandit"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "3113479e-b9d6-4f38-a77a-fb2e43bbfe97",
                 "zone": [
                     {
@@ -8182,7 +8197,7 @@
                 ]
             },
             "wrs": 1,
-            "duration": 181
+            "duration": 182
         },
         {
             "user": {
@@ -10184,14 +10199,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Africa",
+                    "name": "North America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Uganda",
-                    "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "United States",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 10
@@ -10204,17 +10219,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "North America",
+                    "name": "Africa",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "United States",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Uganda",
+                    "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 9
+            "wrs": 10
         },
         {
             "zone": [
