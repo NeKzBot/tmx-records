@@ -3256,6 +3256,36 @@
         },
         {
             "user": {
+                "id": "7bbb9fac-f887-4a3f-8e41-be3121b39a7d",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "United States",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Colorado",
+                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022b270-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Girsh."
+            },
+            "wrs": 7,
+            "duration": 3
+        },
+        {
+            "user": {
                 "id": "6144e670-7461-4ade-87b2-798f32240a7d",
                 "zone": [
                     {
@@ -3388,36 +3418,6 @@
             },
             "wrs": 7,
             "duration": 8
-        },
-        {
-            "user": {
-                "id": "7bbb9fac-f887-4a3f-8e41-be3121b39a7d",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "North America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "United States",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Colorado",
-                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022b270-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Girsh."
-            },
-            "wrs": 6,
-            "duration": 3
         },
         {
             "user": {
@@ -10159,7 +10159,7 @@
                     "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 12
+            "wrs": 13
         },
         {
             "zone": [
