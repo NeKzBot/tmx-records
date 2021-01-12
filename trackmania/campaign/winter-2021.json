@@ -7548,7 +7548,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "a198e640-779a-47c0-97b5-9d38a351e7fa",
+                        "id": "a6ae76c9-9030-4a7b-b533-cacfd6e85cb2",
                         "zone": [
                             {
                                 "name": "World",
@@ -7561,18 +7561,28 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Croatia",
+                                "name": "France",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Auvergne-Rhône-Alpes",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Drôme",
+                                "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f68d0-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "dacSP.Tekky"
+                        "name": "Shadow_Crancer"
                     },
-                    "date": "2021-01-11T20:35:14+00:00",
-                    "replay": "e708ee66-aeaa-4594-bde5-5f5c17d3dcbe",
-                    "duration": 1,
-                    "score": 28830,
-                    "delta": 85
+                    "date": "2021-01-12T21:30:13+00:00",
+                    "replay": "42c8e3aa-acfd-4133-8f61-e87834ff6d84",
+                    "duration": 0,
+                    "score": 28817,
+                    "delta": 13
                 }
             ],
             "isOfficial": true,
@@ -8367,6 +8377,44 @@
                     "duration": 1,
                     "score": 28830,
                     "delta": 85
+                },
+                {
+                    "user": {
+                        "id": "a6ae76c9-9030-4a7b-b533-cacfd6e85cb2",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Auvergne-Rhône-Alpes",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Drôme",
+                                "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f68d0-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "Shadow_Crancer"
+                    },
+                    "date": "2021-01-12T21:30:13+00:00",
+                    "replay": "42c8e3aa-acfd-4133-8f61-e87834ff6d84",
+                    "duration": 0,
+                    "score": 28817,
+                    "delta": 13
                 }
             ],
             "thumbnail": "c3e19ecc-fdfa-40b7-bc7c-e9714b50e5bc"
@@ -19173,7 +19221,7 @@
         }
     ],
     "stats": {
-        "totalTime": 992480
+        "totalTime": 992467
     },
     "leaderboard": [
         {
@@ -19213,31 +19261,6 @@
         },
         {
             "user": {
-                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "South America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Panama",
-                        "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "MTP.hugo220"
-            },
-            "wrs": 3,
-            "duration": 16
-        },
-        {
-            "user": {
                 "id": "a6ae76c9-9030-4a7b-b533-cacfd6e85cb2",
                 "zone": [
                     {
@@ -19268,8 +19291,33 @@
                 ],
                 "name": "Shadow_Crancer"
             },
-            "wrs": 2,
+            "wrs": 3,
             "duration": 9
+        },
+        {
+            "user": {
+                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "South America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Panama",
+                        "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MTP.hugo220"
+            },
+            "wrs": 3,
+            "duration": 16
         },
         {
             "user": {
@@ -19420,31 +19468,6 @@
             },
             "wrs": 1,
             "duration": 5
-        },
-        {
-            "user": {
-                "id": "a198e640-779a-47c0-97b5-9d38a351e7fa",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Croatia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "dacSP.Tekky"
-            },
-            "wrs": 1,
-            "duration": 1
         },
         {
             "user": {
@@ -19771,7 +19794,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 10
+            "wrs": 11
         },
         {
             "zone": [
@@ -19881,26 +19904,6 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Croatia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
                     "name": "North America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
@@ -19972,31 +19975,6 @@
         },
         {
             "user": {
-                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "South America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Panama",
-                        "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "MTP.hugo220"
-            },
-            "wrs": 17,
-            "duration": 27
-        },
-        {
-            "user": {
                 "id": "a6ae76c9-9030-4a7b-b533-cacfd6e85cb2",
                 "zone": [
                     {
@@ -20027,8 +20005,33 @@
                 ],
                 "name": "Shadow_Crancer"
             },
-            "wrs": 16,
+            "wrs": 17,
             "duration": 9
+        },
+        {
+            "user": {
+                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "South America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Panama",
+                        "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MTP.hugo220"
+            },
+            "wrs": 17,
+            "duration": 27
         },
         {
             "user": {
@@ -24905,7 +24908,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 194
+            "wrs": 195
         },
         {
             "zone": [
