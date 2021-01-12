@@ -272,36 +272,6 @@
         },
         {
             "user": {
-                "id": "da4642f9-6acf-43fe-88b6-b120ff1308ba",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Belgium",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Liège",
-                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e5e63-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Scrapie98"
-            },
-            "wrs": 5,
-            "duration": 53
-        },
-        {
-            "user": {
                 "id": "d46fb45d-d422-47c9-9785-67270a311e25",
                 "zone": [
                     {
@@ -514,6 +484,36 @@
             },
             "wrs": 4,
             "duration": 44
+        },
+        {
+            "user": {
+                "id": "da4642f9-6acf-43fe-88b6-b120ff1308ba",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Belgium",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Liège",
+                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5e63-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Scrapie98"
+            },
+            "wrs": 4,
+            "duration": 53
         },
         {
             "user": {
@@ -1096,6 +1096,31 @@
                     }
                 ],
                 "name": "PauLL.4W"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "b4728614-ae94-42c6-9d10-aad9138b778d",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Finland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Wuffeli"
             },
             "wrs": 1,
             "duration": 0
@@ -2565,26 +2590,6 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Belgium",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 6
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
                     "name": "Norway",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
@@ -2628,6 +2633,26 @@
                     "name": "Australia",
                     "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 5
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Belgium",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 5
@@ -2720,14 +2745,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "North America",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Canada",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Finland",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
@@ -2740,17 +2765,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "North America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Finland",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Canada",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 1
+            "wrs": 2
         },
         {
             "zone": [
@@ -6976,6 +7001,31 @@
         },
         {
             "user": {
+                "id": "b4728614-ae94-42c6-9d10-aad9138b778d",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Finland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Wuffeli"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "c367a4eb-78b0-4767-97e2-6b21c7e0ca01",
                 "zone": [
                     {
@@ -9634,7 +9684,7 @@
                     "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 6
+            "wrs": 7
         },
         {
             "zone": [
@@ -13193,6 +13243,30 @@
         },
         {
             "user": {
+                "id": "b4728614-ae94-42c6-9d10-aad9138b778d",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Finland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Wuffeli"
+            },
+            "wrs": 1
+        },
+        {
+            "user": {
                 "id": "c367a4eb-78b0-4767-97e2-6b21c7e0ca01",
                 "zone": [
                     {
@@ -16409,6 +16483,26 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Finland",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 5
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "South America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
@@ -16437,26 +16531,6 @@
                     "name": "Estonia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301f5eb6-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 4
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Finland",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 4
