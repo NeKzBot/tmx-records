@@ -1370,7 +1370,7 @@
                     },
                     "date": "2021-01-08T00:25:00+00:00",
                     "replay": "fff50403-8f4f-4af9-85e5-a2ff79690e37",
-                    "duration": 6,
+                    "duration": 7,
                     "score": 20485,
                     "delta": 23
                 }
@@ -2356,7 +2356,7 @@
                     },
                     "date": "2021-01-08T00:25:00+00:00",
                     "replay": "fff50403-8f4f-4af9-85e5-a2ff79690e37",
-                    "duration": 6,
+                    "duration": 7,
                     "score": 20485,
                     "delta": 23
                 }
@@ -8771,7 +8771,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "f40d3c02-135a-4c84-ad99-5e96f2431c41",
+                        "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
                         "zone": [
                             {
                                 "name": "World",
@@ -8784,28 +8784,18 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "France",
+                                "name": "Norway",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Centre-Val de Loire",
-                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Indre-et-Loire",
-                                "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301f9a60-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "NeqzoTM"
+                        "name": "Erizel"
                     },
-                    "date": "2021-01-14T17:04:33+00:00",
-                    "replay": "1d929e9a-d9f4-46cb-bf02-b70f23e3a523",
+                    "date": "2021-01-15T00:20:02+00:00",
+                    "replay": "eea8b32f-07cf-4b00-8102-7c12384076fe",
                     "duration": 0,
-                    "score": 37688,
-                    "delta": 23
+                    "score": 37662,
+                    "delta": 26
                 }
             ],
             "isOfficial": true,
@@ -9740,6 +9730,34 @@
                     "duration": 0,
                     "score": 37688,
                     "delta": 23
+                },
+                {
+                    "user": {
+                        "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Norway",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "Erizel"
+                    },
+                    "date": "2021-01-15T00:20:02+00:00",
+                    "replay": "eea8b32f-07cf-4b00-8102-7c12384076fe",
+                    "duration": 0,
+                    "score": 37662,
+                    "delta": 26
                 }
             ],
             "thumbnail": "1958cc29-d7bb-4fb0-94d5-dab71cd63308"
@@ -19736,7 +19754,7 @@
         }
     ],
     "stats": {
-        "totalTime": 992063
+        "totalTime": 992037
     },
     "leaderboard": [
         {
@@ -19801,41 +19819,6 @@
         },
         {
             "user": {
-                "id": "f40d3c02-135a-4c84-ad99-5e96f2431c41",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Centre-Val de Loire",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Indre-et-Loire",
-                        "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f9a60-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "NeqzoTM"
-            },
-            "wrs": 2,
-            "duration": 8
-        },
-        {
-            "user": {
                 "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
                 "zone": [
                     {
@@ -19856,7 +19839,7 @@
                 ],
                 "name": "Erizel"
             },
-            "wrs": 2,
+            "wrs": 3,
             "duration": 14
         },
         {
@@ -19927,7 +19910,7 @@
                 "name": "CamionTM"
             },
             "wrs": 1,
-            "duration": 6
+            "duration": 7
         },
         {
             "user": {
@@ -20191,6 +20174,41 @@
         },
         {
             "user": {
+                "id": "f40d3c02-135a-4c84-ad99-5e96f2431c41",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Centre-Val de Loire",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9809-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Indre-et-Loire",
+                        "parentId": "301f9809-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f9a60-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "NeqzoTM"
+            },
+            "wrs": 1,
+            "duration": 8
+        },
+        {
+            "user": {
                 "id": "07f907d3-a61a-44b7-b5cf-c09456b2e828",
                 "zone": [
                     {
@@ -20304,7 +20322,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 10
+            "wrs": 9
         },
         {
             "zone": [
@@ -20334,17 +20352,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "South America",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Panama",
-                    "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Norway",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 2
+            "wrs": 3
         },
         {
             "zone": [
@@ -20354,14 +20372,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "South America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Norway",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Panama",
+                    "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
@@ -20620,7 +20638,7 @@
                 ],
                 "name": "Erizel"
             },
-            "wrs": 14,
+            "wrs": 15,
             "duration": 21
         },
         {
@@ -20746,7 +20764,7 @@
                 "name": "CamionTM"
             },
             "wrs": 12,
-            "duration": 11
+            "duration": 12
         },
         {
             "user": {
@@ -25598,7 +25616,7 @@
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 15
+            "wrs": 16
         },
         {
             "zone": [
