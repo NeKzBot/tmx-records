@@ -1793,7 +1793,7 @@
                 "name": "ADM1R0"
             },
             "wrs": 1,
-            "duration": 172
+            "duration": 173
         },
         {
             "user": {
@@ -2377,7 +2377,7 @@
         },
         {
             "user": {
-                "id": "9ddedd87-2afb-46db-8541-c1b3894facb5",
+                "id": "fc54a67c-7bd3-4b33-aa7d-a77f13a7b621",
                 "zone": [
                     {
                         "name": "World",
@@ -2385,22 +2385,22 @@
                         "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Europe",
+                        "name": "South America",
                         "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Switzerland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Brazil",
+                        "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Genève",
-                        "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30228c31-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Rio Grande do Sul",
+                        "parentId": "301e6521-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "b9e4bf40-1d93-48a3-8b67-7e40dfa6eba9"
                     }
                 ],
-                "name": "Purge.Toruss"
+                "name": "mtat_tm"
             },
             "wrs": 1,
             "duration": 0
@@ -3830,26 +3830,6 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Switzerland",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 7
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
                     "name": "Belgium",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
@@ -3875,7 +3855,27 @@
                     "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 5
+            "wrs": 6
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Switzerland",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 6
         },
         {
             "zone": [
@@ -5561,6 +5561,36 @@
         },
         {
             "user": {
+                "id": "fc54a67c-7bd3-4b33-aa7d-a77f13a7b621",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "South America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Brazil",
+                        "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Rio Grande do Sul",
+                        "parentId": "301e6521-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "b9e4bf40-1d93-48a3-8b67-7e40dfa6eba9"
+                    }
+                ],
+                "name": "mtat_tm"
+            },
+            "wrs": 12,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "fe2aa57e-8c18-4f7d-979c-3dd74a7c9ea5",
                 "zone": [
                     {
@@ -5757,36 +5787,6 @@
                 "name": "TSUN.KAKKOU"
             },
             "wrs": 12,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "fc54a67c-7bd3-4b33-aa7d-a77f13a7b621",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "South America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Brazil",
-                        "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Rio Grande do Sul",
-                        "parentId": "301e6521-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "b9e4bf40-1d93-48a3-8b67-7e40dfa6eba9"
-                    }
-                ],
-                "name": "SSG_matt"
-            },
-            "wrs": 11,
             "duration": 0
         },
         {
@@ -12892,7 +12892,7 @@
                 ]
             },
             "wrs": 1,
-            "duration": 172
+            "duration": 173
         },
         {
             "user": {
@@ -16239,7 +16239,7 @@
                     "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 52
+            "wrs": 53
         },
         {
             "zone": [
@@ -18449,6 +18449,35 @@
         },
         {
             "user": {
+                "id": "fc54a67c-7bd3-4b33-aa7d-a77f13a7b621",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "South America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Brazil",
+                        "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Rio Grande do Sul",
+                        "parentId": "301e6521-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "b9e4bf40-1d93-48a3-8b67-7e40dfa6eba9"
+                    }
+                ],
+                "name": "mtat_tm"
+            },
+            "wrs": 6
+        },
+        {
+            "user": {
                 "id": "7bbb9fac-f887-4a3f-8e41-be3121b39a7d",
                 "zone": [
                     {
@@ -18625,35 +18654,6 @@
                 "name": "AR_Down"
             },
             "wrs": 6
-        },
-        {
-            "user": {
-                "id": "fc54a67c-7bd3-4b33-aa7d-a77f13a7b621",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "South America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Brazil",
-                        "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Rio Grande do Sul",
-                        "parentId": "301e6521-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "b9e4bf40-1d93-48a3-8b67-7e40dfa6eba9"
-                    }
-                ],
-                "name": "SSG_matt"
-            },
-            "wrs": 5
         },
         {
             "user": {
@@ -28710,7 +28710,7 @@
                     "zoneId": "301e6521-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 18
+            "wrs": 19
         },
         {
             "zone": [
