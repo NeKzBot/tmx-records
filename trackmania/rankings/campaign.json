@@ -432,7 +432,7 @@
         },
         {
             "user": {
-                "id": "b69258ea-3f95-464f-a2a2-e8e9b4ca63d9",
+                "id": "f1cf0c46-415b-4218-9d1a-c6696a6f3435",
                 "zone": [
                     {
                         "name": "World",
@@ -445,25 +445,20 @@
                         "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "France",
+                        "name": "Austria",
                         "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Occitanie",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fd300-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Haute-Garonne",
-                        "parentId": "301fd300-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fde16-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Vienna",
+                        "parentId": "301e41fc-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e567e-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "POG.INSTABLE"
+                "name": "Faulty-Brain"
             },
             "wrs": 1,
-            "duration": 5
+            "duration": 0
         },
         {
             "user": {
@@ -1058,7 +1053,7 @@
                 "name": "lilpoker96"
             },
             "wrs": 1,
-            "duration": 126
+            "duration": 127
         },
         {
             "user": {
@@ -1535,7 +1530,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 25
+            "wrs": 24
         },
         {
             "zone": [
@@ -1725,6 +1720,26 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Austria",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "South America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
@@ -1853,26 +1868,6 @@
                     "name": "Bosnia and Herzegovina",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e6414-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Austria",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -5391,6 +5386,36 @@
         },
         {
             "user": {
+                "id": "f1cf0c46-415b-4218-9d1a-c6696a6f3435",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Austria",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Vienna",
+                        "parentId": "301e41fc-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e567e-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Faulty-Brain"
+            },
+            "wrs": 2,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "794a286c-44d9-4276-83ce-431cba7bab74",
                 "zone": [
                     {
@@ -6673,36 +6698,6 @@
             },
             "wrs": 1,
             "duration": 2
-        },
-        {
-            "user": {
-                "id": "f1cf0c46-415b-4218-9d1a-c6696a6f3435",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Austria",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Vienna",
-                        "parentId": "301e41fc-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e567e-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Faulty-Brain"
-            },
-            "wrs": 1,
-            "duration": 0
         },
         {
             "user": {
@@ -8562,7 +8557,7 @@
                 ]
             },
             "wrs": 1,
-            "duration": 126
+            "duration": 127
         },
         {
             "user": {
@@ -10254,7 +10249,7 @@
                     "zoneId": "301e41fc-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 12
+            "wrs": 13
         },
         {
             "zone": [
