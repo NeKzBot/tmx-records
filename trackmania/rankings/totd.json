@@ -2,6 +2,36 @@
     "leaderboard": [
         {
             "user": {
+                "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Poland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Dolnośląskie",
+                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020ad48-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "mime.."
+            },
+            "wrs": 15,
+            "duration": 182
+        },
+        {
+            "user": {
                 "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
                 "zone": [
                     {
@@ -32,38 +62,8 @@
                 ],
                 "name": "riolu-tm"
             },
-            "wrs": 15,
+            "wrs": 14,
             "duration": 53
-        },
-        {
-            "user": {
-                "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Poland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Dolnośląskie",
-                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020ad48-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "mime.."
-            },
-            "wrs": 15,
-            "duration": 182
         },
         {
             "user": {
@@ -824,6 +824,41 @@
             },
             "wrs": 2,
             "duration": 22
+        },
+        {
+            "user": {
+                "id": "8f08302a-f670-463b-9f71-fbfacffb8bd1",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Saarland",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30202234-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Saarbrücken",
+                        "parentId": "30202234-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302023d9-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_Down"
+            },
+            "wrs": 2,
+            "duration": 19
         },
         {
             "user": {
@@ -1919,41 +1954,6 @@
             },
             "wrs": 1,
             "duration": 24
-        },
-        {
-            "user": {
-                "id": "8f08302a-f670-463b-9f71-fbfacffb8bd1",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Saarland",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30202234-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Saarbrücken",
-                        "parentId": "30202234-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302023d9-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AR_Down"
-            },
-            "wrs": 1,
-            "duration": 19
         },
         {
             "user": {
@@ -4071,6 +4071,41 @@
         },
         {
             "user": {
+                "id": "8f08302a-f670-463b-9f71-fbfacffb8bd1",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Saarland",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30202234-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Saarbrücken",
+                        "parentId": "30202234-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302023d9-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_Down"
+            },
+            "wrs": 10,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "ca62293d-79db-4ad6-b631-3ad5146f799e",
                 "zone": [
                     {
@@ -4215,41 +4250,6 @@
                     }
                 ],
                 "name": "KarjeN.4W"
-            },
-            "wrs": 9,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "8f08302a-f670-463b-9f71-fbfacffb8bd1",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Saarland",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30202234-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Saarbrücken",
-                        "parentId": "30202234-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302023d9-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AR_Down"
             },
             "wrs": 9,
             "duration": 0
@@ -9639,7 +9639,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 342
+            "wrs": 343
         },
         {
             "zone": [
@@ -11176,6 +11176,40 @@
         },
         {
             "user": {
+                "id": "8f08302a-f670-463b-9f71-fbfacffb8bd1",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Saarland",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30202234-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Saarbrücken",
+                        "parentId": "30202234-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302023d9-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_Down"
+            },
+            "wrs": 7
+        },
+        {
+            "user": {
                 "id": "2d4cba8b-3b77-45af-a635-5e4d6e61cfa2",
                 "zone": [
                     {
@@ -11413,40 +11447,6 @@
                     }
                 ],
                 "name": "Bren.KC"
-            },
-            "wrs": 6
-        },
-        {
-            "user": {
-                "id": "8f08302a-f670-463b-9f71-fbfacffb8bd1",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Saarland",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30202234-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Saarbrücken",
-                        "parentId": "30202234-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302023d9-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AR_Down"
             },
             "wrs": 6
         },
@@ -16783,7 +16783,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 187
+            "wrs": 188
         },
         {
             "zone": [
