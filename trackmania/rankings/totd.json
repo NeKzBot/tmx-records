@@ -2,6 +2,36 @@
     "leaderboard": [
         {
             "user": {
+                "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Poland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Dolnośląskie",
+                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020ad48-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "mime.."
+            },
+            "wrs": 15,
+            "duration": 182
+        },
+        {
+            "user": {
                 "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
                 "zone": [
                     {
@@ -32,38 +62,8 @@
                 ],
                 "name": "riolu-tm"
             },
-            "wrs": 15,
+            "wrs": 14,
             "duration": 53
-        },
-        {
-            "user": {
-                "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Poland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Dolnośląskie",
-                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020ad48-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "mime.."
-            },
-            "wrs": 15,
-            "duration": 182
         },
         {
             "user": {
@@ -297,6 +297,36 @@
         },
         {
             "user": {
+                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oceania",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australia",
+                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australian Capital Territory",
+                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_Mudda"
+            },
+            "wrs": 5,
+            "duration": 44
+        },
+        {
+            "user": {
                 "id": "d46fb45d-d422-47c9-9785-67270a311e25",
                 "zone": [
                     {
@@ -479,36 +509,6 @@
             },
             "wrs": 4,
             "duration": 36
-        },
-        {
-            "user": {
-                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oceania",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australia",
-                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australian Capital Territory",
-                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AR_Mudda"
-            },
-            "wrs": 4,
-            "duration": 44
         },
         {
             "user": {
@@ -2445,7 +2445,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 55
+            "wrs": 54
         },
         {
             "zone": [
@@ -2615,17 +2615,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "Oceania",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Croatia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Australia",
+                    "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 5
+            "wrs": 6
         },
         {
             "zone": [
@@ -2635,14 +2635,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Oceania",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Australia",
-                    "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Croatia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 5
@@ -3246,31 +3246,6 @@
         },
         {
             "user": {
-                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norway",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Erizel"
-            },
-            "wrs": 28,
-            "duration": 0
-        },
-        {
-            "user": {
                 "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
                 "zone": [
                     {
@@ -3296,8 +3271,33 @@
                 ],
                 "name": "AR_Mudda"
             },
-            "wrs": 27,
+            "wrs": 28,
             "duration": 19
+        },
+        {
+            "user": {
+                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norway",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Erizel"
+            },
+            "wrs": 28,
+            "duration": 0
         },
         {
             "user": {
@@ -9759,7 +9759,7 @@
                     "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 34
+            "wrs": 35
         },
         {
             "zone": [
@@ -10570,6 +10570,35 @@
         },
         {
             "user": {
+                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oceania",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australia",
+                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australian Capital Territory",
+                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_Mudda"
+            },
+            "wrs": 14
+        },
+        {
+            "user": {
                 "id": "7cd60a75-609a-4e64-b286-16f329878249",
                 "zone": [
                     {
@@ -10630,35 +10659,6 @@
                 "name": "Scrapie98"
             },
             "wrs": 14
-        },
-        {
-            "user": {
-                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oceania",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australia",
-                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australian Capital Territory",
-                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AR_Mudda"
-            },
-            "wrs": 13
         },
         {
             "user": {
@@ -16893,14 +16893,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "Oceania",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Czechia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Australia",
+                    "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 19
@@ -16913,17 +16913,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Oceania",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Australia",
-                    "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Czechia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 18
+            "wrs": 19
         },
         {
             "zone": [

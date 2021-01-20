@@ -32,7 +32,7 @@
                 ],
                 "name": "riolu-tm"
             },
-            "wrs": 24,
+            "wrs": 23,
             "duration": 329
         },
         {
@@ -347,6 +347,36 @@
         },
         {
             "user": {
+                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oceania",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australia",
+                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australian Capital Territory",
+                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_Mudda"
+            },
+            "wrs": 7,
+            "duration": 148
+        },
+        {
+            "user": {
                 "id": "aa4e375f-d23e-4915-8d53-8b3307e06764",
                 "zone": [
                     {
@@ -378,7 +408,7 @@
                 "name": "racehansTM"
             },
             "wrs": 6,
-            "duration": 29
+            "duration": 30
         },
         {
             "user": {
@@ -474,36 +504,6 @@
             },
             "wrs": 6,
             "duration": 207
-        },
-        {
-            "user": {
-                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oceania",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australia",
-                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australian Capital Territory",
-                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AR_Mudda"
-            },
-            "wrs": 6,
-            "duration": 148
         },
         {
             "user": {
@@ -3525,7 +3525,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 76
+            "wrs": 75
         },
         {
             "zone": [
@@ -3695,14 +3695,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "Oceania",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Denmark",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f5723-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Australia",
+                    "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 9
@@ -3715,17 +3715,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Oceania",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Australia",
-                    "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Denmark",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f5723-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 8
+            "wrs": 9
         },
         {
             "zone": [
@@ -4436,7 +4436,7 @@
                 ],
                 "name": "AR_Mudda"
             },
-            "wrs": 40,
+            "wrs": 41,
             "duration": 149
         },
         {
@@ -4977,7 +4977,7 @@
                 "name": "racehansTM"
             },
             "wrs": 21,
-            "duration": 44
+            "duration": 45
         },
         {
             "user": {
@@ -16219,7 +16219,7 @@
                     "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 52
+            "wrs": 53
         },
         {
             "zone": [
@@ -17072,6 +17072,35 @@
         },
         {
             "user": {
+                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oceania",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australia",
+                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Australian Capital Territory",
+                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_Mudda"
+            },
+            "wrs": 21
+        },
+        {
+            "user": {
                 "id": "eb30a7cb-d9c0-49e7-92b4-1eadeeddcd12",
                 "zone": [
                     {
@@ -17098,35 +17127,6 @@
                 "name": "PokeR.4W"
             },
             "wrs": 21
-        },
-        {
-            "user": {
-                "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oceania",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australia",
-                        "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Australian Capital Territory",
-                        "parentId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2e52-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AR_Mudda"
-            },
-            "wrs": 20
         },
         {
             "user": {
@@ -28579,7 +28579,7 @@
                     "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 29
+            "wrs": 30
         },
         {
             "zone": [
