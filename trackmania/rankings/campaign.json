@@ -37,31 +37,6 @@
         },
         {
             "user": {
-                "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Middle East",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Israel",
-                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "RacetalTM"
-            },
-            "wrs": 8,
-            "duration": 95
-        },
-        {
-            "user": {
                 "id": "aa4e375f-d23e-4915-8d53-8b3307e06764",
                 "zone": [
                     {
@@ -92,12 +67,12 @@
                 ],
                 "name": "racehansTM"
             },
-            "wrs": 7,
+            "wrs": 8,
             "duration": 31
         },
         {
             "user": {
-                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                "id": "445a6375-a8aa-4b56-b3b5-18d4bff53351",
                 "zone": [
                     {
                         "name": "World",
@@ -105,20 +80,20 @@
                         "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Europe",
+                        "name": "Middle East",
                         "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301e2195-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Norway",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Israel",
+                        "parentId": "301e2195-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30205c20-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "Erizel"
+                "name": "RacetalTM"
             },
-            "wrs": 6,
-            "duration": 163
+            "wrs": 8,
+            "duration": 95
         },
         {
             "user": {
@@ -153,7 +128,7 @@
                 "name": "Flechetas"
             },
             "wrs": 6,
-            "duration": 388
+            "duration": 389
         },
         {
             "user": {
@@ -179,6 +154,31 @@
             },
             "wrs": 5,
             "duration": 169
+        },
+        {
+            "user": {
+                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norway",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Erizel"
+            },
+            "wrs": 5,
+            "duration": 147
         },
         {
             "user": {
@@ -648,7 +648,7 @@
                 "name": "NeqzoTM"
             },
             "wrs": 1,
-            "duration": 13
+            "duration": 14
         },
         {
             "user": {
@@ -1485,7 +1485,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 21
+            "wrs": 22
         },
         {
             "zone": [
@@ -1540,12 +1540,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Norway",
+                    "name": "Croatia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 7
+            "wrs": 6
         },
         {
             "zone": [
@@ -1560,9 +1560,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Croatia",
+                    "name": "Norway",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 6
@@ -2146,31 +2146,6 @@
         },
         {
             "user": {
-                "id": "06496fad-70f7-49bc-80c6-d62caa7a9de4",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Croatia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Hefest.9D"
-            },
-            "wrs": 23,
-            "duration": 556
-        },
-        {
-            "user": {
                 "id": "aa4e375f-d23e-4915-8d53-8b3307e06764",
                 "zone": [
                     {
@@ -2201,8 +2176,33 @@
                 ],
                 "name": "racehansTM"
             },
-            "wrs": 22,
+            "wrs": 23,
             "duration": 46
+        },
+        {
+            "user": {
+                "id": "06496fad-70f7-49bc-80c6-d62caa7a9de4",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Croatia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Hefest.9D"
+            },
+            "wrs": 23,
+            "duration": 556
         },
         {
             "user": {
@@ -2592,7 +2592,7 @@
                 "name": "NeqzoTM"
             },
             "wrs": 13,
-            "duration": 24
+            "duration": 25
         },
         {
             "user": {
@@ -2937,7 +2937,7 @@
                 "name": "Flechetas"
             },
             "wrs": 10,
-            "duration": 547
+            "duration": 548
         },
         {
             "user": {
@@ -9884,7 +9884,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 248
+            "wrs": 249
         },
         {
             "zone": [
@@ -10833,7 +10833,7 @@
                 ],
                 "name": "racehansTM"
             },
-            "wrs": 11
+            "wrs": 12
         },
         {
             "user": {
@@ -18334,7 +18334,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 121
+            "wrs": 122
         },
         {
             "zone": [
