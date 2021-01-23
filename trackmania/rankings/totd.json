@@ -1172,7 +1172,7 @@
         },
         {
             "user": {
-                "id": "7511d57f-b6f3-4833-806c-f7ad9cc69ba8",
+                "id": "a1051c9f-2c93-42d8-ae72-2677a52cfc5b",
                 "zone": [
                     {
                         "name": "World",
@@ -1185,20 +1185,25 @@
                         "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Portugal",
+                        "name": "France",
                         "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Lisboa",
-                        "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30223f78-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Provence-Alpes-Côte d'Azur",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff0a1-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bouches-du-Rhône",
+                        "parentId": "301ff0a1-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff26c-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "hive.tm"
+                "name": "binksstm"
             },
             "wrs": 1,
-            "duration": 2
+            "duration": 0
         },
         {
             "user": {
@@ -2495,7 +2500,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 41
+            "wrs": 42
         },
         {
             "zone": [
@@ -2710,12 +2715,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Portugal",
+                    "name": "Italy",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
+            "wrs": 3
         },
         {
             "zone": [
@@ -2730,9 +2735,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Italy",
+                    "name": "Portugal",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 3
@@ -7591,6 +7596,41 @@
         },
         {
             "user": {
+                "id": "a1051c9f-2c93-42d8-ae72-2677a52cfc5b",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Provence-Alpes-Côte d'Azur",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff0a1-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bouches-du-Rhône",
+                        "parentId": "301ff0a1-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff26c-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "binksstm"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "c367a4eb-78b0-4767-97e2-6b21c7e0ca01",
                 "zone": [
                     {
@@ -9819,7 +9859,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 372
+            "wrs": 373
         },
         {
             "zone": [
@@ -14340,6 +14380,40 @@
         },
         {
             "user": {
+                "id": "a1051c9f-2c93-42d8-ae72-2677a52cfc5b",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Provence-Alpes-Côte d'Azur",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff0a1-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bouches-du-Rhône",
+                        "parentId": "301ff0a1-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff26c-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "binksstm"
+            },
+            "wrs": 1
+        },
+        {
+            "user": {
                 "id": "c367a4eb-78b0-4767-97e2-6b21c7e0ca01",
                 "zone": [
                     {
@@ -17128,7 +17202,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 230
+            "wrs": 231
         },
         {
             "zone": [
