@@ -10195,44 +10195,6 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "55a6453a-8fd8-47da-831b-d4c90ecc7506",
-                        "zone": [
-                            {
-                                "name": "World",
-                                "parentId": null,
-                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Europe",
-                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Germany",
-                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Niedersachsen",
-                                "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30200a18-7e13-11e8-8060-e284abfd2bc4"
-                            },
-                            {
-                                "name": "Braunschweig",
-                                "parentId": "30200a18-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30200ab8-7e13-11e8-8060-e284abfd2bc4"
-                            }
-                        ],
-                        "name": "DexteR.771"
-                    },
-                    "date": "2021-01-27T00:51:50+00:00",
-                    "replay": "aa630a24-95a5-4f94-afb8-4e77508ccd5f",
-                    "duration": 0,
-                    "score": 47818,
-                    "delta": 32
-                },
-                {
-                    "user": {
                         "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
                         "zone": [
                             {
@@ -10253,11 +10215,11 @@
                         ],
                         "name": "Erizel"
                     },
-                    "date": "2021-01-27T08:46:46+00:00",
-                    "replay": "e75dc8df-8903-43c6-8105-6591bfb18bac",
+                    "date": "2021-01-27T10:00:05+00:00",
+                    "replay": "41133ed6-0554-4545-b21f-07a127bbd338",
                     "duration": 0,
-                    "score": 47818,
-                    "delta": 0
+                    "score": 47772,
+                    "delta": 46
                 }
             ],
             "isOfficial": false,
@@ -10530,13 +10492,41 @@
                     "duration": 0,
                     "score": 47818,
                     "delta": 0
+                },
+                {
+                    "user": {
+                        "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Norway",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "Erizel"
+                    },
+                    "date": "2021-01-27T10:00:05+00:00",
+                    "replay": "41133ed6-0554-4545-b21f-07a127bbd338",
+                    "duration": 0,
+                    "score": 47772,
+                    "delta": 46
                 }
             ],
             "thumbnail": "4efe331a-6c27-41fc-a55b-cc714f1c3ca4"
         }
     ],
     "stats": {
-        "totalTime": 1114099
+        "totalTime": 1114053
     },
     "leaderboard": [
         {
@@ -10571,7 +10561,7 @@
                 ],
                 "name": "DexteR.771"
             },
-            "wrs": 11,
+            "wrs": 10,
             "duration": 0
         },
         {
@@ -10944,7 +10934,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 15
+            "wrs": 14
         },
         {
             "zone": [
@@ -11230,6 +11220,31 @@
         },
         {
             "user": {
+                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norway",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Erizel"
+            },
+            "wrs": 10,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "da4642f9-6acf-43fe-88b6-b120ff1308ba",
                 "zone": [
                     {
@@ -11289,31 +11304,6 @@
                     }
                 ],
                 "name": "heCrazy7"
-            },
-            "wrs": 9,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norway",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Erizel"
             },
             "wrs": 9,
             "duration": 0
@@ -13568,7 +13558,7 @@
                     "zoneId": "3020a27d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 13
+            "wrs": 14
         },
         {
             "zone": [
