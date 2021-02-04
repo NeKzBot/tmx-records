@@ -373,7 +373,7 @@
                 "name": "Gwen_TM"
             },
             "wrs": 7,
-            "duration": 142
+            "duration": 143
         },
         {
             "user": {
@@ -593,7 +593,7 @@
                 "name": "esu-LX"
             },
             "wrs": 5,
-            "duration": 154
+            "duration": 155
         },
         {
             "user": {
@@ -1593,7 +1593,7 @@
                 "name": "ASdaS-BLR"
             },
             "wrs": 1,
-            "duration": 205
+            "duration": 206
         },
         {
             "user": {
@@ -2232,7 +2232,7 @@
         },
         {
             "user": {
-                "id": "657a7d34-0d7e-4e68-8db6-9ee65fa9571f",
+                "id": "a4615959-2ccb-4264-8de1-108cfce42585",
                 "zone": [
                     {
                         "name": "World",
@@ -2250,17 +2250,17 @@
                         "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Bourgogne-Franche-Comté",
+                        "name": "Île-de-France",
                         "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f7d37-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Yonne",
-                        "parentId": "301f7d37-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f948c-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Essonne",
+                        "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fac1b-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "Astro.Kozo"
+                "name": "ATX.Acide"
             },
             "wrs": 1,
             "duration": 0
@@ -4132,7 +4132,7 @@
                 "name": "Gwen_TM"
             },
             "wrs": 120,
-            "duration": 121
+            "duration": 122
         },
         {
             "user": {
@@ -5032,7 +5032,7 @@
                 "name": "esu-LX"
             },
             "wrs": 22,
-            "duration": 201
+            "duration": 202
         },
         {
             "user": {
@@ -7351,6 +7351,41 @@
         },
         {
             "user": {
+                "id": "a4615959-2ccb-4264-8de1-108cfce42585",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Île-de-France",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Essonne",
+                        "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fac1b-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "ATX.Acide"
+            },
+            "wrs": 6,
+            "duration": 10
+        },
+        {
+            "user": {
                 "id": "c0799fdc-d7a7-4d7e-ad9e-c9fcc4fc7bbf",
                 "zone": [
                     {
@@ -7703,41 +7738,6 @@
             },
             "wrs": 5,
             "duration": 12
-        },
-        {
-            "user": {
-                "id": "a4615959-2ccb-4264-8de1-108cfce42585",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Île-de-France",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Essonne",
-                        "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fac1b-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Acide.."
-            },
-            "wrs": 5,
-            "duration": 10
         },
         {
             "user": {
@@ -12852,7 +12852,7 @@
                 ]
             },
             "wrs": 1,
-            "duration": 205
+            "duration": 206
         },
         {
             "user": {
@@ -16554,7 +16554,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 778
+            "wrs": 779
         },
         {
             "zone": [
@@ -22059,6 +22059,40 @@
         },
         {
             "user": {
+                "id": "a4615959-2ccb-4264-8de1-108cfce42585",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Île-de-France",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Essonne",
+                        "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301fac1b-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "ATX.Acide"
+            },
+            "wrs": 2
+        },
+        {
+            "user": {
                 "id": "5d6f4e97-4759-47c8-906b-8577dbdbab51",
                 "zone": [
                     {
@@ -26156,40 +26190,6 @@
         },
         {
             "user": {
-                "id": "a4615959-2ccb-4264-8de1-108cfce42585",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Île-de-France",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fab89-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Essonne",
-                        "parentId": "301fab89-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301fac1b-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Acide.."
-            },
-            "wrs": 1
-        },
-        {
-            "user": {
                 "id": "e57e6195-4845-44a9-9d30-48436d4abb75",
                 "zone": [
                     {
@@ -29443,7 +29443,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 437
+            "wrs": 438
         },
         {
             "zone": [
