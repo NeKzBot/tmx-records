@@ -341,11 +341,11 @@
                         ],
                         "name": "CamionTM"
                     },
-                    "date": "2021-02-10T23:20:29+00:00",
-                    "replay": "cf89b239-e1bc-465a-b17a-a275e393ac71",
+                    "date": "2021-02-10T23:37:51+00:00",
+                    "replay": "90545189-6e02-4fe6-a29f-ee2b98c0a5ea",
                     "duration": 0,
-                    "score": 7992,
-                    "delta": 3
+                    "score": 7985,
+                    "delta": 7
                 }
             ],
             "isOfficial": true,
@@ -425,6 +425,44 @@
                     "duration": 0,
                     "score": 7992,
                     "delta": 3
+                },
+                {
+                    "user": {
+                        "id": "49965c7b-d71c-467d-99c7-ff4092daf0ca",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "France",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Auvergne-Rhône-Alpes",
+                                "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Isère",
+                                "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301f6969-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "CamionTM"
+                    },
+                    "date": "2021-02-10T23:37:51+00:00",
+                    "replay": "90545189-6e02-4fe6-a29f-ee2b98c0a5ea",
+                    "duration": 0,
+                    "score": 7985,
+                    "delta": 7
                 }
             ],
             "thumbnail": "4986708d-7dfb-474c-9c6c-8f92f4777367"
@@ -3546,7 +3584,7 @@
         }
     ],
     "stats": {
-        "totalTime": 334105
+        "totalTime": 334098
     },
     "leaderboard": [
         {
@@ -4485,36 +4523,6 @@
         },
         {
             "user": {
-                "id": "6144e670-7461-4ade-87b2-798f32240a7d",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Belgium",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oost-Vlaanderen",
-                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e606d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Soolja"
-            },
-            "wrs": 6,
-            "duration": 52
-        },
-        {
-            "user": {
                 "id": "49965c7b-d71c-467d-99c7-ff4092daf0ca",
                 "zone": [
                     {
@@ -4545,8 +4553,38 @@
                 ],
                 "name": "CamionTM"
             },
-            "wrs": 5,
+            "wrs": 6,
             "duration": 464
+        },
+        {
+            "user": {
+                "id": "6144e670-7461-4ade-87b2-798f32240a7d",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Belgium",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oost-Vlaanderen",
+                        "parentId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e606d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Soolja"
+            },
+            "wrs": 6,
+            "duration": 52
         },
         {
             "user": {
@@ -5393,7 +5431,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 33
+            "wrs": 34
         },
         {
             "zone": [
