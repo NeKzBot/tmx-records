@@ -843,7 +843,7 @@
                 "name": "CamionTM"
             },
             "wrs": 3,
-            "duration": 176
+            "duration": 175
         },
         {
             "user": {
@@ -2427,7 +2427,7 @@
         },
         {
             "user": {
-                "id": "211c053a-b5b7-42ba-b231-aae07e5b458e",
+                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
                 "zone": [
                     {
                         "name": "World",
@@ -2445,12 +2445,12 @@
                         "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Wisconsin",
+                        "name": "Oregon",
                         "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022f1a6-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "K.98."
+                "name": "shieldbandit"
             },
             "wrs": 1,
             "duration": 0
@@ -5071,6 +5071,41 @@
         },
         {
             "user": {
+                "id": "49965c7b-d71c-467d-99c7-ff4092daf0ca",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Auvergne-Rhône-Alpes",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Isère",
+                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6969-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "CamionTM"
+            },
+            "wrs": 24,
+            "duration": 497
+        },
+        {
+            "user": {
                 "id": "2a17ca02-ce1e-413a-b847-3befb60f4b4b",
                 "zone": [
                     {
@@ -5128,41 +5163,6 @@
             },
             "wrs": 24,
             "duration": 13
-        },
-        {
-            "user": {
-                "id": "49965c7b-d71c-467d-99c7-ff4092daf0ca",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Auvergne-Rhône-Alpes",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Isère",
-                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6969-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "CamionTM"
-            },
-            "wrs": 23,
-            "duration": 497
         },
         {
             "user": {
@@ -7796,6 +7796,36 @@
         },
         {
             "user": {
+                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "United States",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oregon",
+                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "shieldbandit"
+            },
+            "wrs": 5,
+            "duration": 15
+        },
+        {
+            "user": {
                 "id": "28f89eae-4e8f-4207-9eed-68ee8d0a0bc5",
                 "zone": [
                     {
@@ -8138,36 +8168,6 @@
             },
             "wrs": 4,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "North America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "United States",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oregon",
-                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "shieldbandit"
-            },
-            "wrs": 4,
-            "duration": 15
         },
         {
             "user": {
@@ -17084,7 +17084,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 805
+            "wrs": 806
         },
         {
             "zone": [
@@ -17434,14 +17434,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "North America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Finland",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "United States",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 33
@@ -17454,17 +17454,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "North America",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "United States",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Finland",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 32
+            "wrs": 33
         },
         {
             "zone": [
@@ -21234,6 +21234,35 @@
         },
         {
             "user": {
+                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "United States",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oregon",
+                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "shieldbandit"
+            },
+            "wrs": 3
+        },
+        {
+            "user": {
                 "id": "4f0b8dec-eaee-4cf3-bc40-66a983dde494",
                 "zone": [
                     {
@@ -22227,35 +22256,6 @@
                     }
                 ],
                 "name": "XaiTV."
-            },
-            "wrs": 2
-        },
-        {
-            "user": {
-                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "North America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "United States",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oregon",
-                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "shieldbandit"
             },
             "wrs": 2
         },
@@ -30720,6 +30720,26 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "North America",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "United States",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 21
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
@@ -30751,26 +30771,6 @@
                 }
             ],
             "wrs": 21
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "North America",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "United States",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 20
         },
         {
             "zone": [
