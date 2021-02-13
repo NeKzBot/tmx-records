@@ -217,6 +217,31 @@
         },
         {
             "user": {
+                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "South America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Panama",
+                        "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "MTP.hugo220"
+            },
+            "wrs": 4,
+            "duration": 190
+        },
+        {
+            "user": {
                 "id": "e975fb83-c2b4-4830-9ec6-d8253f315865",
                 "zone": [
                     {
@@ -274,31 +299,6 @@
             },
             "wrs": 3,
             "duration": 177
-        },
-        {
-            "user": {
-                "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "South America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Panama",
-                        "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "MTP.hugo220"
-            },
-            "wrs": 3,
-            "duration": 189
         },
         {
             "user": {
@@ -619,31 +619,6 @@
             },
             "wrs": 1,
             "duration": 29
-        },
-        {
-            "user": {
-                "id": "dc8b8e8a-094d-4172-a76f-93b28f2243b9",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Finland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "dignitasinsane"
-            },
-            "wrs": 1,
-            "duration": 1
         },
         {
             "user": {
@@ -1725,14 +1700,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "South America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Finland",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Panama",
+                    "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 2
@@ -1776,26 +1751,6 @@
                 }
             ],
             "wrs": 2
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "South America",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Panama",
-                    "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
         },
         {
             "zone": [
@@ -1956,6 +1911,26 @@
                 }
             ],
             "wrs": 1
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Finland",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
         }
     ],
     "historyLeaderboard": [
@@ -2041,8 +2016,8 @@
                 ],
                 "name": "MTP.hugo220"
             },
-            "wrs": 54,
-            "duration": 578
+            "wrs": 55,
+            "duration": 579
         },
         {
             "user": {
@@ -10449,17 +10424,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "South America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Slovakia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "302251c1-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Panama",
+                    "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 3
+            "wrs": 4
         },
         {
             "zone": [
@@ -10469,14 +10444,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "South America",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e243e-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Panama",
-                    "parentId": "301e243e-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020a531-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Slovakia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "302251c1-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 3
