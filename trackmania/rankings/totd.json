@@ -327,6 +327,36 @@
         },
         {
             "user": {
+                "id": "d46fb45d-d422-47c9-9785-67270a311e25",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Czechia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Středočeský kraj",
+                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f555b-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "eLconn21"
+            },
+            "wrs": 6,
+            "duration": 38
+        },
+        {
+            "user": {
                 "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
                 "zone": [
                     {
@@ -359,36 +389,6 @@
             },
             "wrs": 6,
             "duration": 91
-        },
-        {
-            "user": {
-                "id": "d46fb45d-d422-47c9-9785-67270a311e25",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Czechia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Středočeský kraj",
-                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f555b-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "eLconn21"
-            },
-            "wrs": 5,
-            "duration": 38
         },
         {
             "user": {
@@ -1331,41 +1331,6 @@
                     }
                 ],
                 "name": "Evo.Chroma"
-            },
-            "wrs": 1,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "e3edfc46-f413-46d9-adc1-6b27ff647807",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Auvergne-Rhône-Alpes",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Puy-de-Dôme",
-                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f742a-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Ryxsar."
             },
             "wrs": 1,
             "duration": 0
@@ -2665,7 +2630,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 48
+            "wrs": 47
         },
         {
             "zone": [
@@ -2755,17 +2720,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Oceania",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Australia",
-                    "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Czechia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 7
+            "wrs": 8
         },
         {
             "zone": [
@@ -2775,14 +2740,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "Oceania",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e237a-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Czechia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Australia",
+                    "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2dc2-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 7
@@ -3601,31 +3566,6 @@
         },
         {
             "user": {
-                "id": "4d949246-4a71-46b0-b30d-43cbbf63d0f7",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Africa",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Uganda",
-                        "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "BIG_MAN_TAXON"
-            },
-            "wrs": 25,
-            "duration": 28
-        },
-        {
-            "user": {
                 "id": "d46fb45d-d422-47c9-9785-67270a311e25",
                 "zone": [
                     {
@@ -3651,8 +3591,33 @@
                 ],
                 "name": "eLconn21"
             },
-            "wrs": 24,
+            "wrs": 25,
             "duration": 21
+        },
+        {
+            "user": {
+                "id": "4d949246-4a71-46b0-b30d-43cbbf63d0f7",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Africa",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Uganda",
+                        "parentId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30229fdb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "BIG_MAN_TAXON"
+            },
+            "wrs": 25,
+            "duration": 28
         },
         {
             "user": {
@@ -11224,7 +11189,7 @@
                     "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 46
+            "wrs": 47
         },
         {
             "zone": [
@@ -12168,6 +12133,35 @@
         },
         {
             "user": {
+                "id": "d46fb45d-d422-47c9-9785-67270a311e25",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Czechia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Středočeský kraj",
+                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f555b-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "eLconn21"
+            },
+            "wrs": 16
+        },
+        {
+            "user": {
                 "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
                 "zone": [
                     {
@@ -12218,35 +12212,6 @@
                 "name": "BIG_MAN_TAXON"
             },
             "wrs": 16
-        },
-        {
-            "user": {
-                "id": "d46fb45d-d422-47c9-9785-67270a311e25",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Czechia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Středočeský kraj",
-                        "parentId": "301f45cd-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f555b-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "eLconn21"
-            },
-            "wrs": 15
         },
         {
             "user": {
@@ -19647,9 +19612,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Belgium",
+                    "name": "Czechia",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 26
@@ -19667,12 +19632,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Czechia",
+                    "name": "Belgium",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f45cd-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e5bc8-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 25
+            "wrs": 26
         },
         {
             "zone": [
