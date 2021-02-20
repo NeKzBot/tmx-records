@@ -123,7 +123,7 @@
                 "name": "Erizel"
             },
             "wrs": 13,
-            "duration": 170
+            "duration": 171
         },
         {
             "user": {
@@ -717,6 +717,41 @@
         },
         {
             "user": {
+                "id": "2dd1e832-8f25-44c1-8189-ff28d7388806",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bayern",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nürnberg",
+                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "esu-LX"
+            },
+            "wrs": 4,
+            "duration": 14
+        },
+        {
+            "user": {
                 "id": "b05db0f8-d845-47d2-b0e5-795717038ac6",
                 "zone": [
                     {
@@ -809,76 +844,6 @@
             },
             "wrs": 4,
             "duration": 53
-        },
-        {
-            "user": {
-                "id": "49965c7b-d71c-467d-99c7-ff4092daf0ca",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Auvergne-Rhône-Alpes",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Isère",
-                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6969-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "CamionTM"
-            },
-            "wrs": 3,
-            "duration": 183
-        },
-        {
-            "user": {
-                "id": "2dd1e832-8f25-44c1-8189-ff28d7388806",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bayern",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Nürnberg",
-                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "esu-LX"
-            },
-            "wrs": 3,
-            "duration": 14
         },
         {
             "user": {
@@ -1154,6 +1119,41 @@
             },
             "wrs": 2,
             "duration": 1
+        },
+        {
+            "user": {
+                "id": "49965c7b-d71c-467d-99c7-ff4092daf0ca",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Auvergne-Rhône-Alpes",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Isère",
+                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6969-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "CamionTM"
+            },
+            "wrs": 2,
+            "duration": 182
         },
         {
             "user": {
@@ -3725,7 +3725,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 87
+            "wrs": 88
         },
         {
             "zone": [
@@ -3745,7 +3745,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 74
+            "wrs": 73
         },
         {
             "zone": [
@@ -4327,7 +4327,7 @@
                 "name": "Erizel"
             },
             "wrs": 111,
-            "duration": 406
+            "duration": 407
         },
         {
             "user": {
@@ -5022,7 +5022,7 @@
                 "name": "CamionTM"
             },
             "wrs": 31,
-            "duration": 513
+            "duration": 514
         },
         {
             "user": {
@@ -5061,6 +5061,41 @@
         },
         {
             "user": {
+                "id": "2dd1e832-8f25-44c1-8189-ff28d7388806",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Bayern",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nürnberg",
+                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "esu-LX"
+            },
+            "wrs": 28,
+            "duration": 226
+        },
+        {
+            "user": {
                 "id": "b05db0f8-d845-47d2-b0e5-795717038ac6",
                 "zone": [
                     {
@@ -5093,41 +5128,6 @@
             },
             "wrs": 28,
             "duration": 47
-        },
-        {
-            "user": {
-                "id": "2dd1e832-8f25-44c1-8189-ff28d7388806",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Bayern",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Nürnberg",
-                        "parentId": "301ff9a2-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ffccb-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "esu-LX"
-            },
-            "wrs": 27,
-            "duration": 226
         },
         {
             "user": {
@@ -17459,7 +17459,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 719
+            "wrs": 720
         },
         {
             "zone": [
