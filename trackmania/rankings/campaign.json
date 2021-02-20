@@ -267,6 +267,41 @@
         },
         {
             "user": {
+                "id": "49965c7b-d71c-467d-99c7-ff4092daf0ca",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Auvergne-Rhône-Alpes",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Isère",
+                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6969-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "CamionTM"
+            },
+            "wrs": 3,
+            "duration": 183
+        },
+        {
+            "user": {
                 "id": "2dd1e832-8f25-44c1-8189-ff28d7388806",
                 "zone": [
                     {
@@ -297,7 +332,7 @@
                 ],
                 "name": "esu-LX"
             },
-            "wrs": 4,
+            "wrs": 3,
             "duration": 14
         },
         {
@@ -437,41 +472,6 @@
         },
         {
             "user": {
-                "id": "49965c7b-d71c-467d-99c7-ff4092daf0ca",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Auvergne-Rhône-Alpes",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Isère",
-                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6969-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "CamionTM"
-            },
-            "wrs": 2,
-            "duration": 183
-        },
-        {
-            "user": {
                 "id": "d320a237-1b0a-4069-af83-f2c09fbf042e",
                 "zone": [
                     {
@@ -528,7 +528,7 @@
                 "name": "Faulty-Brain"
             },
             "wrs": 1,
-            "duration": 32
+            "duration": 33
         },
         {
             "user": {
@@ -1063,7 +1063,7 @@
                 "name": "lilpoker96"
             },
             "wrs": 1,
-            "duration": 159
+            "duration": 160
         },
         {
             "user": {
@@ -1505,7 +1505,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 25
+            "wrs": 26
         },
         {
             "zone": [
@@ -1525,7 +1525,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 18
+            "wrs": 17
         },
         {
             "zone": [
@@ -2186,7 +2186,7 @@
                 ],
                 "name": "CamionTM"
             },
-            "wrs": 31,
+            "wrs": 32,
             "duration": 514
         },
         {
@@ -5512,7 +5512,7 @@
                 "name": "Faulty-Brain"
             },
             "wrs": 2,
-            "duration": 32
+            "duration": 33
         },
         {
             "user": {
@@ -8617,7 +8617,7 @@
                 ]
             },
             "wrs": 1,
-            "duration": 159
+            "duration": 160
         },
         {
             "user": {
@@ -9989,7 +9989,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 398
+            "wrs": 399
         },
         {
             "zone": [
