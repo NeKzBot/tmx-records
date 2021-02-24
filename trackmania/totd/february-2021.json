@@ -8196,7 +8196,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "955b28c6-cd59-4796-8060-128c66128b9f",
+                        "id": "347e8fe9-4c6f-46c3-a0c6-a8ba9133f4a7",
                         "zone": [
                             {
                                 "name": "World",
@@ -8209,23 +8209,23 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Switzerland",
+                                "name": "Portugal",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Vaud",
-                                "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Norte",
+                                "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "302240ae-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "Thomas_Jean"
+                        "name": "Arieug0n"
                     },
-                    "date": "2021-02-24T18:40:38+00:00",
-                    "replay": "514d2e7f-af4f-4dbe-8d21-0c84f3406ffd",
+                    "date": "2021-02-24T18:59:04+00:00",
+                    "replay": "a6daec72-cc51-40a3-9404-f8087ef7a40a",
                     "duration": 0,
-                    "score": 43075,
-                    "delta": 167
+                    "score": 42992,
+                    "delta": 83
                 }
             ],
             "isOfficial": false,
@@ -8376,13 +8376,46 @@
                     "duration": 0,
                     "score": 43075,
                     "delta": 167
+                },
+                {
+                    "user": {
+                        "id": "347e8fe9-4c6f-46c3-a0c6-a8ba9133f4a7",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Portugal",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Norte",
+                                "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "302240ae-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "Arieug0n"
+                    },
+                    "date": "2021-02-24T18:59:04+00:00",
+                    "replay": "a6daec72-cc51-40a3-9404-f8087ef7a40a",
+                    "duration": 0,
+                    "score": 42992,
+                    "delta": 83
                 }
             ],
             "thumbnail": "877edf9c-23e5-46a5-86e1-ad94eb203148"
         }
     ],
     "stats": {
-        "totalTime": 997662
+        "totalTime": 997579
     },
     "leaderboard": [
         {
@@ -8482,7 +8515,7 @@
                 ],
                 "name": "Arieug0n"
             },
-            "wrs": 2,
+            "wrs": 3,
             "duration": 0
         },
         {
@@ -8929,36 +8962,6 @@
             },
             "wrs": 1,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "955b28c6-cd59-4796-8060-128c66128b9f",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Switzerland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Vaud",
-                        "parentId": "30228733-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30229617-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Thomas_Jean"
-            },
-            "wrs": 1,
-            "duration": 0
         }
     ],
     "countryLeaderboard": [
@@ -9020,7 +9023,7 @@
                     "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 3
+            "wrs": 4
         },
         {
             "zone": [
@@ -9118,26 +9121,6 @@
                     "name": "Spain",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30225b07-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Switzerland",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -9426,6 +9409,36 @@
         },
         {
             "user": {
+                "id": "347e8fe9-4c6f-46c3-a0c6-a8ba9133f4a7",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Portugal",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norte",
+                        "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302240ae-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Arieug0n"
+            },
+            "wrs": 5,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "65341b56-1625-4df2-8fb4-ad7145c03c34",
                 "zone": [
                     {
@@ -9625,36 +9638,6 @@
                     }
                 ],
                 "name": "TakeMeToClutch."
-            },
-            "wrs": 4,
-            "duration": 0
-        },
-        {
-            "user": {
-                "id": "347e8fe9-4c6f-46c3-a0c6-a8ba9133f4a7",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Portugal",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norte",
-                        "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302240ae-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Arieug0n"
             },
             "wrs": 4,
             "duration": 0
@@ -11874,7 +11857,7 @@
                     "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 13
+            "wrs": 14
         },
         {
             "zone": [
@@ -12550,6 +12533,35 @@
         },
         {
             "user": {
+                "id": "347e8fe9-4c6f-46c3-a0c6-a8ba9133f4a7",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Portugal",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Norte",
+                        "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "302240ae-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Arieug0n"
+            },
+            "wrs": 3
+        },
+        {
+            "user": {
                 "id": "65341b56-1625-4df2-8fb4-ad7145c03c34",
                 "zone": [
                     {
@@ -12748,35 +12760,6 @@
                     }
                 ],
                 "name": "GuzuConTilde"
-            },
-            "wrs": 2
-        },
-        {
-            "user": {
-                "id": "347e8fe9-4c6f-46c3-a0c6-a8ba9133f4a7",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Portugal",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norte",
-                        "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302240ae-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Arieug0n"
             },
             "wrs": 2
         },
@@ -14885,7 +14868,7 @@
                     "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 8
+            "wrs": 9
         },
         {
             "zone": [
