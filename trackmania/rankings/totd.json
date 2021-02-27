@@ -512,7 +512,7 @@
         },
         {
             "user": {
-                "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
+                "id": "f40e1f49-5948-45dc-9778-2f80a44a476a",
                 "zone": [
                     {
                         "name": "World",
@@ -525,20 +525,25 @@
                         "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Italy",
+                        "name": "France",
                         "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "Emilia-Romagna",
-                        "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Auvergne-Rhône-Alpes",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Rhône",
+                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f75d1-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "DubbyTM"
+                "name": "solo23."
             },
             "wrs": 4,
-            "duration": 9
+            "duration": 24
         },
         {
             "user": {
@@ -662,41 +667,6 @@
         },
         {
             "user": {
-                "id": "f40e1f49-5948-45dc-9778-2f80a44a476a",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Auvergne-Rhône-Alpes",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Rhône",
-                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f75d1-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "solo23."
-            },
-            "wrs": 3,
-            "duration": 24
-        },
-        {
-            "user": {
                 "id": "f781e6ad-8a11-4093-a297-e48638d5fa1a",
                 "zone": [
                     {
@@ -784,6 +754,36 @@
             },
             "wrs": 3,
             "duration": 13
+        },
+        {
+            "user": {
+                "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Italy",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Emilia-Romagna",
+                        "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "DubbyTM"
+            },
+            "wrs": 3,
+            "duration": 9
         },
         {
             "user": {
@@ -2730,7 +2730,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 49
+            "wrs": 50
         },
         {
             "zone": [
@@ -2965,12 +2965,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Italy",
+                    "name": "Switzerland",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
+            "wrs": 3
         },
         {
             "zone": [
@@ -2985,9 +2985,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Switzerland",
+                    "name": "Italy",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30228733-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 3
@@ -3686,31 +3686,6 @@
         },
         {
             "user": {
-                "id": "a198e640-779a-47c0-97b5-9d38a351e7fa",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Croatia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "dacSP.Tekky"
-            },
-            "wrs": 27,
-            "duration": 15
-        },
-        {
-            "user": {
                 "id": "f40e1f49-5948-45dc-9778-2f80a44a476a",
                 "zone": [
                     {
@@ -3741,8 +3716,33 @@
                 ],
                 "name": "solo23."
             },
-            "wrs": 26,
+            "wrs": 27,
             "duration": 13
+        },
+        {
+            "user": {
+                "id": "a198e640-779a-47c0-97b5-9d38a351e7fa",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Croatia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f40ae-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "dacSP.Tekky"
+            },
+            "wrs": 27,
+            "duration": 15
         },
         {
             "user": {
@@ -11749,7 +11749,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 465
+            "wrs": 466
         },
         {
             "zone": [
@@ -12909,6 +12909,40 @@
         },
         {
             "user": {
+                "id": "f40e1f49-5948-45dc-9778-2f80a44a476a",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Auvergne-Rhône-Alpes",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Rhône",
+                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f75d1-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "solo23."
+            },
+            "wrs": 14
+        },
+        {
+            "user": {
                 "id": "a390b00c-96cd-4ddb-bfe0-373aeffae0db",
                 "zone": [
                     {
@@ -12940,40 +12974,6 @@
                 "name": "Numelops.Harry"
             },
             "wrs": 14
-        },
-        {
-            "user": {
-                "id": "f40e1f49-5948-45dc-9778-2f80a44a476a",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Auvergne-Rhône-Alpes",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Rhône",
-                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f75d1-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "solo23."
-            },
-            "wrs": 13
         },
         {
             "user": {
@@ -20700,7 +20700,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 285
+            "wrs": 286
         },
         {
             "zone": [
