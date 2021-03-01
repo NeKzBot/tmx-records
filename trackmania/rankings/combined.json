@@ -157,41 +157,6 @@
         },
         {
             "user": {
-                "id": "a6ae76c9-9030-4a7b-b533-cacfd6e85cb2",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "France",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Auvergne-Rhône-Alpes",
-                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Drôme",
-                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301f68d0-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "Shadow_Crancer"
-            },
-            "wrs": 10,
-            "duration": 58
-        },
-        {
-            "user": {
                 "id": "16ee3d8e-ee78-4e77-b787-48f2247f96c3",
                 "zone": [
                     {
@@ -279,6 +244,41 @@
             },
             "wrs": 9,
             "duration": 148
+        },
+        {
+            "user": {
+                "id": "a6ae76c9-9030-4a7b-b533-cacfd6e85cb2",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "France",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Auvergne-Rhône-Alpes",
+                        "parentId": "301f6188-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f6458-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Drôme",
+                        "parentId": "301f6458-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301f68d0-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "Shadow_Crancer"
+            },
+            "wrs": 9,
+            "duration": 58
         },
         {
             "user": {
@@ -558,7 +558,7 @@
                 "name": "Flechetas"
             },
             "wrs": 5,
-            "duration": 508
+            "duration": 509
         },
         {
             "user": {
@@ -1703,7 +1703,7 @@
                 "name": "trabadia"
             },
             "wrs": 1,
-            "duration": 232
+            "duration": 233
         },
         {
             "user": {
@@ -2364,6 +2364,36 @@
             },
             "wrs": 1,
             "duration": 10
+        },
+        {
+            "user": {
+                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "United States",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oregon",
+                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "shieldbandit"
+            },
+            "wrs": 1,
+            "duration": 0
         },
         {
             "user": {
@@ -3875,7 +3905,7 @@
                     "zoneId": "301f6188-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 75
+            "wrs": 74
         },
         {
             "zone": [
@@ -4210,6 +4240,26 @@
                     "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "United States",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 3
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "North America",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Canada",
                     "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
@@ -4256,26 +4306,6 @@
                 }
             ],
             "wrs": 3
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "North America",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "United States",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 2
         },
         {
             "zone": [
@@ -6737,7 +6767,7 @@
                 "name": "Flechetas"
             },
             "wrs": 10,
-            "duration": 786
+            "duration": 787
         },
         {
             "user": {
@@ -7641,6 +7671,36 @@
         },
         {
             "user": {
+                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "United States",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oregon",
+                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "shieldbandit"
+            },
+            "wrs": 6,
+            "duration": 15
+        },
+        {
+            "user": {
                 "id": "0691c70d-c69d-46a9-a209-6600d708b4bd",
                 "zone": [
                     {
@@ -8123,36 +8183,6 @@
             },
             "wrs": 5,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "North America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "United States",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oregon",
-                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "shieldbandit"
-            },
-            "wrs": 5,
-            "duration": 15
         },
         {
             "user": {
@@ -13442,7 +13472,7 @@
                 ]
             },
             "wrs": 1,
-            "duration": 232
+            "duration": 233
         },
         {
             "user": {
@@ -18334,7 +18364,7 @@
                     "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 43
+            "wrs": 44
         },
         {
             "zone": [
@@ -21616,6 +21646,35 @@
         },
         {
             "user": {
+                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "United States",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oregon",
+                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "shieldbandit"
+            },
+            "wrs": 4
+        },
+        {
+            "user": {
                 "id": "60b87855-7dda-44c3-844a-86da686ca103",
                 "zone": [
                     {
@@ -22290,35 +22349,6 @@
                     }
                 ],
                 "name": "TomsenTM"
-            },
-            "wrs": 3
-        },
-        {
-            "user": {
-                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "North America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "United States",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oregon",
-                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "shieldbandit"
             },
             "wrs": 3
         },
@@ -32307,7 +32337,7 @@
                     "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 24
+            "wrs": 25
         },
         {
             "zone": [
