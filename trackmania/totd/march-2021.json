@@ -1115,7 +1115,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "0def209a-944b-40ac-8dc8-989af08c8ef4",
+                        "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
                         "zone": [
                             {
                                 "name": "World",
@@ -1128,23 +1128,23 @@
                                 "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Portugal",
+                                "name": "Italy",
                                 "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Norte",
-                                "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "302240ae-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Emilia-Romagna",
+                                "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "PauLL.4W"
+                        "name": "DubbyTM"
                     },
-                    "date": "2021-03-05T11:49:30+00:00",
-                    "replay": "515f314e-a10f-42d7-90d5-72501870bab6",
+                    "date": "2021-03-05T15:33:20+00:00",
+                    "replay": "ef6b532f-fcca-49de-9039-ab2fdcacb636",
                     "duration": 0,
-                    "score": 38558,
-                    "delta": 26
+                    "score": 38534,
+                    "delta": 24
                 }
             ],
             "isOfficial": false,
@@ -1356,13 +1356,46 @@
                     "duration": 0,
                     "score": 38558,
                     "delta": 26
+                },
+                {
+                    "user": {
+                        "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Italy",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Emilia-Romagna",
+                                "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "DubbyTM"
+                    },
+                    "date": "2021-03-05T15:33:20+00:00",
+                    "replay": "ef6b532f-fcca-49de-9039-ab2fdcacb636",
+                    "duration": 0,
+                    "score": 38534,
+                    "delta": 24
                 }
             ],
             "thumbnail": "6af7b390-299e-4c66-a6e0-c412075899f1"
         }
     ],
     "stats": {
-        "totalTime": 172410
+        "totalTime": 172386
     },
     "leaderboard": [
         {
@@ -1392,7 +1425,7 @@
                 ],
                 "name": "DubbyTM"
             },
-            "wrs": 2,
+            "wrs": 3,
             "duration": 0
         },
         {
@@ -1424,36 +1457,6 @@
             },
             "wrs": 1,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "0def209a-944b-40ac-8dc8-989af08c8ef4",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Portugal",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Norte",
-                        "parentId": "3022328d-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "302240ae-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "PauLL.4W"
-            },
-            "wrs": 1,
-            "duration": 0
         }
     ],
     "countryLeaderboard": [
@@ -1475,7 +1478,7 @@
                     "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 2
+            "wrs": 3
         },
         {
             "zone": [
@@ -1493,26 +1496,6 @@
                     "name": "United States",
                     "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Portugal",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022328d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -1546,7 +1529,7 @@
                 ],
                 "name": "DubbyTM"
             },
-            "wrs": 11,
+            "wrs": 12,
             "duration": 0
         },
         {
@@ -2014,12 +1997,12 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Germany",
+                    "name": "Italy",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 11
+            "wrs": 12
         },
         {
             "zone": [
@@ -2034,9 +2017,9 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Italy",
+                    "name": "Germany",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 11
