@@ -37,36 +37,6 @@
         },
         {
             "user": {
-                "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Poland",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Dolnośląskie",
-                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020ad48-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "mime.."
-            },
-            "wrs": 15,
-            "duration": 182
-        },
-        {
-            "user": {
                 "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
                 "zone": [
                     {
@@ -97,8 +67,38 @@
                 ],
                 "name": "riolu-tm"
             },
-            "wrs": 14,
+            "wrs": 15,
             "duration": 53
+        },
+        {
+            "user": {
+                "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Poland",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Dolnośląskie",
+                        "parentId": "3020aa8e-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020ad48-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "mime.."
+            },
+            "wrs": 15,
+            "duration": 182
         },
         {
             "user": {
@@ -847,36 +847,6 @@
         },
         {
             "user": {
-                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "North America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "United States",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Oregon",
-                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "shieldbandit"
-            },
-            "wrs": 2,
-            "duration": 1
-        },
-        {
-            "user": {
                 "id": "531a9861-c024-4063-9b29-14601350b899",
                 "zone": [
                     {
@@ -1258,6 +1228,36 @@
                 "name": "sh0rty.de"
             },
             "wrs": 2,
+            "duration": 0
+        },
+        {
+            "user": {
+                "id": "98b7dfd7-6706-47f4-9b47-6362e9daf7a2",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "United States",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Oregon",
+                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ea33-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "shieldbandit"
+            },
+            "wrs": 1,
             "duration": 0
         },
         {
@@ -2775,7 +2775,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 72
+            "wrs": 73
         },
         {
             "zone": [
@@ -3045,26 +3045,6 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "North America",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "United States",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 3
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
                     "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
@@ -3096,6 +3076,26 @@
                 }
             ],
             "wrs": 3
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "North America",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "United States",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
         },
         {
             "zone": [
@@ -3396,6 +3396,41 @@
         },
         {
             "user": {
+                "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nordrhein-Westfalen",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Dortmund",
+                        "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30201200-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "riolu-tm"
+            },
+            "wrs": 53,
+            "duration": 1
+        },
+        {
+            "user": {
                 "id": "f40d3c02-135a-4c84-ad99-5e96f2431c41",
                 "zone": [
                     {
@@ -3427,41 +3462,6 @@
                 "name": "NeqzoTM"
             },
             "wrs": 53,
-            "duration": 1
-        },
-        {
-            "user": {
-                "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Nordrhein-Westfalen",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Dortmund",
-                        "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30201200-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "riolu-tm"
-            },
-            "wrs": 52,
             "duration": 1
         },
         {
@@ -12044,7 +12044,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 479
+            "wrs": 480
         },
         {
             "zone": [
@@ -12773,6 +12773,40 @@
         },
         {
             "user": {
+                "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Germany",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Nordrhein-Westfalen",
+                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Dortmund",
+                        "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "30201200-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "riolu-tm"
+            },
+            "wrs": 32
+        },
+        {
+            "user": {
                 "id": "dba55c7e-d5cd-40c0-a5e7-8e793fd295eb",
                 "zone": [
                     {
@@ -12804,40 +12838,6 @@
                 "name": "Gwen_TM"
             },
             "wrs": 32
-        },
-        {
-            "user": {
-                "id": "2ed0997d-62bc-4a53-8c09-ffb793382ea2",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Germany",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Nordrhein-Westfalen",
-                        "parentId": "301ff622-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30200d6a-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Dortmund",
-                        "parentId": "30200d6a-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "30201200-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "riolu-tm"
-            },
-            "wrs": 31
         },
         {
             "user": {
@@ -21238,7 +21238,7 @@
                     "zoneId": "301ff622-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 265
+            "wrs": 266
         },
         {
             "zone": [
