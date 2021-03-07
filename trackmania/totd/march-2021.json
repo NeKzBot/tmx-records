@@ -2148,7 +2148,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "eb231d39-d1a4-4a5e-8a26-066fe31e9b76",
+                        "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
                         "zone": [
                             {
                                 "name": "World",
@@ -2156,28 +2156,28 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "North America",
+                                "name": "Europe",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "United States",
-                                "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Italy",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Minnesota",
-                                "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "3022dac1-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Emilia-Romagna",
+                                "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "AR_Cybernetic"
+                        "name": "DubbyTM"
                     },
-                    "date": "2021-03-07T20:59:25+00:00",
-                    "replay": "f7931805-4abf-436d-8676-faa229bed6a9",
+                    "date": "2021-03-07T22:38:00+00:00",
+                    "replay": "66c4a1c6-598f-40d3-add2-3d9237e9223e",
                     "duration": 0,
-                    "score": 45281,
-                    "delta": 79
+                    "score": 45280,
+                    "delta": 1
                 }
             ],
             "isOfficial": false,
@@ -2356,13 +2356,46 @@
                     "duration": 0,
                     "score": 45281,
                     "delta": 79
+                },
+                {
+                    "user": {
+                        "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Europe",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Italy",
+                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Emilia-Romagna",
+                                "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "DubbyTM"
+                    },
+                    "date": "2021-03-07T22:38:00+00:00",
+                    "replay": "66c4a1c6-598f-40d3-add2-3d9237e9223e",
+                    "duration": 0,
+                    "score": 45280,
+                    "delta": 1
                 }
             ],
             "thumbnail": "ef5d6009-a99f-41da-8d2c-fdb84c64e900"
         }
     ],
     "stats": {
-        "totalTime": 304627
+        "totalTime": 304626
     },
     "leaderboard": [
         {
@@ -2392,7 +2425,7 @@
                 ],
                 "name": "DubbyTM"
             },
-            "wrs": 3,
+            "wrs": 4,
             "duration": 0
         },
         {
@@ -2459,36 +2492,6 @@
             },
             "wrs": 1,
             "duration": 0
-        },
-        {
-            "user": {
-                "id": "eb231d39-d1a4-4a5e-8a26-066fe31e9b76",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "North America",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "United States",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Minnesota",
-                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022dac1-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ],
-                "name": "AR_Cybernetic"
-            },
-            "wrs": 1,
-            "duration": 0
         }
     ],
     "countryLeaderboard": [
@@ -2510,27 +2513,7 @@
                     "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 3
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "North America",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "United States",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 2
+            "wrs": 4
         },
         {
             "zone": [
@@ -2551,6 +2534,26 @@
                 }
             ],
             "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "North America",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "United States",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
         }
     ],
     "historyLeaderboard": [
@@ -2581,7 +2584,7 @@
                 ],
                 "name": "DubbyTM"
             },
-            "wrs": 13,
+            "wrs": 14,
             "duration": 0
         },
         {
@@ -3469,7 +3472,7 @@
                     "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 13
+            "wrs": 14
         },
         {
             "zone": [
@@ -3660,7 +3663,7 @@
                 ],
                 "name": "DubbyTM"
             },
-            "wrs": 4
+            "wrs": 5
         },
         {
             "user": {
@@ -4541,7 +4544,7 @@
                     "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
+            "wrs": 5
         },
         {
             "zone": [
