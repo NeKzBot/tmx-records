@@ -2397,7 +2397,7 @@
         },
         {
             "user": {
-                "id": "eb231d39-d1a4-4a5e-8a26-066fe31e9b76",
+                "id": "ca1d5313-1683-405d-b5b3-14c6fd54969c",
                 "zone": [
                     {
                         "name": "World",
@@ -2405,22 +2405,17 @@
                         "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "North America",
+                        "name": "Europe",
                         "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "United States",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Minnesota",
-                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022dac1-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Latvia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "AR_Cybernetic"
+                "name": "AR_TK"
             },
             "wrs": 1,
             "duration": 0
@@ -4265,17 +4260,17 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "North America",
+                    "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "United States",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "Finland",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
+            "wrs": 3
         },
         {
             "zone": [
@@ -4285,14 +4280,14 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Europe",
+                    "name": "North America",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "Finland",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301f60f6-7e13-11e8-8060-e284abfd2bc4"
+                    "name": "United States",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 3
@@ -4413,6 +4408,26 @@
                     "name": "Bosnia and Herzegovina",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e6414-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Latvia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -11561,6 +11576,31 @@
         },
         {
             "user": {
+                "id": "ca1d5313-1683-405d-b5b3-14c6fd54969c",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Latvia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_TK"
+            },
+            "wrs": 2,
+            "duration": 6
+        },
+        {
+            "user": {
                 "id": "b3bb28c2-bbd1-4c4c-a316-939128df4d8b",
                 "zone": [
                     {
@@ -14713,31 +14753,6 @@
             },
             "wrs": 1,
             "duration": 49
-        },
-        {
-            "user": {
-                "id": "ca1d5313-1683-405d-b5b3-14c6fd54969c",
-                "name": "AR_TK",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Latvia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ]
-            },
-            "wrs": 1,
-            "duration": 6
         },
         {
             "user": {
@@ -19014,6 +19029,26 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Latvia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Africa",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
@@ -19122,26 +19157,6 @@
                     "name": "Tuvalu",
                     "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30229f46-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Latvia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1
@@ -24204,6 +24219,30 @@
         },
         {
             "user": {
+                "id": "ca1d5313-1683-405d-b5b3-14c6fd54969c",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Latvia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_TK"
+            },
+            "wrs": 2
+        },
+        {
+            "user": {
                 "id": "abdc0576-fae7-4b31-96dc-539b8cda095f",
                 "zone": [
                     {
@@ -28630,30 +28669,6 @@
                     }
                 ],
                 "name": "Danio_TM"
-            },
-            "wrs": 1
-        },
-        {
-            "user": {
-                "id": "ca1d5313-1683-405d-b5b3-14c6fd54969c",
-                "name": "AR_TK",
-                "zone": [
-                    {
-                        "name": "World",
-                        "parentId": null,
-                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Europe",
-                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Latvia",
-                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
-                    }
-                ]
             },
             "wrs": 1
         },
@@ -33268,6 +33283,26 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Latvia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Africa",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e1f9b-7e13-11e8-8060-e284abfd2bc4"
@@ -33376,26 +33411,6 @@
                     "name": "Tuvalu",
                     "parentId": "301e237a-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30229f46-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Europe",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "Latvia",
-                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
             "wrs": 1

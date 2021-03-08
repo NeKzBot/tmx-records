@@ -1262,7 +1262,7 @@
         },
         {
             "user": {
-                "id": "eb231d39-d1a4-4a5e-8a26-066fe31e9b76",
+                "id": "ca1d5313-1683-405d-b5b3-14c6fd54969c",
                 "zone": [
                     {
                         "name": "World",
@@ -1270,22 +1270,17 @@
                         "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "North America",
+                        "name": "Europe",
                         "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                     },
                     {
-                        "name": "United States",
-                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                    },
-                    {
-                        "name": "Minnesota",
-                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
-                        "zoneId": "3022dac1-7e13-11e8-8060-e284abfd2bc4"
+                        "name": "Latvia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
                     }
                 ],
-                "name": "AR_Cybernetic"
+                "name": "AR_TK"
             },
             "wrs": 1,
             "duration": 0
@@ -3075,26 +3070,6 @@
                     "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
-                    "name": "North America",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "United States",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 3
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
                     "name": "Europe",
                     "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
@@ -3140,6 +3115,26 @@
                     "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "United States",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "North America",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Canada",
                     "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "301e6dd7-7e13-11e8-8060-e284abfd2bc4"
@@ -3166,6 +3161,26 @@
                 }
             ],
             "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Latvia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
         },
         {
             "zone": [
@@ -8041,6 +8056,31 @@
         },
         {
             "user": {
+                "id": "ca1d5313-1683-405d-b5b3-14c6fd54969c",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Latvia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_TK"
+            },
+            "wrs": 1,
+            "duration": 0
+        },
+        {
+            "user": {
                 "id": "c367a4eb-78b0-4767-97e2-6b21c7e0ca01",
                 "zone": [
                     {
@@ -12819,6 +12859,26 @@
                     "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
                 },
                 {
+                    "name": "Latvia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
                     "name": "Monaco",
                     "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
                     "zoneId": "30208f8b-7e13-11e8-8060-e284abfd2bc4"
@@ -16846,6 +16906,30 @@
                     }
                 ],
                 "name": "AR_Cybernetic"
+            },
+            "wrs": 1
+        },
+        {
+            "user": {
+                "id": "ca1d5313-1683-405d-b5b3-14c6fd54969c",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Europe",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Latvia",
+                        "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_TK"
             },
             "wrs": 1
         },
@@ -22085,6 +22169,26 @@
                 }
             ],
             "wrs": 2
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Europe",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "Latvia",
+                    "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3020818d-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 1
         },
         {
             "zone": [
