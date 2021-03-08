@@ -2148,7 +2148,7 @@
             "wrs": [
                 {
                     "user": {
-                        "id": "acb625b9-26c4-4344-a5b0-5bc3ddbc8708",
+                        "id": "eb231d39-d1a4-4a5e-8a26-066fe31e9b76",
                         "zone": [
                             {
                                 "name": "World",
@@ -2156,28 +2156,28 @@
                                 "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Europe",
+                                "name": "North America",
                                 "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "301e2106-7e13-11e8-8060-e284abfd2bc4"
+                                "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Italy",
-                                "parentId": "301e2106-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "United States",
+                                "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
                             },
                             {
-                                "name": "Emilia-Romagna",
-                                "parentId": "30205cc4-7e13-11e8-8060-e284abfd2bc4",
-                                "zoneId": "30206543-7e13-11e8-8060-e284abfd2bc4"
+                                "name": "Minnesota",
+                                "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "3022dac1-7e13-11e8-8060-e284abfd2bc4"
                             }
                         ],
-                        "name": "DubbyTM"
+                        "name": "AR_Cybernetic"
                     },
-                    "date": "2021-03-07T22:38:00+00:00",
-                    "replay": "66c4a1c6-598f-40d3-add2-3d9237e9223e",
+                    "date": "2021-03-08T02:53:26+00:00",
+                    "replay": "23389166-cc91-423c-8d78-0bc7c7231fd4",
                     "duration": 0,
-                    "score": 45280,
-                    "delta": 1
+                    "score": 45278,
+                    "delta": 2
                 }
             ],
             "isOfficial": false,
@@ -2389,13 +2389,46 @@
                     "duration": 0,
                     "score": 45280,
                     "delta": 1
+                },
+                {
+                    "user": {
+                        "id": "eb231d39-d1a4-4a5e-8a26-066fe31e9b76",
+                        "zone": [
+                            {
+                                "name": "World",
+                                "parentId": null,
+                                "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "North America",
+                                "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "United States",
+                                "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                            },
+                            {
+                                "name": "Minnesota",
+                                "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+                                "zoneId": "3022dac1-7e13-11e8-8060-e284abfd2bc4"
+                            }
+                        ],
+                        "name": "AR_Cybernetic"
+                    },
+                    "date": "2021-03-08T02:53:26+00:00",
+                    "replay": "23389166-cc91-423c-8d78-0bc7c7231fd4",
+                    "duration": 0,
+                    "score": 45278,
+                    "delta": 2
                 }
             ],
             "thumbnail": "ef5d6009-a99f-41da-8d2c-fdb84c64e900"
         }
     ],
     "stats": {
-        "totalTime": 304626
+        "totalTime": 304624
     },
     "leaderboard": [
         {
@@ -2425,7 +2458,7 @@
                 ],
                 "name": "DubbyTM"
             },
-            "wrs": 4,
+            "wrs": 3,
             "duration": 0
         },
         {
@@ -2492,6 +2525,36 @@
             },
             "wrs": 1,
             "duration": 0
+        },
+        {
+            "user": {
+                "id": "eb231d39-d1a4-4a5e-8a26-066fe31e9b76",
+                "zone": [
+                    {
+                        "name": "World",
+                        "parentId": null,
+                        "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "North America",
+                        "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "United States",
+                        "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                    },
+                    {
+                        "name": "Minnesota",
+                        "parentId": "3022ab53-7e13-11e8-8060-e284abfd2bc4",
+                        "zoneId": "3022dac1-7e13-11e8-8060-e284abfd2bc4"
+                    }
+                ],
+                "name": "AR_Cybernetic"
+            },
+            "wrs": 1,
+            "duration": 0
         }
     ],
     "countryLeaderboard": [
@@ -2513,7 +2576,27 @@
                     "zoneId": "30205cc4-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 4
+            "wrs": 3
+        },
+        {
+            "zone": [
+                {
+                    "name": "World",
+                    "parentId": null,
+                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "North America",
+                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
+                },
+                {
+                    "name": "United States",
+                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
+                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
+                }
+            ],
+            "wrs": 2
         },
         {
             "zone": [
@@ -2534,26 +2617,6 @@
                 }
             ],
             "wrs": 2
-        },
-        {
-            "zone": [
-                {
-                    "name": "World",
-                    "parentId": null,
-                    "zoneId": "301e1b69-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "North America",
-                    "parentId": "301e1b69-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "301e2274-7e13-11e8-8060-e284abfd2bc4"
-                },
-                {
-                    "name": "United States",
-                    "parentId": "301e2274-7e13-11e8-8060-e284abfd2bc4",
-                    "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
-                }
-            ],
-            "wrs": 1
         }
     ],
     "historyLeaderboard": [
@@ -2739,7 +2802,7 @@
                 ],
                 "name": "AR_Cybernetic"
             },
-            "wrs": 2,
+            "wrs": 3,
             "duration": 0
         },
         {
@@ -3492,7 +3555,7 @@
                     "zoneId": "3022ab53-7e13-11e8-8060-e284abfd2bc4"
                 }
             ],
-            "wrs": 9
+            "wrs": 10
         },
         {
             "zone": [
